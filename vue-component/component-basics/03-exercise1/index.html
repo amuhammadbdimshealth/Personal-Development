@@ -1,0 +1,89 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
+</head>
+
+<body>
+
+    <div id="app" class="ui container">
+        <h1>GitHub Profiles</h1>
+        <github-user-card username="hootlex"></github-user-card>
+
+        
+    </div>
+
+    <!-- Import Vue.js and axios -->
+    <!-- <script src="https://unpkg.com/vue"></script> -->
+    <script src="https://unpkg.com/vue@2"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+
+    <!-- Your JavaScript Code :) -->
+    <script type="text/x-template" id="github-user-card">
+        <!-- Template for GitHub card -->
+        <div class="ui card">
+            <div class="image">
+                <img :src="userImageUrl">
+            </div>
+            <div class="content">
+                <a class="header" :href='userProfileUrl'>{{userName}}</a>
+                <div class="meta">
+                    <span class="date">{{userJoiningDate}}</span>
+                </div>
+                <div class="description">
+                    {{userDescription}}
+                </div>
+            </div>
+            <div class="extra content">
+                <a :href='userFollowersUrl'>
+                    <i class="user icon"></i>
+                    {{userFriends}} Friends
+                </a>
+            </div>
+        </div>  
+    </script>
+
+    <script>
+        let userProfileCardComponent = Vue.component('github-user-card', {
+            template: '#github-user-card',
+            props: ["username"],
+            created() {
+                axios.get(`https://api.github.com/users/${this.username}`)
+                .then(function (response) {
+                    // handle success
+                    const userData = response.data                    
+                    console.log(userData)
+
+                    this.userImageUrl = userData.avatar_url
+                    this.userName = userData.name
+                    this.userProfileUrl = userData.html_url
+                    this.userDescription = userData.bio
+                    this.userJoiningDate = new Date(userData.created_at)
+                    this.userFriends = userData.followers
+                    this.userFollowersUrl = userData.followers_url
+
+
+                }.bind(this))
+                .catch(function (error) {
+                    // handle error
+                    console.log(error);
+                })
+            },
+            data: function () {
+                return {
+                    userImageUrl: '',
+                    userName: '',
+                    userJoiningDate: '',
+                    userDescription: '',
+                    userFollowersUrl: ''
+                }
+            } 
+        })
+        new Vue({
+            el: '#app'
+        })
+    </script>
+</body>
+
+</html>

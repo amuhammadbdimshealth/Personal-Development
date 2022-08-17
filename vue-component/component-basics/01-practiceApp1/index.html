@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vue Component</title>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script> -->
+    <script src="./vue.js"></script>
+</head>
+<body>
+    
+    <div id="hello-component">    
+        
+        <h3>Base Example</h3><hr>        
+        <button-counter></button-counter>
+        <button-counter></button-counter>
+        <button-counter></button-counter>
+
+        <h3>Passing Data to Child Components with Props</h3><hr>
+        <div :style="{fontSize: postFontSize + 'em'}">
+            <blog-post 
+                v-for="post in posts"
+                :key="post.id"
+                :post="post" 
+                @enlarge-text="postFontSize += $event"
+                @reduce-text="reduceTextParent"
+            ></blog-post>
+        </div>
+
+        <h3>Listening to Child Components Events</h3><hr>
+        <input type="text" name="search" id="search" v-model="searchText">
+        <!-- same as  -->
+        <input 
+        type="text" name="search" id="search"
+        :value="searchText"
+        @input="updateTextModel"            
+        >
+        <custom-input 
+            :value="searchText"
+            @input-custom="searchText = $event"
+        ></custom-input>        
+        
+        <h3>Content Distribution with Slots</h3><hr>
+        <alert-box>
+            <p>Sometihng went wrong</p>
+            <p>Please check with admin</p>
+        </alert-box>
+    </div>     
+    <script src="main.js"></script>
+</body>
+</html>
