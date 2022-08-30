@@ -7,6 +7,7 @@ const same = function (arr1, arr2) {
     const dict1 = {}
     const dict2 = {}
     for (let key in arr1) {
+        key
         let e1  = arr1[key]
         let e2  = arr2[key] 
 
@@ -24,15 +25,17 @@ const same = function (arr1, arr2) {
         }
     }    
     
-    for (let key in dict1) {
-        dict1
+    for (let key in dict1) {        
         const prop = dict1[key].squared
         if (!(prop in dict2 && dict2[prop].count === dict1[key].count)) return false 
-        return true
     }    
+    return true
 }
 const res1 = same ([1,2,3,1], [4,1,9,1])
 const res2 = same ([1,2,3], [1,9])
 const res3 = same ([1,2,1], [4,4,1])
 
 console.log(res1, res2, res3);
+res1
+res2
+res3
