@@ -1,0 +1,172 @@
+- [▶]  WesBos Js Beginner Course :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
+    - [✔]  Module #5: Events        
+        - [✔]  Events - Event Listener 
+            - [✔]  Watch the video
+            - [✔]  Play with the Code
+        - [✔]  Events - targets, bubbling, propagation and capture
+            - [✔]  Watch the video
+            - [✔]  Play with the Code
+        - [✔]  Events - Prevent Default and Form Events
+            - [✔]  Watch the video
+            - [✔]  Play with the Code
+        - [✔]  Events - Accesibility Gotchas and Keyboard Codes
+            - [✔]  Watch the video
+            - [✔]  Play with the Code
+        - [▶]  Etch-a-Sketch
+            - [✔]  Watch the video
+            - [▶]  Play with the Code
+                - [ ]  index.html
+                - [ ]  etch-a-sketch.js
+                
+- [▶] W3Chools Js Tutorial - https://www.w3schools.com/js/
+    - [▶] JS Tutorial 
+        - [✔] JS Events
+        - [✔]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
+        - [✔]  JS Array Methods
+        - [✔]  JS Array Sort
+        - [✔]  JS Array Iteration
+        - [✔]  JS Array Const
+        - [✔]  JS Dates 
+        - [✔]  JS Date Formats 
+        - [✔]  JS Date Get Methods
+        - [✔]  JS Date Set Methods
+        - [✔]  JS Loop For
+        - [✔]  JS Loop For In
+        - [✔]  JS Loop For Of
+        - [✔]  JS Loop While
+        - [✔]  JS Break
+        - [✔]  JS Iterables
+        - [🕐]  JS Maps
+        - [✔]  JS Typeof
+        - [🕐]  JS Type Conversion
+        - [✔]  JS RegExp
+        - [✔]  JS Errors   
+        - [✔]  JS Scope 
+        - [🕐]  JS Hoisting
+        - [🕐]  JS Sctrict Mode
+        - [✔]  JS this Keyword 
+        - [✔]  JS Arrow Function
+        - [✔]  JS Classes - https://www.w3schools.com/js/js_classes.asp
+        - [✔]  JS Modules 
+        - [🕐]  JS JSON 
+        - [🕐]  JS Debugging 
+        - [✔]  JS Style Guide - https://www.w3schools.com/js/js_conventions.asp
+        - [✔]  JS Best Practices - https://www.w3schools.com/js/js_best_practices.asp
+        - [🕐]  JS Mistakes 
+        - [🕐]  JS Performance
+        - [🕐]  JS Reserved Words
+    - [ ]  JS Versions
+        - [✔] ES5
+            - [✔] JavaScript Object Accessors 
+                - https://www.w3schools.com/js/js_object_accessors.asp  
+            - [✔] Object.defineProperty()
+            - [✔] Function Bind()
+        - [✔] ES6
+            - [✔] The let keyword
+            - [✔] The const keyword
+            - [✔] Arrow Functions
+            - [✔] For/of
+            - [✔] Map Objects 
+            - [✔] Set Objects
+            - [✔] *Classes*
+            - [✔] *Promises*                  
+            - [✔] Symbol
+            - [✔] Default Parameters
+            - [✔] Function Rest Parameter
+            - [✔] String.includes()
+            - [✔] String.startsWith()
+            - [✔] String.endsWith()
+            - [✔] Array.from()
+            - [✔] Array keys()
+            - [✔] Array find()
+            - [✔] Array findIndex()
+            - [✔] New Math Methods
+            - [✔] New Number Properties
+            - [✔] New Number Methods
+            - [✔] New Global Methods
+            - [✔] Object entries
+            - [✔] JavaScript Modules
+        - [✔] JS 2016
+        - [✔] JS 2017
+            - [✔] JavaScript String padding
+            - [✔] JavaScript Object.entries
+            - [✔] JavaScript Object.values
+            - [✔] JavaScript async functions            
+        - [✔] JS 2018        
+            - [✔] Asynchronous Iteration
+            - [✔] Promise Finally
+            - [✔] Object Rest Properties
+            - [✔] New RegExp Features
+        - [ ] JS Objects
+            - [✔] Object Definitions 
+            - [✔] Object Properties 
+            - [✔] Object Methods
+            - [✔] Object Display
+            - [✔] Object Accessors
+            - [✔] Object Constructors
+            - [✔] Object Prototype
+            - [✔] Object Iterables
+            - [✔] Object Sets
+            - [✔] Object Maps
+            - [✔] Object reference
+        - [ ] JS Functions
+            - [ ]  
+            - [ ]  
+            - [ ]  
+        - [ ] JS Classes
+        - [ ] JS Async
+        - [ ] JS HTML DOM
+        - [ ] JS Browser BOM
+        - [ ] JS Web APIs
+        - [ ] JS Ajax
+        - [ ] JS JSON
+        - [ ] JS vs JQUERY
+        - [ ] JS Graphics
+        - [ ] JS Examples
+- [ ] Review Links
+    - [ ] https://www.youtube.com/watch?v=O9AALzeSnto - 1 Year of Learning Web Development (Self Taught)
+    - [ ] https://cs50.harvard.edu/college/2022/spring/weeks/8/ - This was CS50 Harvard College
+    - [ ] https://www.freecodecamp.org/learn/2022/responsive-web-design/ - freecodecamp
+    - [ ] https://www.theodinproject.com/
+- [ ] VueJs Course 
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]  
+- [ ] Css Course 
+    - [ ]  
+    - [ ]  
+    - [ ]  
+- [ ] Algorithm Course
+    - [✔] Introduction
+    - [▶] Big O Notation
+        - [✔] Intro to Big O  
+        - [✔] Timing Our code             
+        - [▶] Counting Operation 
+        - [ ] 
+        - [ ]  
+- [ ] SQL Course
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]  
+- [ ] Node Js Course
+- [ ] Python Course 
+    - [🔗]  Link Youtube: https://www.youtube.com/watch?v=_uQrJ0TkZlc
+    - [🔗]  Link Youtube: https://youtu.be/kqtD5dpn9C8?t=2701
+    - [🔗]  Link W3Schools: https://www.w3schools.com/python/default.asp
+    - [🔗]  Why : PPMS Python test cases
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]  
+- [ ] Ag-grid
+    - [🔗] Documentation 
+        - https://www.ag-grid.com/
+    - [ ] How to add buttons in ag-Grid cells
+        - https://blog.ag-grid.com/cell-renderers-in-ag-grid-every-different-flavour/#vuejs
+    - [ ] Getting Started with JavaScript Data Grid using ag-Grid
+        - [ ] Link Youtube : https://www.youtube.com/watch?v=KS-wg5zfCXc&t=261s
