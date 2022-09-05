@@ -97,7 +97,7 @@
             - [✔] Promise Finally
             - [✔] Object Rest Properties
             - [✔] New RegExp Features
-        - [ ] JS Objects
+        - [✔] JS Objects
             - [✔] Object Definitions 
             - [✔] Object Properties 
             - [✔] Object Methods
@@ -109,10 +109,14 @@
             - [✔] Object Sets
             - [✔] Object Maps
             - [✔] Object reference
-        - [ ] JS Functions
-            - [ ]  
-            - [ ]  
-            - [ ]  
+        - [▶] JS Functions
+            - [✔] Function Definitions
+            - [✔] Function Parameters
+            - [ ] Function Invocation 
+            - [ ] Function Call 
+            - [ ] Function Apply 
+            - [ ] Function Bind 
+            - [ ] Function Closures     
         - [ ] JS Classes
         - [ ] JS Async
         - [ ] JS HTML DOM
