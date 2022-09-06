@@ -19,7 +19,7 @@
                 - [ ]  etch-a-sketch.js
                 
 - [▶] W3Chools Js Tutorial - https://www.w3schools.com/js/
-    - [▶] JS Tutorial 
+    - [🕐] JS Tutorial 
         - [✔] JS Events
         - [✔]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
         - [✔]  JS Array Methods
@@ -55,7 +55,7 @@
         - [🕐]  JS Mistakes 
         - [🕐]  JS Performance
         - [🕐]  JS Reserved Words
-    - [ ]  JS Versions
+    - [✔]  JS Versions
         - [✔] ES5
             - [✔] JavaScript Object Accessors 
                 - https://www.w3schools.com/js/js_object_accessors.asp  
@@ -97,36 +97,36 @@
             - [✔] Promise Finally
             - [✔] Object Rest Properties
             - [✔] New RegExp Features
-        - [✔] JS Objects
-            - [✔] Object Definitions 
-            - [✔] Object Properties 
-            - [✔] Object Methods
-            - [✔] Object Display
-            - [✔] Object Accessors
-            - [✔] Object Constructors
-            - [✔] Object Prototype
-            - [✔] Object Iterables
-            - [✔] Object Sets
-            - [✔] Object Maps
-            - [✔] Object reference
-        - [▶] JS Functions
-            - [✔] Function Definitions
-            - [✔] Function Parameters
-            - [ ] Function Invocation 
-            - [ ] Function Call 
-            - [ ] Function Apply 
-            - [ ] Function Bind 
-            - [ ] Function Closures     
-        - [ ] JS Classes
-        - [ ] JS Async
-        - [ ] JS HTML DOM
-        - [ ] JS Browser BOM
-        - [ ] JS Web APIs
-        - [ ] JS Ajax
-        - [ ] JS JSON
-        - [ ] JS vs JQUERY
-        - [ ] JS Graphics
-        - [ ] JS Examples
+    - [✔] JS Objects
+        - [✔] Object Definitions 
+        - [✔] Object Properties 
+        - [✔] Object Methods
+        - [✔] Object Display
+        - [✔] Object Accessors
+        - [✔] Object Constructors
+        - [✔] Object Prototype
+        - [✔] Object Iterables
+        - [✔] Object Sets
+        - [✔] Object Maps
+        - [✔] Object reference
+    - [▶] JS Functions
+        - [✔] Function Definitions
+        - [✔] Function Parameters
+        - [✔] Function Invocation 
+        - [ ] Function Call 
+        - [ ] Function Apply 
+        - [ ] Function Bind 
+        - [ ] Function Closures     
+    - [ ] JS Classes
+    - [ ] JS Async
+    - [ ] JS HTML DOM
+    - [ ] JS Browser BOM
+    - [ ] JS Web APIs
+    - [ ] JS Ajax
+    - [ ] JS JSON
+    - [ ] JS vs JQUERY
+    - [ ] JS Graphics
+    - [ ] JS Examples
 - [ ] Review Links
     - [ ] https://www.youtube.com/watch?v=O9AALzeSnto - 1 Year of Learning Web Development (Self Taught)
     - [ ] https://cs50.harvard.edu/college/2022/spring/weeks/8/ - This was CS50 Harvard College
