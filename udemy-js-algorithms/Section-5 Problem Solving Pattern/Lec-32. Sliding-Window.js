@@ -6,7 +6,7 @@ const maxSubarraySum = function (list, n) {
     const len = list.length;
     let windowSum = 0;
     let max = -Infinity;     
-    if (len == 0) return null;
+    if (len < n) return null;
     
     for (let index in list) {        
         index = parseInt(index)
