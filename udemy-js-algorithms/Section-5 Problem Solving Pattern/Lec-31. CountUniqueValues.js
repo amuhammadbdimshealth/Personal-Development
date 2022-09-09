@@ -29,7 +29,7 @@ const countUniqueValues2 = function (list) {
     let i = 0
     let j = 1
     if (list.length == 0) return 0
-    if (list.length == 1) return 1
+    if (list.length == 1) return 1    
     while (j < list.length) {
         if(list[i] != list[j]) {            
             list[++i] = list[j]
@@ -45,9 +45,9 @@ const res3 = countUniqueValues([]) // 0
 const res4 = countUniqueValues([-2,-1,-1,0,1]) // 4
 
 const res5 = countUniqueValues2([1,1,1,1,1,2,-2]) // 2
-const res6 = countUniqueValues2([1,2,3,4,4,4,7,7,12,12,13]) // 7
-const res7 = countUniqueValues2([]) // 0
-const res8 = countUniqueValues2([-2,-1,-1,0,1]) // 4
+// const res6 = countUniqueValues2([1,2,3,4,4,4,7,7,12,12,13]) // 7
+// const res7 = countUniqueValues2([]) // 0
+// const res8 = countUniqueValues2([-2,-1,-1,0,1]) // 4
 
 res1
 res2
@@ -55,6 +55,6 @@ res3
 res4
 
 res5
-res6
-res7
-res8
+// res6
+// res7
+// res8
