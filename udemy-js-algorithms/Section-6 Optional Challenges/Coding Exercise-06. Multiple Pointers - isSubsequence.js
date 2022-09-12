@@ -15,28 +15,33 @@ Time Complexity - O(N + M)
 Space Complexity - O(1)
 */
 
+// Thinking the logic (ams) :
+// initialize the pointers to the beginning of the strings
+// iterate the matchStr    
+// move to next char in searchStr only if current char in searchStr matches with current char in matchStr, and continue matching 
+// if you reach the matchStr End point before searchStr ends, return false (outside the while loop)
+
 const isSubsequence = function (searchStr, matchStr) {
-    searchStr
-    matchStr
-    for (let i in matchStr) {
-        let subStr = ''        
-        for (let j in searchStr) {
-            // for each i check the next j chars 
-            const k = (+j) + (+i)                        
-            subStr += matchStr[k]
+    let pointerSearchStr = 0;
+    let pointerMatchStr = 0;
+    while (pointerMatchStr <= matchStr.length - 1) {               
+        if (searchStr[pointerSearchStr] == matchStr[pointerMatchStr]) {                 
+            pointerSearchStr++;            
+        }        
+        if (pointerSearchStr == searchStr.length) {
+            return true
         }
-        subStr
-        searchStr
-        if (subStr == searchStr) return true
+        pointerMatchStr++;
     }
-    return false
+    return false;
 
 }
 const res1 = isSubsequence('hello', 'hello world'); // true
-// TODO: consider this input. The subSequence need not occur in consecutive order.
 const res2 = isSubsequence('sing', 'sting'); // true
 const res3 = isSubsequence('abc', 'abracadabra'); // true
 const res4 = isSubsequence('abc', 'acb'); // false (order matters)
 
 res1 
 res2
+res3
+res4
