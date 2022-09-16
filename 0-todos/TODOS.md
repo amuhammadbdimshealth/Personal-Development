@@ -18,7 +18,7 @@
                 - [ ]  index.html
                 - [ ]  etch-a-sketch.js
                 
-- [▶] W3Chools Js Tutorial - https://www.w3schools.com/js/
+- [▶] W3Schools Js Tutorial
     - [🕐] JS Tutorial 
         - [✔] JS Events
         - [✔]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
@@ -113,9 +113,9 @@
         - [✔] Function Definitions
         - [✔] Function Parameters
         - [✔] Function Invocation 
-        - [ ] Function Call 
-        - [ ] Function Apply 
-        - [ ] Function Bind 
+        - [✔] Function Call 
+        - [✔] Function Apply 
+        - [✔] Function Bind 
         - [ ] Function Closures     
     - [ ] JS Classes
     - [ ] JS Async
@@ -141,7 +141,7 @@
     - [ ]  
     - [ ]  
     - [ ]  
-- [ ] Algorithm Course
+- [▶] Algorithm Course
     - [✔] Introduction
     - [▶] Big O Notation
         - [✔] Intro to Big O  
@@ -174,3 +174,8 @@
         - https://blog.ag-grid.com/cell-renderers-in-ag-grid-every-different-flavour/#vuejs
     - [ ] Getting Started with JavaScript Data Grid using ag-Grid
         - [ ] Link Youtube : https://www.youtube.com/watch?v=KS-wg5zfCXc&t=261s
+- [▶] Odin Project 
+    - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
+    - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
+    - [▶] https://www.theodinproject.com/lessons/foundations-computer-basics
+
