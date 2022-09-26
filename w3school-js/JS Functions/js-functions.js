@@ -56,3 +56,17 @@ var person = {
 }
 var display = person.display.bind(person)
 setTimeout(display, 3000);
+
+
+// Closures
+const add = (function () {
+    let counter = 0;
+    return function () { counter += 1; return counter; }
+})();
+
+var c = add()
+c
+c = add()
+c
+c = add()
+c

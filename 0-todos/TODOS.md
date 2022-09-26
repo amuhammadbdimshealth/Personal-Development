@@ -116,7 +116,7 @@
         - [✔] Function Call 
         - [✔] Function Apply 
         - [✔] Function Bind 
-        - [ ] Function Closures     
+        - [✔] Function Closures     
     - [ ] JS Classes
     - [ ] JS Async
     - [ ] JS HTML DOM
@@ -177,5 +177,11 @@
 - [▶] Odin Project 
     - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
     - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
-    - [▶] https://www.theodinproject.com/lessons/foundations-computer-basics
-
+    - [✔] https://www.theodinproject.com/lessons/foundations-computer-basics
+    - [▶] https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
+        - [✔] Watch this BBC short for an overview of how the internet works.
+        - [✔] Read this article from Mozilla on “How does the Internet work?”.
+        - [▶] Watch How the Internet Works in 5 Minutes.
+        - [ ] Read up on the differences between a web page, a web server, and a search engine.
+        - [ ] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
+        - [ ] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
