@@ -79,20 +79,57 @@ const findLongestSubstring = function (string) {
         
         windowEndIndex++;
     }
-    return longestSubString.len;
+    return longestSubString;
+}
+
+// findLongestSubstring Solution
+const findLongestSubstringSoln = function (str) {       
+    let longest = 0;
+    let seen = {};
+    let start = 0;
+
+    for (let i = 0; i < str.length; i++) {
+        i
+        
+        let char = str[i];                
+        char
+
+        seen
+        if (seen[char]) {
+            start = Math.max(start, seen[char]);
+            start
+        }
+        // index - beginning of substring + 1 (to include current in count)
+        longest = Math.max(longest, i - start + 1);        
+        longest
+        
+        // store the index of the next char so as to not double count
+        seen[char] = i + 1;        
+        const sc = seen[char]         
+    }
+    return longest;
 }
 
 const res1 = findLongestSubstring('') // 0
 const res2 = findLongestSubstring('rithmschool') // 7
 const res3 = findLongestSubstring('thisisawesome') // 6
 const res4 = findLongestSubstring('thecatinthehat') // 7
-// const res4 = findLongestSubstring('thecat') // 7
 const res5 = findLongestSubstring('bbbbbb') // 1
 const res6 = findLongestSubstring('longestsubstring') // 8
 const res7 = findLongestSubstring('thisishowwedoit') // 6
 
-res1
+// const res1 = findLongestSubstringSoln('') // 0
+const res2Soln = findLongestSubstringSoln('rithmschool') // 7
+// const res3 = findLongestSubstringSoln('thisisawesome') // 6
+// const res4 = findLongestSubstringSoln('thecatinthehat') // 7
+// const res5 = findLongestSubstringSoln('bbbbbb') // 1
+// const res6 = findLongestSubstringSoln('longestsubstring') // 8
+// const res7 = findLongestSubstringSoln('thisishowwedoit') // 6
+
+res2Soln
 res2
+
+res1
 res3
 res4
 res5
