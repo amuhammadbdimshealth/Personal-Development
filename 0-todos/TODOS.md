@@ -97,36 +97,40 @@
             - [✔] Promise Finally
             - [✔] Object Rest Properties
             - [✔] New RegExp Features
-    - [✔] JS Objects
-        - [✔] Object Definitions 
-        - [✔] Object Properties 
-        - [✔] Object Methods
-        - [✔] Object Display
-        - [✔] Object Accessors
-        - [✔] Object Constructors
-        - [✔] Object Prototype
-        - [✔] Object Iterables
-        - [✔] Object Sets
-        - [✔] Object Maps
-        - [✔] Object reference
-    - [▶] JS Functions
-        - [✔] Function Definitions
-        - [✔] Function Parameters
-        - [✔] Function Invocation 
-        - [✔] Function Call 
-        - [✔] Function Apply 
-        - [✔] Function Bind 
-        - [✔] Function Closures     
-    - [ ] JS Classes
-    - [ ] JS Async
-    - [ ] JS HTML DOM
-    - [ ] JS Browser BOM
-    - [ ] JS Web APIs
-    - [ ] JS Ajax
-    - [ ] JS JSON
-    - [ ] JS vs JQUERY
-    - [ ] JS Graphics
-    - [ ] JS Examples
+    - [▶] Detailed Topics 
+        - [✔] JS Objects
+            - [✔] Object Definitions 
+            - [✔] Object Properties 
+            - [✔] Object Methods
+            - [✔] Object Display
+            - [✔] Object Accessors
+            - [✔] Object Constructors
+            - [✔] Object Prototype
+            - [✔] Object Iterables
+            - [✔] Object Sets
+            - [✔] Object Maps
+            - [✔] Object reference
+        - [▶] JS Functions
+            - [✔] Function Definitions
+            - [✔] Function Parameters
+            - [✔] Function Invocation 
+            - [✔] Function Call 
+            - [✔] Function Apply 
+            - [✔] Function Bind 
+            - [✔] Function Closures     
+        - [ ] JS Classes
+            - [✔] Intro 
+            - [✔] Inheritance
+            - [✔] Static
+        - [ ] JS Async
+        - [ ] JS HTML DOM
+        - [ ] JS Browser BOM
+        - [ ] JS Web APIs
+        - [ ] JS Ajax
+        - [ ] JS JSON
+        - [ ] JS vs JQUERY
+        - [ ] JS Graphics
+        - [ ] JS Examples
 - [ ] Review Links
     - [ ] https://www.youtube.com/watch?v=O9AALzeSnto - 1 Year of Learning Web Development (Self Taught)
     - [ ] https://cs50.harvard.edu/college/2022/spring/weeks/8/ - This was CS50 Harvard College
@@ -178,10 +182,14 @@
     - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
     - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
     - [✔] https://www.theodinproject.com/lessons/foundations-computer-basics
-    - [▶] https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
+    - [✔] https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
         - [✔] Watch this BBC short for an overview of how the internet works.
         - [✔] Read this article from Mozilla on “How does the Internet work?”.
-        - [▶] Watch How the Internet Works in 5 Minutes.
-        - [ ] Read up on the differences between a web page, a web server, and a search engine.
-        - [ ] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
-        - [ ] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
+        - [✔] Watch How the Internet Works in 5 Minutes.
+        - [✔] Read up on the differences between a web page, a web server, and a search engine.
+        - [✔] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
+        - [✔] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
+    - [✔] https://www.theodinproject.com/lessons/foundations-installation-overview
+    - [▶] https://www.theodinproject.com/lessons/foundations-installations
+        - [▶] Step 2: Install VirtualBox and set up Xubuntu
+        - [ ] Step 3: Install and Enable Guest Additions
