@@ -153,6 +153,13 @@
         - [▶] Counting Operation 
         - [ ] 
         - [ ]  
+- [ ] LeetCode-problem solving
+    - 100 Like Problems - https://leetcode.com/problem-list/top-100-liked-questions/ 
+    - Videos
+        - MY ULTIMATE LEETCODE TRICKS - https://www.youtube.com/watch?v=p_9t8uhXQdk 
+    - [ ] 
+    - [ ] 
+    - [ ] 
 - [ ] SQL Course
     - [ ]  
     - [ ]  
