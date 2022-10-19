@@ -123,6 +123,10 @@
             - [✔] Inheritance
             - [✔] Static
         - [ ] JS Async
+            - [✔] Callbacks
+            - [✔] Asynchronous 
+            - [ ] Promises
+            - [ ] Async/Await
         - [ ] JS HTML DOM
         - [ ] JS Browser BOM
         - [ ] JS Web APIs
