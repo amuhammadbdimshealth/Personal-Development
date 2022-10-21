@@ -1,3 +1,5 @@
+// (see  index.html)
+
 // Waiting for Intervals:
 setInterval(myFunction, 1000);
 
@@ -37,12 +39,12 @@ function getFile(myCallback) {
 
     // alternative with fetchAPI
     fetch('mycar.html')
-        .then((response) => {            
+        .then((response) => {
             console.log(response);
-            return response.text()            
-        })        
+            return response.text()
+        })
         .then(html => {
-            myCallback(html + '<span> (from FetchAPI) </span>' ,"demo2");
+            myCallback(html + '<span> (from FetchAPI) </span>', "demo2");
         })
         .catch(err => {
             myCallback("Error: " + req.status, "demo2");
@@ -50,4 +52,4 @@ function getFile(myCallback) {
 
 }
 
-getFile(myDisplayer); 
+getFile(myDisplayer);
