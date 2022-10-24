@@ -147,9 +147,13 @@
         - [✔] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
         - [✔] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
     - [✔] https://www.theodinproject.com/lessons/foundations-installation-overview
-    - [▶] https://www.theodinproject.com/lessons/foundations-installations
-        - [▶] Step 2: Install VirtualBox and set up Xubuntu
-        - [ ] Step 3: Install and Enable Guest Additions
+    - [🕐] https://www.theodinproject.com/lessons/foundations-installations
+        - [✔] Step 2: Install VirtualBox and set up Xubuntu
+        - [🕐] Step 3: Install and Enable Guest Additions
+        - [🕐] Step 4: Understand Your New VM
+        - [🕐] Step 5: Safely shutting down your VM
+        - [🕐] Google Chrome Installation 
+    - [ ] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
 - [▶] Algorithm Course
     - [✔] Introduction
     - [▶] Big O Notation
