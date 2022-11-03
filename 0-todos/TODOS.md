@@ -127,6 +127,8 @@
             - [✔] Asynchronous 
             - [✔] Promises
             - [✔] Async/Await
+            - [✔] Additional resources: 
+                - [✔] https://javascript.info/async-await#async-functions
         - [ ] JS HTML DOM
         - [ ] JS Browser BOM
         - [ ] JS Web APIs
