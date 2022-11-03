@@ -9,7 +9,8 @@ e.g.,
 
 
 function factorial(num) {
-    if (num == 1) return 1 
+    if (num < 0 ) return 0;
+    if (num <= 1) return 1 
     return num * factorial(--num)
 }
 
@@ -17,9 +18,13 @@ const res1 = factorial(1) // 1
 const res2 = factorial(2) // 2
 const res3 = factorial(4) // 24
 const res4 = factorial(7) // 5040
+const res5 = factorial(0) // 1
+const res6 = factorial(-4) // 0
 
 
 res1
 res2
 res3
 res4
+res5
+res6
