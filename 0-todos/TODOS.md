@@ -172,12 +172,18 @@
     - [ ] 
     - [ ]         
 - [ ] SQL Course
-    - [ ]  
-    - [ ]  
-    - [ ]  
-    - [ ]  
-    - [ ]  
-    - [ ]  
+    - [ ] Learning
+        - [✔] THROW
+        - [✔] TRY-CATCH 
+        - [✔] BEGIN TRANSACTION 
+        - [✔] COMMIT TRANSACTION 
+        - [✔] ROLLBACK TRANSACTION 
+        - [✔] XACT_STATE
+        - [✔] XACT_ABORT
+        - [✔] @@TRANCOUNT
+    - [ ] SQL Course
+        - [ ]  
+        - [ ]  
 - [ ] VueJs Course 
     - [ ]  
     - [ ]  
