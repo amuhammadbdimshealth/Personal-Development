@@ -159,7 +159,8 @@
     - [▶] Command Line Basics - https://www.theodinproject.com/lessons/foundations-command-line-basics
         - [▶] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
             - [▶] Exploring Other Directories
-                - [▶] Other Hidden Files
+                - [✔] Other Hidden Files
+                - [▶] Two More Shortcuts
 - [▶] Algorithm Course
     - [✔] Introduction
     - [▶] Big O Notation
