@@ -156,6 +156,10 @@
         - [🕐] Step 5: Safely shutting down your VM
         - [🕐] Google Chrome Installation 
     - [ ] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
+    - [▶] Command Line Basics - https://www.theodinproject.com/lessons/foundations-command-line-basics
+        - [▶] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
+            - [▶] Exploring Other Directories
+                - [▶] Other Hidden Files
 - [▶] Algorithm Course
     - [✔] Introduction
     - [▶] Big O Notation
