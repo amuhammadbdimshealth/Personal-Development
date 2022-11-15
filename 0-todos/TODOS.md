@@ -1,4 +1,4 @@
-- [▶]  WesBos Js Beginner Course :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
+- [▶]  **WesBos Js Beginner Course** :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
     - [✔]  Module #5: Events        
         - [✔]  Events - Event Listener 
             - [✔]  Watch the video
@@ -18,7 +18,7 @@
                 - [ ]  index.html
                 - [ ]  etch-a-sketch.js
                 
-- [▶] W3Schools Js Tutorial
+- [▶] **W3Schools Js Tutorial**
     - [🕐] JS Tutorial 
         - [✔] JS Events
         - [✔]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
@@ -137,7 +137,7 @@
         - [ ] JS vs JQUERY
         - [ ] JS Graphics
         - [ ] JS Examples
-- [▶] Odin Project 
+- [▶] **Odin Project** 
     - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
     - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
     - [✔] https://www.theodinproject.com/lessons/foundations-computer-basics
@@ -155,13 +155,20 @@
         - [🕐] Step 4: Understand Your New VM
         - [🕐] Step 5: Safely shutting down your VM
         - [🕐] Google Chrome Installation 
-    - [ ] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
-    - [▶] Command Line Basics - https://www.theodinproject.com/lessons/foundations-command-line-basics
+    - [🕐] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
+    - [▶] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
         - [▶] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
             - [▶] Exploring Other Directories
                 - [✔] Other Hidden Files
-                - [▶] Two More Shortcuts
-- [▶] Algorithm Course
+                - [✔] Two More Shortcuts
+                - [✔] General Syntax of a Shell Command
+            - [✔] Key Points
+            - [▶] Working With Files and Directories 
+                - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+                - [✔] Creating files and directories
+                - [▶] Moving files and directories
+                    - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+- [▶] **Algorithm Course**
     - [✔] Introduction
     - [▶] Big O Notation
         - [✔] Intro to Big O  
@@ -169,14 +176,14 @@
         - [▶] Counting Operation 
         - [ ] 
         - [ ]  
-- [ ] LeetCode-problem solving
+- [ ] **LeetCode-problem solving**
     - 100 Like Problems - https://leetcode.com/problem-list/top-100-liked-questions/ 
     - Videos
         - MY ULTIMATE LEETCODE TRICKS - https://www.youtube.com/watch?v=p_9t8uhXQdk 
     - [ ] 
     - [ ] 
     - [ ]         
-- [ ] SQL Course
+- [ ] **SQL Course**
     - [ ] Learning
         - [✔] THROW
         - [✔] TRY-CATCH 
@@ -189,22 +196,22 @@
     - [ ] SQL Course
         - [ ]  
         - [ ]  
-- [ ] VueJs Course 
+- [ ] **VueJs Course** 
     - [ ]  
     - [ ]  
     - [ ]  
     - [ ]      
-- [ ] Css Course 
+- [ ] **Css Course** 
     - [ ]  
     - [ ]  
     - [ ]  
-- [ ] Review Links
+- [ ] **Review Links**
     - [ ] https://www.youtube.com/watch?v=O9AALzeSnto - 1 Year of Learning Web Development (Self Taught)
     - [ ] https://cs50.harvard.edu/college/2022/spring/weeks/8/ - This was CS50 Harvard College
     - [ ] https://www.freecodecamp.org/learn/2022/responsive-web-design/ - freecodecamp
     - [ ] https://www.theodinproject.com/
-- [ ] Node Js Course
-- [ ] Python Course 
+- [ ] **Node Js Course**
+- [ ] **Python Course** 
     - [🔗]  Link Youtube: https://www.youtube.com/watch?v=_uQrJ0TkZlc
     - [🔗]  Link Youtube: https://youtu.be/kqtD5dpn9C8?t=2701
     - [🔗]  Link W3Schools: https://www.w3schools.com/python/default.asp
@@ -214,14 +221,14 @@
     - [ ]  
     - [ ]  
     - [ ]  
-- [ ] Ag-grid
+- [ ] **Ag-grid**
     - [🔗] Documentation 
         - https://www.ag-grid.com/
     - [ ] How to add buttons in ag-Grid cells
         - https://blog.ag-grid.com/cell-renderers-in-ag-grid-every-different-flavour/#vuejs
     - [ ] Getting Started with JavaScript Data Grid using ag-Grid
         - [ ] Link Youtube : https://www.youtube.com/watch?v=KS-wg5zfCXc&t=261s
-- [ ] Project (Vue, Node, Sql Server, Tailwind)
+- [ ] **Project (Vue, Node, Sql Server, Tailwind)**
     - [ ] 
     - [ ] 
     - [ ] 
