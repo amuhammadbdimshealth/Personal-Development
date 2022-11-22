@@ -118,11 +118,11 @@
             - [✔] Function Apply 
             - [✔] Function Bind 
             - [✔] Function Closures     
-        - [ ] JS Classes
+        - [✔] JS Classes
             - [✔] Intro 
             - [✔] Inheritance
             - [✔] Static
-        - [ ] JS Async
+        - [✔] JS Async
             - [✔] Callbacks
             - [✔] Asynchronous 
             - [✔] Promises
@@ -130,13 +130,95 @@
             - [✔] Additional resources: 
                 - [✔] https://javascript.info/async-await#async-functions
         - [ ] JS HTML DOM
+            - [✔] DOM Intro
+            - [✔] DOM Methods
+            - [✔] DOM Document
+            - [ ] DOM Elements
+            - [ ] DOM HTML
+            - [ ] DOM Forms
+            - [ ] DOM CSS
+            - [ ] DOM Animations
+            - [ ] DOM Events
+            - [ ] DOM Event Listener
+            - [ ] DOM Navigation
+            - [ ] DOM Nodes
+            - [ ] DOM Collections
+            - [ ] DOM Node Lists
+
         - [ ] JS Browser BOM
+            - [ ] JS Window
+            - [ ] JS Screen
+            - [ ] JS Location
+            - [ ] JS History
+            - [ ] JS Navigator
+            - [ ] JS Popup Alert
+            - [ ] JS Timing
+            - [ ] JS Cookies
+
         - [ ] JS Web APIs
-        - [ ] JS Ajax
+            - [ ] Web API Intro
+            - [ ] Web Forms API
+            - [ ] Web History API
+            - [ ] Web Storage API
+            - [ ] Web Worker API
+            - [ ] Web Fetch API
+            - [ ] Web Geolocation API
+
+        - [ ] JS AJAX
+            - [ ] AJAX Intro
+            - [ ] AJAX XMLHttp
+            - [ ] AJAX Request
+            - [ ] AJAX Response
+            - [ ] AJAX XML File
+            - [ ] AJAX PHP
+            - [ ] AJAX ASP
+            - [ ] AJAX Database
+            - [ ] AJAX Applications
+            - [ ] AJAX Examples
+
         - [ ] JS JSON
-        - [ ] JS vs JQUERY
+            - [ ] JSON Intro
+            - [ ] JSON Syntax
+            - [ ] JSON vs XML
+            - [ ] JSON Data Types
+            - [ ] JSON Parse
+            - [ ] JSON Stringify
+            - [ ] JSON Objects
+            - [ ] JSON Arrays
+            - [ ] JSON Server
+            - [ ] JSON PHP
+            - [ ] JSON HTML
+            - [ ] JSON JSONP
+
+        - [ ] JS vs jQuery
+            - [ ] jQuery Selectors
+            - [ ] jQuery HTML
+            - [ ] jQuery CSS
+            - [ ] jQuery DOM
+
         - [ ] JS Graphics
+            - [ ] JS Graphics
+            - [ ] JS Canvas
+            - [ ] JS Plotly
+            - [ ] JS Chart.js
+            - [ ] JS Google Chart
+            - [ ] JS D3.js
+
         - [ ] JS Examples
+            - [ ] JS Examples
+            - [ ] JS HTML DOM
+            - [ ] JS HTML Input
+            - [ ] JS HTML Objects
+            - [ ] JS HTML Events
+            - [ ] JS Browser
+            - [ ] JS Editor
+            - [ ] JS Exercises
+            - [ ] JS Quiz
+            - [ ] JS Certificate
+
+        - [ ] JS References
+            - [ ] JavaScript Objects
+            - [ ] HTML DOM Objects
 - [▶] **Odin Project** 
     - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
     - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
@@ -210,7 +292,12 @@
     - [ ] https://cs50.harvard.edu/college/2022/spring/weeks/8/ - This was CS50 Harvard College
     - [ ] https://www.freecodecamp.org/learn/2022/responsive-web-design/ - freecodecamp
     - [ ] https://www.theodinproject.com/
-- [ ] **Node Js Course**
+- [ ] **Node Js**
+    - [ ] Node Js Course (Udemy)
+        - traversy
+        - academind
+    - [ ] Youtube Course (FreeCodeCamp) 
+        - https://www.youtube.com/watch?v=Oe421EPjeBE
 - [ ] **Python Course** 
     - [🔗]  Link Youtube: https://www.youtube.com/watch?v=_uQrJ0TkZlc
     - [🔗]  Link Youtube: https://youtu.be/kqtD5dpn9C8?t=2701
