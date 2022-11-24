@@ -133,9 +133,9 @@
             - [✔] DOM Intro
             - [✔] DOM Methods
             - [✔] DOM Document
-            - [ ] DOM Elements
-            - [ ] DOM HTML
-            - [ ] DOM Forms
+            - [✔] DOM Elements
+            - [✔] DOM HTML
+            - [✔] DOM Forms
             - [ ] DOM CSS
             - [ ] DOM Animations
             - [ ] DOM Events
