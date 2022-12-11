@@ -1,3 +1,4 @@
+# WesBos Js Beginner Course
 - [▶]  **WesBos Js Beginner Course** :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
     - [✔]  Module #5: Events        
         - [✔]  Events - Event Listener 
@@ -17,7 +18,7 @@
             - [▶]  Play with the Code
                 - [ ]  index.html
                 - [ ]  etch-a-sketch.js
-                
+# W3Schools Js Tutorial                
 - [▶] **W3Schools Js Tutorial**
     - [🕐] JS Tutorial 
         - [✔] JS Events
@@ -136,9 +137,9 @@
             - [✔] DOM Elements
             - [✔] DOM HTML
             - [✔] DOM Forms
-            - [ ] DOM CSS
-            - [ ] DOM Animations
-            - [ ] DOM Events
+            - [✔] DOM CSS
+            - [✔] DOM Animations
+            - [▶] DOM Events
             - [ ] DOM Event Listener
             - [ ] DOM Navigation
             - [ ] DOM Nodes
@@ -219,6 +220,7 @@
         - [ ] JS References
             - [ ] JavaScript Objects
             - [ ] HTML DOM Objects
+# Odin Project*
 - [▶] **Odin Project** 
     - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
     - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
@@ -250,6 +252,7 @@
                 - [✔] Creating files and directories
                 - [▶] Moving files and directories
                     - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+# Algorithm Course
 - [▶] **Algorithm Course**
     - [✔] Introduction
     - [▶] Big O Notation
@@ -258,6 +261,7 @@
         - [▶] Counting Operation 
         - [ ] 
         - [ ]  
+# LeetCode-problem solving
 - [ ] **LeetCode-problem solving**
     - 100 Like Problems - https://leetcode.com/problem-list/top-100-liked-questions/ 
     - Videos
@@ -265,6 +269,7 @@
     - [ ] 
     - [ ] 
     - [ ]         
+# SQL Course
 - [ ] **SQL Course**
     - [ ] Learning
         - [✔] THROW
@@ -278,26 +283,31 @@
     - [ ] SQL Course
         - [ ]  
         - [ ]  
+# VueJs Course*
 - [ ] **VueJs Course** 
     - [ ]  
     - [ ]  
     - [ ]  
     - [ ]      
+# Css Course*
 - [ ] **Css Course** 
     - [ ]  
     - [ ]  
     - [ ]  
+# Review Links
 - [ ] **Review Links**
     - [ ] https://www.youtube.com/watch?v=O9AALzeSnto - 1 Year of Learning Web Development (Self Taught)
     - [ ] https://cs50.harvard.edu/college/2022/spring/weeks/8/ - This was CS50 Harvard College
     - [ ] https://www.freecodecamp.org/learn/2022/responsive-web-design/ - freecodecamp
     - [ ] https://www.theodinproject.com/
+# Node Js
 - [ ] **Node Js**
     - [ ] Node Js Course (Udemy)
         - traversy
         - academind
     - [ ] Youtube Course (FreeCodeCamp) 
         - https://www.youtube.com/watch?v=Oe421EPjeBE
+# Python Course*
 - [ ] **Python Course** 
     - [🔗]  Link Youtube: https://www.youtube.com/watch?v=_uQrJ0TkZlc
     - [🔗]  Link Youtube: https://youtu.be/kqtD5dpn9C8?t=2701
@@ -308,6 +318,7 @@
     - [ ]  
     - [ ]  
     - [ ]  
+# Ag-grid
 - [ ] **Ag-grid**
     - [🔗] Documentation 
         - https://www.ag-grid.com/
@@ -315,6 +326,7 @@
         - https://blog.ag-grid.com/cell-renderers-in-ag-grid-every-different-flavour/#vuejs
     - [ ] Getting Started with JavaScript Data Grid using ag-Grid
         - [ ] Link Youtube : https://www.youtube.com/watch?v=KS-wg5zfCXc&t=261s
+# Project (Vue, Node, Sql Server, Tailwind)
 - [ ] **Project (Vue, Node, Sql Server, Tailwind)**
     - [ ] 
     - [ ] 
