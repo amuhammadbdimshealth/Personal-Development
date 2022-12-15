@@ -241,17 +241,19 @@
         - [🕐] Google Chrome Installation 
     - [🕐] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
     - [▶] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
-        - [▶] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
-            - [▶] Exploring Other Directories
+        - [✔] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
+            - [✔] Exploring Other Directories
                 - [✔] Other Hidden Files
                 - [✔] Two More Shortcuts
                 - [✔] General Syntax of a Shell Command
             - [✔] Key Points
-            - [▶] Working With Files and Directories 
+        - [▶] Working With Files and Directories 
+            - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+            - [✔] Creating files and directories
+            - [✔] Moving files and directories
                 - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-                - [✔] Creating files and directories
-                - [▶] Moving files and directories
-                    - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+            - [▶] Removing files and directories
+                - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
 # Algorithm Course
 - [▶] **Algorithm Course**
     - [✔] Introduction

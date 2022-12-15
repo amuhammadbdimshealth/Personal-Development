@@ -1,0 +1,7 @@
+Hi Arif 
+I hope you are doing well
+
+This is the reason for wanting to learn Unix command line
+This is a good skill to have as a software developer
+
+Since most of the servers are using this operating system due to this flexibility and security and light weightedness and speed
