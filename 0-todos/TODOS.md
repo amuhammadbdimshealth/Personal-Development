@@ -140,9 +140,9 @@
             - [✔] DOM CSS
             - [✔] DOM Animations
             - [✔] DOM Events
-            - [▶] DOM Event Listener
-            - [ ] DOM Navigation
-            - [ ] DOM Nodes
+            - [✔] DOM Event Listener
+            - [✔] DOM Navigation
+            - [▶] DOM Nodes
             - [ ] DOM Collections
             - [ ] DOM Node Lists
 
