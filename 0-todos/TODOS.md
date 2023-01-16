@@ -139,8 +139,8 @@
             - [✔] DOM Forms
             - [✔] DOM CSS
             - [✔] DOM Animations
-            - [▶] DOM Events
-            - [ ] DOM Event Listener
+            - [✔] DOM Events
+            - [▶] DOM Event Listener
             - [ ] DOM Navigation
             - [ ] DOM Nodes
             - [ ] DOM Collections
@@ -241,19 +241,22 @@
         - [🕐] Google Chrome Installation 
     - [🕐] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
     - [▶] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
-        - [✔] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
-            - [✔] Exploring Other Directories
-                - [✔] Other Hidden Files
-                - [✔] Two More Shortcuts
-                - [✔] General Syntax of a Shell Command
-            - [✔] Key Points
-        - [▶] Working With Files and Directories 
-            - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-            - [✔] Creating files and directories
-            - [✔] Moving files and directories
+        - [ ] The Unix Shell - https://swcarpentry.github.io/shell-novice/
+            - [✔] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
+                - [✔] Exploring Other Directories
+                    - [✔] Other Hidden Files
+                    - [✔] Two More Shortcuts
+                    - [✔] General Syntax of a Shell Command
+                - [✔] Key Points
+            - [▶] Working With Files and Directories 
                 - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-            - [▶] Removing files and directories
-                - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
+                - [✔] Creating files and directories
+                - [✔] Moving files and directories
+                    - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+                - [✔] Removing files and directories
+                    - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
+                - [▶] - Pipes and Filters
+                    - https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
 # Algorithm Course
 - [▶] **Algorithm Course**
     - [✔] Introduction
@@ -338,3 +341,16 @@
     - [ ] 
     - [ ] 
     - [ ] 
+
+# AWS
+- [Free_Course]
+    - https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/
+        - Free code camp
+- [Article]
+    - 10 Best AWS Certifications for Beginners and Experienced in 2022
+        - https://medium.com/javarevisited/10-best-aws-certifications-to-aim-in-2022-713c37fac147
+
+# ChatGPT
+- https://dev.to/adriantwarog/ultimate-chatgpt-resource-guide-chatgpt-tutorial-dfe
+- https://www.youtube.com/watch?v=sTeoEFzVNSc
+- https://openai.com/blog/chatgpt/
