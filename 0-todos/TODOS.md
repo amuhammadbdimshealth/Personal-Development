@@ -130,7 +130,7 @@
             - [✔] Async/Await
             - [✔] Additional resources: 
                 - [✔] https://javascript.info/async-await#async-functions
-        - [ ] JS HTML DOM
+        - [✔] JS HTML DOM
             - [✔] DOM Intro
             - [✔] DOM Methods
             - [✔] DOM Document
@@ -142,14 +142,14 @@
             - [✔] DOM Events
             - [✔] DOM Event Listener
             - [✔] DOM Navigation
-            - [▶] DOM Nodes
-            - [ ] DOM Collections
-            - [ ] DOM Node Lists
+            - [✔] DOM Nodes
+            - [✔] DOM Collections
+            - [✔] DOM Node Lists
 
         - [ ] JS Browser BOM
-            - [ ] JS Window
-            - [ ] JS Screen
-            - [ ] JS Location
+            - [✔] JS Window
+            - [✔] JS Screen
+            - [✔] JS Location
             - [ ] JS History
             - [ ] JS Navigator
             - [ ] JS Popup Alert
