@@ -150,11 +150,11 @@
             - [✔] JS Window
             - [✔] JS Screen
             - [✔] JS Location
-            - [ ] JS History
-            - [ ] JS Navigator
-            - [ ] JS Popup Alert
-            - [ ] JS Timing
-            - [ ] JS Cookies
+            - [✔] JS History
+            - [✔] JS Navigator
+            - [✔] JS Popup Alert
+            - [✔] JS Timing
+            - [▶] JS Cookies
 
         - [ ] JS Web APIs
             - [ ] Web API Intro
@@ -258,7 +258,7 @@
                 - [▶] - Pipes and Filters
                     - https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
 # Algorithm Course
-- [▶] **Algorithm Course**
+- [▶] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
     - [✔] Introduction
     - [▶] Big O Notation
         - [✔] Intro to Big O  
