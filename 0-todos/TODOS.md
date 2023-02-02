@@ -146,7 +146,7 @@
             - [✔] DOM Collections
             - [✔] DOM Node Lists
 
-        - [ ] JS Browser BOM
+        - [✔] JS Browser BOM
             - [✔] JS Window
             - [✔] JS Screen
             - [✔] JS Location
@@ -154,11 +154,11 @@
             - [✔] JS Navigator
             - [✔] JS Popup Alert
             - [✔] JS Timing
-            - [▶] JS Cookies
+            - [✔] JS Cookies
 
-        - [ ] JS Web APIs
-            - [ ] Web API Intro
-            - [ ] Web Forms API
+        - [▶] JS Web APIs
+            - [✔] Web API Intro
+            - [▶] Web Forms API
             - [ ] Web History API
             - [ ] Web Storage API
             - [ ] Web Worker API
