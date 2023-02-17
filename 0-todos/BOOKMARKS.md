@@ -1,7 +1,7 @@
-- [ ] https://islamqa.info/en/answers/177509/spending-time-only-working
+- [✔] https://islamqa.info/en/answers/177509/spending-time-only-working
 - [ ] https://islamqa.info/en/answers/6913/the-wife-of-a-daaiyah-is-complaining-because-her-husband-is-so-busy
 - [ ] https://islamqa.info/en/answers/1704/does-a-wife-have-to-cook-and-clean
-- [ ]
+- [ ] https://islamqa.info/en/answers/36748/should-a-man-listen-to-his-wifes-suggestions-and-consult-her-about-matters
 - [ ]
 - [ ]
 - [ ]
