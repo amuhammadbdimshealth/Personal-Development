@@ -354,3 +354,7 @@
 - https://dev.to/adriantwarog/ultimate-chatgpt-resource-guide-chatgpt-tutorial-dfe
 - https://www.youtube.com/watch?v=sTeoEFzVNSc
 - https://openai.com/blog/chatgpt/
+
+# Explore 
+- [✔] Dates - https://javascript.info/date
+    - explore\date_and_time.js
