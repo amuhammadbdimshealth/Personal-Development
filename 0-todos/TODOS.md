@@ -145,7 +145,6 @@
             - [✔] DOM Nodes
             - [✔] DOM Collections
             - [✔] DOM Node Lists
-
         - [✔] JS Browser BOM
             - [✔] JS Window
             - [✔] JS Screen
@@ -155,28 +154,25 @@
             - [✔] JS Popup Alert
             - [✔] JS Timing
             - [✔] JS Cookies
-
         - [▶] JS Web APIs
             - [✔] Web API Intro
             - [🕐] Web Forms API
             - [✔] Web History API
             - [✔] Web Storage API
-            - [ ] Web Worker API
-            - [ ] Web Fetch API
-            - [ ] Web Geolocation API
-
-        - [ ] JS AJAX
-            - [ ] AJAX Intro
-            - [ ] AJAX XMLHttp
-            - [ ] AJAX Request
-            - [ ] AJAX Response
-            - [ ] AJAX XML File
-            - [ ] AJAX PHP
-            - [ ] AJAX ASP
-            - [ ] AJAX Database
-            - [ ] AJAX Applications
-            - [ ] AJAX Examples
-
+            - [✔] Web Worker API
+            - [✔] Web Fetch API
+            - [✔] Web Geolocation API
+        - [✔] JS AJAX
+            - [✔] AJAX Intro
+            - [✔] AJAX XMLHttp
+            - [✔] AJAX Request
+            - [✔] AJAX Response
+            - [✔] AJAX XML File
+            - [✔] AJAX PHP
+            - [✔] AJAX ASP
+            - [✔] AJAX Database
+            - [✔] AJAX Applications
+            - [✔] AJAX Examples
         - [ ] JS JSON
             - [ ] JSON Intro
             - [ ] JSON Syntax
@@ -190,13 +186,11 @@
             - [ ] JSON PHP
             - [ ] JSON HTML
             - [ ] JSON JSONP
-
         - [ ] JS vs jQuery
             - [ ] jQuery Selectors
             - [ ] jQuery HTML
             - [ ] jQuery CSS
             - [ ] jQuery DOM
-
         - [ ] JS Graphics
             - [ ] JS Graphics
             - [ ] JS Canvas
@@ -204,7 +198,6 @@
             - [ ] JS Chart.js
             - [ ] JS Google Chart
             - [ ] JS D3.js
-
         - [ ] JS Examples
             - [ ] JS Examples
             - [ ] JS HTML DOM
@@ -216,7 +209,6 @@
             - [ ] JS Exercises
             - [ ] JS Quiz
             - [ ] JS Certificate
-
         - [ ] JS References
             - [ ] JavaScript Objects
             - [ ] HTML DOM Objects
