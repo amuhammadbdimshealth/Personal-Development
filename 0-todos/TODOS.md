@@ -192,12 +192,12 @@
             - [ ] jQuery CSS
             - [ ] jQuery DOM
         - [ ] JS Graphics
-            - [ ] JS Graphics
-            - [ ] JS Canvas
-            - [ ] JS Plotly
+            - [❌] JS Graphics
+            - [❌] JS Canvas
+            - [❌] JS Plotly
             - [ ] JS Chart.js
-            - [ ] JS Google Chart
-            - [ ] JS D3.js
+            - [❌] JS Google Chart
+            - [❌] JS D3.js
         - [ ] JS Examples
             - [ ] JS Examples
             - [ ] JS HTML DOM
@@ -214,41 +214,50 @@
             - [ ] HTML DOM Objects
 # Odin Project*
 - [▶] **Odin Project** 
-    - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
-    - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
-    - [✔] https://www.theodinproject.com/lessons/foundations-computer-basics
-    - [✔] https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
-        - [✔] Watch this BBC short for an overview of how the internet works.
-        - [✔] Read this article from Mozilla on “How does the Internet work?”.
-        - [✔] Watch How the Internet Works in 5 Minutes.
-        - [✔] Read up on the differences between a web page, a web server, and a search engine.
-        - [✔] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
-        - [✔] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
-    - [✔] https://www.theodinproject.com/lessons/foundations-installation-overview
-    - [🕐] https://www.theodinproject.com/lessons/foundations-installations
-        - [✔] Step 2: Install VirtualBox and set up Xubuntu
-        - [🕐] Step 3: Install and Enable Guest Additions
-        - [🕐] Step 4: Understand Your New VM
-        - [🕐] Step 5: Safely shutting down your VM
-        - [🕐] Google Chrome Installation 
-    - [🕐] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
-    - [▶] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
-        - [ ] The Unix Shell - https://swcarpentry.github.io/shell-novice/
-            - [✔] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
-                - [✔] Exploring Other Directories
-                    - [✔] Other Hidden Files
-                    - [✔] Two More Shortcuts
-                    - [✔] General Syntax of a Shell Command
-                - [✔] Key Points
-            - [▶] Working With Files and Directories 
-                - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-                - [✔] Creating files and directories
-                - [✔] Moving files and directories
+    - [▶] Foundation Course
+        - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
+        - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
+        - [✔] https://www.theodinproject.com/lessons/foundations-computer-basics
+        - [✔] https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
+            - [✔] Watch this BBC short for an overview of how the internet works.
+            - [✔] Read this article from Mozilla on “How does the Internet work?”.
+            - [✔] Watch How the Internet Works in 5 Minutes.
+            - [✔] Read up on the differences between a web page, a web server, and a search engine.
+            - [✔] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
+            - [✔] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
+        - [✔] https://www.theodinproject.com/lessons/foundations-installation-overview
+        - [🕐] https://www.theodinproject.com/lessons/foundations-installations
+            - [✔] Step 2: Install VirtualBox and set up Xubuntu
+            - [🕐] Step 3: Install and Enable Guest Additions
+            - [🕐] Step 4: Understand Your New VM
+            - [🕐] Step 5: Safely shutting down your VM
+            - [🕐] Google Chrome Installation 
+        - [🕐] *Text Editors* - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
+        - [▶] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
+            - [ ] The Unix Shell - https://swcarpentry.github.io/shell-novice/
+                - [✔] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
+                    - [✔] Exploring Other Directories
+                        - [✔] Other Hidden Files
+                        - [✔] Two More Shortcuts
+                        - [✔] General Syntax of a Shell Command
+                    - [✔] Key Points
+                - [▶] Working With Files and Directories 
                     - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-                - [✔] Removing files and directories
-                    - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
-                - [▶] - Pipes and Filters
+                    - [✔] Creating files and directories
+                    - [✔] Moving files and directories
+                        - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+                    - [✔] Removing files and directories
+                        - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
+                - [✔] - Pipes and Filters
                     - https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
+                - [ ] Loops
+                    - [ ]
+                    - [ ]
+        - [ ] *Setting Up Git* - https://www.theodinproject.com/lessons/foundations-setting-up-git
+            - [ ]  
+            - [ ]  
+            - [ ]  
+            - [ ]  
 # Algorithm Course
 - [▶] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
     - [✔] Introduction
@@ -350,3 +359,5 @@
 # Explore 
 - [✔] Dates - https://javascript.info/date
     - explore\date_and_time.js
+- [ ] JS Chart libraries
+    - https://www.atatus.com/blog/javascript-chart-libraries/#Chart.js
