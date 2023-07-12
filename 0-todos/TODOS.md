@@ -1,178 +1,184 @@
+# Symbols
+[✔️]
+[▶]
+[🕐]
+[❌]
+
 # WesBos Js Beginner Course
 - [▶]  **WesBos Js Beginner Course** :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
-    - [✔]  Module #5: Events        
-        - [✔]  Events - Event Listener 
-            - [✔]  Watch the video
-            - [✔]  Play with the Code
-        - [✔]  Events - targets, bubbling, propagation and capture
-            - [✔]  Watch the video
-            - [✔]  Play with the Code
-        - [✔]  Events - Prevent Default and Form Events
-            - [✔]  Watch the video
-            - [✔]  Play with the Code
-        - [✔]  Events - Accesibility Gotchas and Keyboard Codes
-            - [✔]  Watch the video
-            - [✔]  Play with the Code
+    - [✔️]  Module #5: Events        
+        - [✔️]  Events - Event Listener 
+            - [✔️]  Watch the video
+            - [✔️]  Play with the Code
+        - [✔️]  Events - targets, bubbling, propagation and capture
+            - [✔️]  Watch the video
+            - [✔️]  Play with the Code
+        - [✔️]  Events - Prevent Default and Form Events
+            - [✔️]  Watch the video
+            - [✔️]  Play with the Code
+        - [✔️]  Events - Accesibility Gotchas and Keyboard Codes
+            - [✔️]  Watch the video
+            - [✔️]  Play with the Code
         - [▶]  Etch-a-Sketch
-            - [✔]  Watch the video
+            - [✔️]  Watch the video
             - [▶]  Play with the Code
                 - [ ]  index.html
                 - [ ]  etch-a-sketch.js
 # W3Schools Js Tutorial                
 - [▶] **W3Schools Js Tutorial**
     - [🕐] JS Tutorial 
-        - [✔] JS Events
-        - [✔]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
-        - [✔]  JS Array Methods
-        - [✔]  JS Array Sort
-        - [✔]  JS Array Iteration
-        - [✔]  JS Array Const
-        - [✔]  JS Dates 
-        - [✔]  JS Date Formats 
-        - [✔]  JS Date Get Methods
-        - [✔]  JS Date Set Methods
-        - [✔]  JS Loop For
-        - [✔]  JS Loop For In
-        - [✔]  JS Loop For Of
-        - [✔]  JS Loop While
-        - [✔]  JS Break
-        - [✔]  JS Iterables
+        - [✔️] JS Events
+        - [✔️]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
+        - [✔️]  JS Array Methods
+        - [✔️]  JS Array Sort
+        - [✔️]  JS Array Iteration
+        - [✔️]  JS Array Const
+        - [✔️]  JS Dates 
+        - [✔️]  JS Date Formats 
+        - [✔️]  JS Date Get Methods
+        - [✔️]  JS Date Set Methods
+        - [✔️]  JS Loop For
+        - [✔️]  JS Loop For In
+        - [✔️]  JS Loop For Of
+        - [✔️]  JS Loop While
+        - [✔️]  JS Break
+        - [✔️]  JS Iterables
         - [🕐]  JS Maps
-        - [✔]  JS Typeof
+        - [✔️]  JS Typeof
         - [🕐]  JS Type Conversion
-        - [✔]  JS RegExp
-        - [✔]  JS Errors   
-        - [✔]  JS Scope 
+        - [✔️]  JS RegExp
+        - [✔️]  JS Errors   
+        - [✔️]  JS Scope 
         - [🕐]  JS Hoisting
         - [🕐]  JS Sctrict Mode
-        - [✔]  JS this Keyword 
-        - [✔]  JS Arrow Function
-        - [✔]  JS Classes - https://www.w3schools.com/js/js_classes.asp
-        - [✔]  JS Modules 
+        - [✔️]  JS this Keyword 
+        - [✔️]  JS Arrow Function
+        - [✔️]  JS Classes - https://www.w3schools.com/js/js_classes.asp
+        - [✔️]  JS Modules 
         - [🕐]  JS JSON 
         - [🕐]  JS Debugging 
-        - [✔]  JS Style Guide - https://www.w3schools.com/js/js_conventions.asp
-        - [✔]  JS Best Practices - https://www.w3schools.com/js/js_best_practices.asp
+        - [✔️]  JS Style Guide - https://www.w3schools.com/js/js_conventions.asp
+        - [✔️]  JS Best Practices - https://www.w3schools.com/js/js_best_practices.asp
         - [🕐]  JS Mistakes 
         - [🕐]  JS Performance
         - [🕐]  JS Reserved Words
-    - [✔]  JS Versions
-        - [✔] ES5
-            - [✔] JavaScript Object Accessors 
+    - [✔️]  JS Versions
+        - [✔️] ES5
+            - [✔️] JavaScript Object Accessors 
                 - https://www.w3schools.com/js/js_object_accessors.asp  
-            - [✔] Object.defineProperty()
-            - [✔] Function Bind()
-        - [✔] ES6
-            - [✔] The let keyword
-            - [✔] The const keyword
-            - [✔] Arrow Functions
-            - [✔] For/of
-            - [✔] Map Objects 
-            - [✔] Set Objects
-            - [✔] *Classes*
-            - [✔] *Promises*                  
-            - [✔] Symbol
-            - [✔] Default Parameters
-            - [✔] Function Rest Parameter
-            - [✔] String.includes()
-            - [✔] String.startsWith()
-            - [✔] String.endsWith()
-            - [✔] Array.from()
-            - [✔] Array keys()
-            - [✔] Array find()
-            - [✔] Array findIndex()
-            - [✔] New Math Methods
-            - [✔] New Number Properties
-            - [✔] New Number Methods
-            - [✔] New Global Methods
-            - [✔] Object entries
-            - [✔] JavaScript Modules
-        - [✔] JS 2016
-        - [✔] JS 2017
-            - [✔] JavaScript String padding
-            - [✔] JavaScript Object.entries
-            - [✔] JavaScript Object.values
-            - [✔] JavaScript async functions            
-        - [✔] JS 2018        
-            - [✔] Asynchronous Iteration
-            - [✔] Promise Finally
-            - [✔] Object Rest Properties
-            - [✔] New RegExp Features
+            - [✔️] Object.defineProperty()
+            - [✔️] Function Bind()
+        - [✔️] ES6
+            - [✔️] The let keyword
+            - [✔️] The const keyword
+            - [✔️] Arrow Functions
+            - [✔️] For/of
+            - [✔️] Map Objects 
+            - [✔️] Set Objects
+            - [✔️] *Classes*
+            - [✔️] *Promises*                  
+            - [✔️] Symbol
+            - [✔️] Default Parameters
+            - [✔️] Function Rest Parameter
+            - [✔️] String.includes()
+            - [✔️] String.startsWith()
+            - [✔️] String.endsWith()
+            - [✔️] Array.from()
+            - [✔️] Array keys()
+            - [✔️] Array find()
+            - [✔️] Array findIndex()
+            - [✔️] New Math Methods
+            - [✔️] New Number Properties
+            - [✔️] New Number Methods
+            - [✔️] New Global Methods
+            - [✔️] Object entries
+            - [✔️] JavaScript Modules
+        - [✔️] JS 2016
+        - [✔️] JS 2017
+            - [✔️] JavaScript String padding
+            - [✔️] JavaScript Object.entries
+            - [✔️] JavaScript Object.values
+            - [✔️] JavaScript async functions            
+        - [✔️] JS 2018        
+            - [✔️] Asynchronous Iteration
+            - [✔️] Promise Finally
+            - [✔️] Object Rest Properties
+            - [✔️] New RegExp Features
     - [▶] Detailed Topics 
-        - [✔] JS Objects
-            - [✔] Object Definitions 
-            - [✔] Object Properties 
-            - [✔] Object Methods
-            - [✔] Object Display
-            - [✔] Object Accessors
-            - [✔] Object Constructors
-            - [✔] Object Prototype
-            - [✔] Object Iterables
-            - [✔] Object Sets
-            - [✔] Object Maps
-            - [✔] Object reference
-        - [✔] JS Functions
-            - [✔] Function Definitions
-            - [✔] Function Parameters
-            - [✔] Function Invocation 
-            - [✔] Function Call 
-            - [✔] Function Apply 
-            - [✔] Function Bind 
-            - [✔] Function Closures     
-        - [✔] JS Classes
-            - [✔] Intro 
-            - [✔] Inheritance
-            - [✔] Static
-        - [✔] JS Async
-            - [✔] Callbacks
-            - [✔] Asynchronous 
-            - [✔] Promises
-            - [✔] Async/Await
-            - [✔] Additional resources: 
-                - [✔] https://javascript.info/async-await#async-functions
-        - [✔] JS HTML DOM
-            - [✔] DOM Intro
-            - [✔] DOM Methods
-            - [✔] DOM Document
-            - [✔] DOM Elements
-            - [✔] DOM HTML
-            - [✔] DOM Forms
-            - [✔] DOM CSS
-            - [✔] DOM Animations
-            - [✔] DOM Events
-            - [✔] DOM Event Listener
-            - [✔] DOM Navigation
-            - [✔] DOM Nodes
-            - [✔] DOM Collections
-            - [✔] DOM Node Lists
-        - [✔] JS Browser BOM
-            - [✔] JS Window
-            - [✔] JS Screen
-            - [✔] JS Location
-            - [✔] JS History
-            - [✔] JS Navigator
-            - [✔] JS Popup Alert
-            - [✔] JS Timing
-            - [✔] JS Cookies
+        - [✔️] JS Objects
+            - [✔️] Object Definitions 
+            - [✔️] Object Properties 
+            - [✔️] Object Methods
+            - [✔️] Object Display
+            - [✔️] Object Accessors
+            - [✔️] Object Constructors
+            - [✔️] Object Prototype
+            - [✔️] Object Iterables
+            - [✔️] Object Sets
+            - [✔️] Object Maps
+            - [✔️] Object reference
+        - [✔️] JS Functions
+            - [✔️] Function Definitions
+            - [✔️] Function Parameters
+            - [✔️] Function Invocation 
+            - [✔️] Function Call 
+            - [✔️] Function Apply 
+            - [✔️] Function Bind 
+            - [✔️] Function Closures     
+        - [✔️] JS Classes
+            - [✔️] Intro 
+            - [✔️] Inheritance
+            - [✔️] Static
+        - [✔️] JS Async
+            - [✔️] Callbacks
+            - [✔️] Asynchronous 
+            - [✔️] Promises
+            - [✔️] Async/Await
+            - [✔️] Additional resources: 
+                - [✔️] https://javascript.info/async-await#async-functions
+        - [✔️] JS HTML DOM
+            - [✔️] DOM Intro
+            - [✔️] DOM Methods
+            - [✔️] DOM Document
+            - [✔️] DOM Elements
+            - [✔️] DOM HTML
+            - [✔️] DOM Forms
+            - [✔️] DOM CSS
+            - [✔️] DOM Animations
+            - [✔️] DOM Events
+            - [✔️] DOM Event Listener
+            - [✔️] DOM Navigation
+            - [✔️] DOM Nodes
+            - [✔️] DOM Collections
+            - [✔️] DOM Node Lists
+        - [✔️] JS Browser BOM
+            - [✔️] JS Window
+            - [✔️] JS Screen
+            - [✔️] JS Location
+            - [✔️] JS History
+            - [✔️] JS Navigator
+            - [✔️] JS Popup Alert
+            - [✔️] JS Timing
+            - [✔️] JS Cookies
         - [▶] JS Web APIs
-            - [✔] Web API Intro
+            - [✔️] Web API Intro
             - [🕐] Web Forms API
-            - [✔] Web History API
-            - [✔] Web Storage API
-            - [✔] Web Worker API
-            - [✔] Web Fetch API
-            - [✔] Web Geolocation API
-        - [✔] JS AJAX
-            - [✔] AJAX Intro
-            - [✔] AJAX XMLHttp
-            - [✔] AJAX Request
-            - [✔] AJAX Response
-            - [✔] AJAX XML File
-            - [✔] AJAX PHP
-            - [✔] AJAX ASP
-            - [✔] AJAX Database
-            - [✔] AJAX Applications
-            - [✔] AJAX Examples
+            - [✔️] Web History API
+            - [✔️] Web Storage API
+            - [✔️] Web Worker API
+            - [✔️] Web Fetch API
+            - [✔️] Web Geolocation API
+        - [✔️] JS AJAX
+            - [✔️] AJAX Intro
+            - [✔️] AJAX XMLHttp
+            - [✔️] AJAX Request
+            - [✔️] AJAX Response
+            - [✔️] AJAX XML File
+            - [✔️] AJAX PHP
+            - [✔️] AJAX ASP
+            - [✔️] AJAX Database
+            - [✔️] AJAX Applications
+            - [✔️] AJAX Examples
         - [ ] JS JSON
             - [ ] JSON Intro
             - [ ] JSON Syntax
@@ -215,55 +221,63 @@
 # Odin Project*
 - [▶] **Odin Project** 
     - [▶] Foundation Course
-        - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
-        - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
-        - [✔] https://www.theodinproject.com/lessons/foundations-computer-basics
-        - [✔] https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
-            - [✔] Watch this BBC short for an overview of how the internet works.
-            - [✔] Read this article from Mozilla on “How does the Internet work?”.
-            - [✔] Watch How the Internet Works in 5 Minutes.
-            - [✔] Read up on the differences between a web page, a web server, and a search engine.
-            - [✔] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
-            - [✔] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
-        - [✔] https://www.theodinproject.com/lessons/foundations-installation-overview
-        - [🕐] https://www.theodinproject.com/lessons/foundations-installations
-            - [✔] Step 2: Install VirtualBox and set up Xubuntu
-            - [🕐] Step 3: Install and Enable Guest Additions
-            - [🕐] Step 4: Understand Your New VM
-            - [🕐] Step 5: Safely shutting down your VM
-            - [🕐] Google Chrome Installation 
-        - [🕐] *Text Editors* - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
-        - [▶] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
-            - [ ] The Unix Shell - https://swcarpentry.github.io/shell-novice/
-                - [✔] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
-                    - [✔] Exploring Other Directories
-                        - [✔] Other Hidden Files
-                        - [✔] Two More Shortcuts
-                        - [✔] General Syntax of a Shell Command
-                    - [✔] Key Points
-                - [▶] Working With Files and Directories 
-                    - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-                    - [✔] Creating files and directories
-                    - [✔] Moving files and directories
+        - https://www.theodinproject.com/paths/foundations/courses/foundations
+        - [✔️] *Introduction*
+            - [✔️] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
+        - [ ] *Prerequisites*
+            - [✔️] *Computer-basics*
+                - https://www.theodinproject.com/lessons/foundations-computer-basics
+            - [✔️] *How-does-the-web-work*
+                - https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
+                - [✔️] Watch this BBC short for an overview of how the internet works.
+                - [✔️] Read this article from Mozilla on “How does the Internet work?”.
+                - [✔️] Watch How the Internet Works in 5 Minutes.
+                - [✔️] Read up on the differences between a web page, a web server, and a search engine.
+                - [✔️] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
+                - [✔️] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
+            - [ ] *Installation Overview* 
+                - [✔️] https://www.theodinproject.com/lessons/foundations-installation-overview
+                - [🕐] https://www.theodinproject.com/lessons/foundations-installations
+                    - [✔️] Step 2: Install VirtualBox and set up Xubuntu
+                    - [🕐] Step 3: Install and Enable Guest Additions
+                    - [🕐] Step 4: Understand Your New VM
+                    - [🕐] Step 5: Safely shutting down your VM
+                    - [🕐] Google Chrome Installation 
+            - [🕐] *Text Editors* - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
+            - [✔️] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
+                - [✔️] The Unix Shell - https://swcarpentry.github.io/shell-novice/
+                    - [✔️] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
+                        - [✔️] Exploring Other Directories
+                            - [✔️] Other Hidden Files
+                            - [✔️] Two More Shortcuts
+                            - [✔️] General Syntax of a Shell Command
+                        - [✔️] Key Points
+                    - [✔️] Working With Files and Directories 
                         - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-                    - [✔] Removing files and directories
-                        - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
-                - [✔] - Pipes and Filters
-                    - https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
-                - [ ] Loops
-                    - [ ]
-                    - [ ]
-        - [ ] *Setting Up Git* - https://www.theodinproject.com/lessons/foundations-setting-up-git
-            - [ ]  
-            - [ ]  
-            - [ ]  
-            - [ ]  
+                        - [✔️] Creating files and directories
+                        - [✔️] Moving files and directories
+                            - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+                        - [✔️] Removing files and directories
+                            - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
+                    - [✔️] - Pipes and Filters
+                        - https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
+                    - [🕐] Loops                    
+                    - [🕐] Shell Scripts
+                    - [🕐] Finding Things
+            - [ ] *Setting Up Git* - https://www.theodinproject.com/lessons/foundations-setting-up-git
+                - [ ]  
+                - [ ]  
+                - [ ]  
+                - [ ]
+            - [ ] *Git Basics*
+                - [ ] Introduction to Git
+                - [ ] Git Basics
 # Algorithm Course
 - [▶] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
-    - [✔] Introduction
+    - [✔️] Introduction
     - [▶] Big O Notation
-        - [✔] Intro to Big O  
-        - [✔] Timing Our code             
+        - [✔️] Intro to Big O  
+        - [✔️] Timing Our code             
         - [▶] Counting Operation 
         - [ ] 
         - [ ]  
@@ -278,14 +292,14 @@
 # SQL Course
 - [ ] **SQL Course**
     - [ ] Learning
-        - [✔] THROW
-        - [✔] TRY-CATCH 
-        - [✔] BEGIN TRANSACTION 
-        - [✔] COMMIT TRANSACTION 
-        - [✔] ROLLBACK TRANSACTION 
-        - [✔] XACT_STATE
-        - [✔] XACT_ABORT
-        - [✔] @@TRANCOUNT
+        - [✔️] THROW
+        - [✔️] TRY-CATCH 
+        - [✔️] BEGIN TRANSACTION 
+        - [✔️] COMMIT TRANSACTION 
+        - [✔️] ROLLBACK TRANSACTION 
+        - [✔️] XACT_STATE
+        - [✔️] XACT_ABORT
+        - [✔️] @@TRANCOUNT
     - [ ] SQL Course
         - [ ]  
         - [ ]  
@@ -357,7 +371,13 @@
 - https://openai.com/blog/chatgpt/
 
 # Explore 
-- [✔] Dates - https://javascript.info/date
+- [✔️] Dates - https://javascript.info/date
     - explore\date_and_time.js
 - [ ] JS Chart libraries
     - https://www.atatus.com/blog/javascript-chart-libraries/#Chart.js
+
+# PPMS Training Videos 
+- [✔️] Webinar: Functional Overview - Forms & Documents (watched on 2023-07-12)
+    - https://stratocore.zendesk.com/hc/en-us/articles/14224659415575-Webinar-Functional-Overview-Forms-Documents
+- [ ] Webinar: New Features - Services and Consumables Management
+    - https://stratocore.zendesk.com/hc/en-us/articles/12607991656727-Webinar-New-Features-Services-and-Consumables-Management
