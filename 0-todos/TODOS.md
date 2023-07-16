@@ -225,9 +225,9 @@
         - [✔️] *Introduction*
             - [✔️] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
         - [ ] *Prerequisites*
-            - [✔️] *Computer-basics*
+            - [✔️] Computer-basics
                 - https://www.theodinproject.com/lessons/foundations-computer-basics
-            - [✔️] *How-does-the-web-work*
+            - [✔️] How-does-the-web-work
                 - https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
                 - [✔️] Watch this BBC short for an overview of how the internet works.
                 - [✔️] Read this article from Mozilla on “How does the Internet work?”.
@@ -235,7 +235,7 @@
                 - [✔️] Read up on the differences between a web page, a web server, and a search engine.
                 - [✔️] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
                 - [✔️] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
-            - [ ] *Installation Overview* 
+            - [ ] Installation Overview
                 - [✔️] https://www.theodinproject.com/lessons/foundations-installation-overview
                 - [🕐] https://www.theodinproject.com/lessons/foundations-installations
                     - [✔️] Step 2: Install VirtualBox and set up Xubuntu
@@ -243,8 +243,8 @@
                     - [🕐] Step 4: Understand Your New VM
                     - [🕐] Step 5: Safely shutting down your VM
                     - [🕐] Google Chrome Installation 
-            - [🕐] *Text Editors* - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
-            - [✔️] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
+            - [🕐] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
+            - [✔️] Command Line Basics - https://www.theodinproject.com/lessons/foundations-command-line-basics
                 - [✔️] The Unix Shell - https://swcarpentry.github.io/shell-novice/
                     - [✔️] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
                         - [✔️] Exploring Other Directories
@@ -264,14 +264,35 @@
                     - [🕐] Loops                    
                     - [🕐] Shell Scripts
                     - [🕐] Finding Things
-            - [ ] *Setting Up Git* - https://www.theodinproject.com/lessons/foundations-setting-up-git
-                - [ ]  
-                - [ ]  
-                - [ ]  
-                - [ ]
-            - [ ] *Git Basics*
-                - [ ] Introduction to Git
-                - [ ] Git Basics
+            - [🕐] Setting Up Git - https://www.theodinproject.com/lessons/foundations-setting-up-git
+                - [✔️] Install WSL2 
+                    - https://learn.microsoft.com/en-us/windows/wsl/install 
+                - How to Install Git on Windows Subsystem for Linux?
+                    - https://www.geeksforgeeks.org/how-to-install-git-on-windows-subsystem-for-linux/
+                - [ ] Introduction
+                - [ ] Step 1: Install Git
+                - [ ] Step 2: Configure Git and GitHub
+                - [ ] Step 3: Let us know how it went!
+                - [ ] Additional Resources                
+        - [ ] *Git Basics*
+            - [ ] Introduction to Git
+                - [ ] Introduction
+                - [ ] Lesson Overview:
+                - [ ] Assignment
+                - [ ] Knowledge Check
+                - [ ] Additional Resources                
+            - [ ] Git Basics
+                - [ ] Introduction
+                - [ ] Lesson Overview
+                - [ ] Assignment
+                - [ ] Note/Warning
+                - [ ] Cheatsheet
+                - [ ] Git Best Practices
+                - [ ] Changing the Git Commit Message Editor
+                - [ ] Conclusion
+                - [ ] Knowledge Check
+                - [ ] Additional Resources    
+        - [ ] *HTML Foundations*
 # Algorithm Course
 - [▶] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
     - [✔️] Introduction
