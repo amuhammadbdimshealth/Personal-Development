@@ -1,11 +1,11 @@
 # Symbols
 [✔️]
-[▶]
-[🕐]
+[▶️]
+[🕛]
 [❌]
 
 # WesBos Js Beginner Course
-- [▶]  **WesBos Js Beginner Course** :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
+- [▶️]  **WesBos Js Beginner Course** :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
     - [✔️]  Module #5: Events        
         - [✔️]  Events - Event Listener 
             - [✔️]  Watch the video
@@ -19,14 +19,14 @@
         - [✔️]  Events - Accesibility Gotchas and Keyboard Codes
             - [✔️]  Watch the video
             - [✔️]  Play with the Code
-        - [▶]  Etch-a-Sketch
+        - [▶️]  Etch-a-Sketch
             - [✔️]  Watch the video
-            - [▶]  Play with the Code
+            - [▶️]  Play with the Code
                 - [ ]  index.html
                 - [ ]  etch-a-sketch.js
 # W3Schools Js Tutorial                
-- [▶] **W3Schools Js Tutorial**
-    - [🕐] JS Tutorial 
+- [▶️] **W3Schools Js Tutorial**
+    - [🕛] JS Tutorial 
         - [✔️] JS Events
         - [✔️]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
         - [✔️]  JS Array Methods
@@ -43,25 +43,25 @@
         - [✔️]  JS Loop While
         - [✔️]  JS Break
         - [✔️]  JS Iterables
-        - [🕐]  JS Maps
+        - [🕛]  JS Maps
         - [✔️]  JS Typeof
-        - [🕐]  JS Type Conversion
+        - [🕛]  JS Type Conversion
         - [✔️]  JS RegExp
         - [✔️]  JS Errors   
         - [✔️]  JS Scope 
-        - [🕐]  JS Hoisting
-        - [🕐]  JS Sctrict Mode
+        - [🕛]  JS Hoisting
+        - [🕛]  JS Sctrict Mode
         - [✔️]  JS this Keyword 
         - [✔️]  JS Arrow Function
         - [✔️]  JS Classes - https://www.w3schools.com/js/js_classes.asp
         - [✔️]  JS Modules 
-        - [🕐]  JS JSON 
-        - [🕐]  JS Debugging 
+        - [🕛]  JS JSON 
+        - [🕛]  JS Debugging 
         - [✔️]  JS Style Guide - https://www.w3schools.com/js/js_conventions.asp
         - [✔️]  JS Best Practices - https://www.w3schools.com/js/js_best_practices.asp
-        - [🕐]  JS Mistakes 
-        - [🕐]  JS Performance
-        - [🕐]  JS Reserved Words
+        - [🕛]  JS Mistakes 
+        - [🕛]  JS Performance
+        - [🕛]  JS Reserved Words
     - [✔️]  JS Versions
         - [✔️] ES5
             - [✔️] JavaScript Object Accessors 
@@ -104,7 +104,7 @@
             - [✔️] Promise Finally
             - [✔️] Object Rest Properties
             - [✔️] New RegExp Features
-    - [▶] Detailed Topics 
+    - [▶️] Detailed Topics 
         - [✔️] JS Objects
             - [✔️] Object Definitions 
             - [✔️] Object Properties 
@@ -160,9 +160,9 @@
             - [✔️] JS Popup Alert
             - [✔️] JS Timing
             - [✔️] JS Cookies
-        - [▶] JS Web APIs
+        - [▶️] JS Web APIs
             - [✔️] Web API Intro
-            - [🕐] Web Forms API
+            - [🕛] Web Forms API
             - [✔️] Web History API
             - [✔️] Web Storage API
             - [✔️] Web Worker API
@@ -219,12 +219,12 @@
             - [ ] JavaScript Objects
             - [ ] HTML DOM Objects
 # Odin Project*
-- [▶] **Odin Project** 
-    - [▶] Foundation Course
+- [▶️] **Odin Project** 
+    - [▶️] Foundation Course
         - https://www.theodinproject.com/paths/foundations/courses/foundations
         - [✔️] *Introduction*
             - [✔️] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
-        - [ ] *Prerequisites*
+        - [🕛] *Prerequisites*
             - [✔️] Computer-basics
                 - https://www.theodinproject.com/lessons/foundations-computer-basics
             - [✔️] How-does-the-web-work
@@ -237,13 +237,13 @@
                 - [✔️] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
             - [ ] Installation Overview
                 - [✔️] https://www.theodinproject.com/lessons/foundations-installation-overview
-                - [🕐] https://www.theodinproject.com/lessons/foundations-installations
+                - [🕛] https://www.theodinproject.com/lessons/foundations-installations
                     - [✔️] Step 2: Install VirtualBox and set up Xubuntu
-                    - [🕐] Step 3: Install and Enable Guest Additions
-                    - [🕐] Step 4: Understand Your New VM
-                    - [🕐] Step 5: Safely shutting down your VM
-                    - [🕐] Google Chrome Installation 
-            - [🕐] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
+                    - [🕛] Step 3: Install and Enable Guest Additions
+                    - [🕛] Step 4: Understand Your New VM
+                    - [🕛] Step 5: Safely shutting down your VM
+                    - [🕛] Google Chrome Installation 
+            - [🕛] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
             - [✔️] Command Line Basics - https://www.theodinproject.com/lessons/foundations-command-line-basics
                 - [✔️] The Unix Shell - https://swcarpentry.github.io/shell-novice/
                     - [✔️] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
@@ -261,10 +261,10 @@
                             - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
                     - [✔️] - Pipes and Filters
                         - https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
-                    - [🕐] Loops                    
-                    - [🕐] Shell Scripts
-                    - [🕐] Finding Things
-            - [🕐] Setting Up Git - https://www.theodinproject.com/lessons/foundations-setting-up-git
+                    - [🕛] Loops                    
+                    - [🕛] Shell Scripts
+                    - [🕛] Finding Things
+            - [🕛] Setting Up Git - https://www.theodinproject.com/lessons/foundations-setting-up-git
                 - [✔️] Install WSL2 
                     - https://learn.microsoft.com/en-us/windows/wsl/install 
                 - How to Install Git on Windows Subsystem for Linux?
@@ -274,7 +274,7 @@
                 - [ ] Step 2: Configure Git and GitHub
                 - [ ] Step 3: Let us know how it went!
                 - [ ] Additional Resources                
-        - [ ] *Git Basics*
+        - [🕛] *Git Basics*
             - [ ] Introduction to Git
                 - [ ] Introduction
                 - [ ] Lesson Overview:
@@ -292,14 +292,52 @@
                 - [ ] Conclusion
                 - [ ] Knowledge Check
                 - [ ] Additional Resources    
-        - [ ] *HTML Foundations*
+        - [✔️] *HTML Foundations*
+            - [✔️] Introduction to HTML and CSS
+            - [✔️] Elements and Tags
+            - [✔️] HTML Boilerplate
+            - [✔️] Working with Text
+            - [✔️] Lists
+            - [✔️] Links and Images
+            - [✔️] Commit Messages
+            - [✔️] Project: Recipes
+        - [▶️️] CSS Foundations
+            - [ ] Intro to CSS
+            - [ ] The Cascade
+            - [ ] Inspecting HTML and CSS
+            - [ ] The Box Model
+            - [ ] Block and Inline
+        - [ ] Flexbox
+            - [ ] Introduction to Flexbox
+            - [ ] Growing and Shrinking
+            - [ ] Axes
+            - [ ] Alignment
+            - [ ] Project: Landing Page
+        - [ ] JavaScript Basics
+            - [ ] Fundamentals Part 1
+            - [ ] Fundamentals Part 2
+            - [ ] JavaScript Developer Tools
+            - [ ] Fundamentals Part 3
+            - [ ] Problem Solving
+            - [ ] Understanding Errors
+            - [ ] Project: Rock Paper Scissors
+            - [ ] Clean Code
+            - [ ] Installing Node.js
+            - [ ] Fundamentals Part 4
+            - [ ] DOM Manipulation and Events
+            - [ ] Revisiting Rock Paper Scissors
+            - [ ] Project: Etch-a-Sketch
+            - [ ] Fundamentals Part 5
+            - [ ] Project: Calculator
+        - [ ] Conclusion
+            - [ ] Choose Your Path Forward
 # Algorithm Course
-- [▶] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
+- [▶️] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
     - [✔️] Introduction
-    - [▶] Big O Notation
+    - [▶️] Big O Notation
         - [✔️] Intro to Big O  
         - [✔️] Timing Our code             
-        - [▶] Counting Operation 
+        - [▶️] Counting Operation 
         - [ ] 
         - [ ]  
 # LeetCode-problem solving
