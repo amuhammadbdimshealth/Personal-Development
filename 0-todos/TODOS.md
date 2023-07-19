@@ -302,7 +302,17 @@
             - [✔️] Commit Messages
             - [✔️] Project: Recipes
         - [▶️️] CSS Foundations
-            - [ ] Intro to CSS
+            - [▶️] Intro to CSS
+                - [✔️] Introduction
+                - [✔️] Lesson Overview
+                - [✔️] Basic Syntax
+                - [✔️] Selectors
+                - [✔️] Order Matters!
+                - [✔️] Properties to Get Started With
+                - [✔️] Adding CSS to HTML
+                - [▶️] Assignment
+                - [ ] Knowledge Check
+                - [ ] Additional Resources
             - [ ] The Cascade
             - [ ] Inspecting HTML and CSS
             - [ ] The Box Model
