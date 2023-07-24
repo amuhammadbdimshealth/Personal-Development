@@ -313,13 +313,13 @@
                 - [✔️] Assignment
                 - [✔️] Knowledge Check
                 - [✔️] Additional Resources
-            - [▶️] The Cascade
-                - [ ] Introduction
-                - [ ] Lesson overview
-                - [ ] The cascade of CSS
-                - [ ] Assignment
-                - [ ] Knowledge check
-                - [ ] Additional resources
+            - [✔️] The Cascade
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] The cascade of CSS
+                - [✔️] Assignment
+                - [✔️] Knowledge check
+                - [✔️] Additional resources
             - [ ] Inspecting HTML and CSS
                 - [ ] Introduction
                 - [ ] Lesson overview
