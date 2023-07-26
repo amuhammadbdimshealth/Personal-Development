@@ -320,15 +320,15 @@
                 - [✔️] Assignment
                 - [✔️] Knowledge check
                 - [✔️] Additional resources
-            - [ ] Inspecting HTML and CSS
-                - [ ] Introduction
-                - [ ] Lesson overview
-                - [ ] The inspector
-                - [ ] Inspecting elements
-                - [ ] Testing styles in the inspector
-                - [ ] Assignment
-                - [ ] Knowledge check
-                - [ ] Additional resources
+            - [✔️] Inspecting HTML and CSS
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] The inspector
+                - [✔️] Inspecting elements
+                - [✔️] Testing styles in the inspector
+                - [✔️] Assignment
+                - [✔️] Knowledge check
+                - [✔️] Additional resources
             - [ ] The Box Model
                 - [ ] Introduction
                 - [ ] Lesson overview
