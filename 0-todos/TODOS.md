@@ -477,3 +477,12 @@
     - https://stratocore.zendesk.com/hc/en-us/articles/14224659415575-Webinar-Functional-Overview-Forms-Documents
 - [ ] Webinar: New Features - Services and Consumables Management
     - https://stratocore.zendesk.com/hc/en-us/articles/12607991656727-Webinar-New-Features-Services-and-Consumables-Management
+
+# File upload 
+- [ ] How to Upload Files with JavaScript
+    - https://www.freecodecamp.org/news/upload-files-with-javascript/
+- [ ] Node.js Upload Files
+    - https://www.w3schools.com/nodejs/nodejs_uploadfiles.asp
+- [ ] How do you upload your files to a web server?
+    - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server
+- [ ]  
