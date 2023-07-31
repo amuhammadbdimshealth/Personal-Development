@@ -329,13 +329,24 @@
                 - [✔️] Assignment
                 - [✔️] Knowledge check
                 - [✔️] Additional resources
-            - [ ] The Box Model
+            - [▶️] The Box Model
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] The box model
                 - [✔️] Assignment
                     - [✔️] This video is a straightforward overview of the box model, padding and margin. Go ahead and watch this now; it informs everything else.
                     - [▶️] Because the box model concept is so incredibly fundamental, let’s dig a bit deeper with this lesson from MDN. It covers the same material as the video above and will introduce you to inline boxes that we will explore in the next lesson. Pay close attention to the examples and take the time to experiment with their in-browser editor!
+                        - [✔️] Block and inline boxes
+                        - [✔️] Outer display type
+                        - [✔️] Inner display type
+                        - [✔️] Examples of different display types
+                        - [▶️] What is the CSS box model?
+                        - [ ] Playing with box models
+                        - [ ] Margins, padding, and borders
+                        - [ ] The box model and inline boxes
+                        - [ ] Using display: inline-block
+                        - [ ] Test your skills!
+                        - [ ] Summary
                     - [ ] This CSS Tricks page has some further information about the margin property that you’ll find useful. Specifically, the sections about auto and margin collapsing contain things you’ll want to know.
             - [ ] Block and Inline
                 - [ ] Introduction
