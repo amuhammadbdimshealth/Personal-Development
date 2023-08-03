@@ -301,7 +301,7 @@
             - [✔️] Links and Images
             - [✔️] Commit Messages
             - [✔️] Project: Recipes
-        - [▶️️] CSS Foundations
+        - [✔️] CSS Foundations
             - [✔️] Intro to CSS
                 - [✔️] Introduction
                 - [✔️] Lesson Overview
@@ -348,16 +348,16 @@
                         - [✔️] Test your skills!
                         - [✔️] Summary
                     - [✔️] This CSS Tricks page has some further information about the margin property that you’ll find useful. Specifically, the sections about auto and margin collapsing contain things you’ll want to know.
-            - [▶️] Block and Inline
+            - [✔️] Block and Inline
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] Block vs inline
                 - [✔️] Divs and spans
-                - [▶️] Assignment
-                - [ ] Knowledge check
-                - [ ] Additional resources            
-        - [ ] Flexbox
-            - [ ] Introduction to Flexbox
+                - [✔️] Assignment
+                - [✔️] Knowledge check
+                - [✔️] Additional resources            
+        - [▶️] Flexbox
+            - [✔️] Introduction to Flexbox
             - [ ] Growing and Shrinking
             - [ ] Axes
             - [ ] Alignment
