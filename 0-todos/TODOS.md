@@ -358,9 +358,15 @@
                 - [✔️] Additional resources            
         - [▶️] Flexbox
             - [✔️] Introduction to Flexbox
-            - [ ] Growing and Shrinking
-            - [ ] Axes
-            - [ ] Alignment
+            - [✔️] Growing and Shrinking
+            - [✔️] Axes
+            - [▶️] Alignment
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Alignment
+                - [▶️] Assignment
+                - [ ] Knowledge check
+                - [ ] Additional resources                
             - [ ] Project: Landing Page
         - [ ] JavaScript Basics
             - [ ] Fundamentals Part 1
