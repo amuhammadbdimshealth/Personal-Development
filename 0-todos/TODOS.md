@@ -360,14 +360,12 @@
             - [✔️] Introduction to Flexbox
             - [✔️] Growing and Shrinking
             - [✔️] Axes
-            - [▶️] Alignment
+            - [✔️] Alignment
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] Alignment
-                - [▶️] Assignment
-                - [ ] Knowledge check
-                - [ ] Additional resources                
-            - [ ] Project: Landing Page
+                - [✔️] Assignment                
+            - [▶️] Project: Landing Page
         - [ ] JavaScript Basics
             - [ ] Fundamentals Part 1
             - [ ] Fundamentals Part 2
