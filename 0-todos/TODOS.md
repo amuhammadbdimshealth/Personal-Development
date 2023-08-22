@@ -367,14 +367,14 @@
                 - [✔️] Assignment                
             - [✔️] Project: Landing Page
         - [ ] JavaScript Basics
-            - [ ] Fundamentals Part 1
+            - [✔️] Fundamentals Part 1
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] How to run JavaScript code
                 - [✔️] Variables
-                - [▶️] Numbers
-                - [ ] Assignment                
-            - [ ] Fundamentals Part 2
+                - [✔️] Numbers
+                - [✔️] Assignment                
+            - [▶️] Fundamentals Part 2
             - [ ] JavaScript Developer Tools
             - [ ] Fundamentals Part 3
             - [ ] Problem Solving
