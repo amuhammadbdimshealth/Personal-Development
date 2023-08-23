@@ -422,6 +422,33 @@
         - [ ]  
         - [ ]  
 # VueJs Course*
+- [ ] Vue-js-best-practices
+    - [ ] https://www.tatvasoft.com/blog/vue-js-best-practices/
+            - [ ] Always Use Key V-for With “: Key” Inside
+            - [ ] Always Use Kebab Casing for Events
+            - [ ] Use Pascal Case or Use Kebab Case for Components
+            - [ ] Keep npm Packages Updated
+            - [ ] Manage Global File for Shared Variable
+            - [ ] Used Suitable Data Type Assign for Variable
+            - [ ] Data Property Initialization
+            - [ ] Used a $refs
+            - [ ] Do Not Mix v-if and v-for
+            - [ ] Vue Component Reusability & Communication
+            - [ ] Data Should Always Return Function
+            - [ ] Template Expressions Should Only have Basic JavaScript Expressions
+            - [ ] Clean Code and Refactoring
+            - [ ] Define and Validate the Props
+            - [ ] Components Declared and Used ONCE Should Have The Prefix “The”
+            - [ ] Consistency Using Directive Shorthand
+            - [ ] Don’t Call a Method on Created AND Watch
+            - [ ] Use Actions: Commit the Data and Make API Call
+            - [ ] Name Commits Using Single Convention Method
+            - [ ] Multiple V-Condition
+            - [ ] Code Splitting
+            - [ ] Routing
+            - [ ] Eliminate the DOM Access Directly
+            - [ ] Add Multiple Classes To an Element
+            - [ ] Use Selectors    
 - [ ] **VueJs Course** 
     - [ ]  
     - [ ]  
