@@ -375,6 +375,13 @@
                 - [✔️] Numbers
                 - [✔️] Assignment                
             - [▶️] Fundamentals Part 2
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Strings
+                - [▶️] Conditionals
+                - [ ] Assignment
+                - [ ] Knowledge check
+                - [ ] Additional resources
             - [ ] JavaScript Developer Tools
             - [ ] Fundamentals Part 3
             - [ ] Problem Solving
