@@ -378,8 +378,8 @@
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] Strings
-                - [▶️] Conditionals
-                - [ ] Assignment
+                - [✔️] Conditionals
+                - [▶️] Assignment
                 - [ ] Knowledge check
                 - [ ] Additional resources
             - [ ] JavaScript Developer Tools
