@@ -1,0 +1,7 @@
+- Links
+    - [✔️] https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file#examples
+    - [ ] https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
+    - [✔️] https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API/File_drag_and_drop#see_also
+    - [ ] https://www.youtube.com/playlist?list=PLDlttLRccCk5sv4buRYqXnGU6M1KKkq-4
+    - [ ] https://www.freecodecamp.org/news/upload-files-with-javascript/
+    - [ ] https://learnvue.co/articles/vue-drag-and-drop
