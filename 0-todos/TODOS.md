@@ -542,3 +542,15 @@
 - [ ] How do you upload your files to a web server?
     - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server
 - [ ]  
+
+# JWT
+    - [✔️] JWT Homepage
+        - [✔️] https://jwt.io/introduction
+    - [✔️] Concept (JSON Web Token - Bangla ( বাংলা ) Tutorial)
+        - [✔️] https://www.youtube.com/watch?v=MB9SgSYw0Gw&pp=ygUDand0
+    - [ ] Concept (webdev-simplified) 
+        - [ ] https://www.youtube.com/watch?v=7Q17ubqLfaM&pp=ygUDand0
+    - [✔️] JWT Authentication Tutorial - Node.js
+        - [✔️] https://www.youtube.com/watch?v=mbsmsi7l3r4&t=64s
+    - [ ] Library (python)
+        - [ ] https://pyjwt.readthedocs.io/en/stable/usage.html
