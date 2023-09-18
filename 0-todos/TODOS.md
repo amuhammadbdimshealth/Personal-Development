@@ -374,16 +374,28 @@
                 - [✔️] Variables
                 - [✔️] Numbers
                 - [✔️] Assignment                
-            - [▶️] Fundamentals Part 2
+            - [✔️] Fundamentals Part 2
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] Strings
                 - [✔️] Conditionals
-                - [▶️] Assignment
-                - [ ] Knowledge check
-                - [ ] Additional resources
-            - [ ] JavaScript Developer Tools
-            - [ ] Fundamentals Part 3
+                - [✔️] Assignment
+                - [❌] Knowledge check
+                - [❌] Additional resources
+            - [✔️] JavaScript Developer Tools
+                - [✔️] Assignment
+                    - [✔️] CSS
+                        - [✔️] View and change CSS
+                        - [✔️] CSS features reference
+                        - [✔️] Get Started With Viewing And Changing The DOM
+                        - [✔️] Mobile Simulation
+                        - [✔️] Simulate mobile devices with Device Mode
+                    - [✔️] JavaScript
+                        - [✔️] Debug JavaScript
+                        - [✔️] Pause your code with breakpoints
+                        - [✔️] Then, watch the console overview video and read through the page to familiarize yourself with the console and its usage.
+            - [▶️] Fundamentals Part 3
+                - https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
             - [ ] Problem Solving
             - [ ] Understanding Errors
             - [ ] Project: Rock Paper Scissors
