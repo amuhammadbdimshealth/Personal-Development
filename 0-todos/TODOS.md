@@ -556,13 +556,23 @@
 - [ ]  
 
 # JWT
-    - [✔️] JWT Homepage
-        - [✔️] https://jwt.io/introduction
-    - [✔️] Concept (JSON Web Token - Bangla ( বাংলা ) Tutorial)
-        - [✔️] https://www.youtube.com/watch?v=MB9SgSYw0Gw&pp=ygUDand0
-    - [ ] Concept (webdev-simplified) 
-        - [ ] https://www.youtube.com/watch?v=7Q17ubqLfaM&pp=ygUDand0
-    - [✔️] JWT Authentication Tutorial - Node.js
-        - [✔️] https://www.youtube.com/watch?v=mbsmsi7l3r4&t=64s
-    - [ ] Library (python)
-        - [ ] https://pyjwt.readthedocs.io/en/stable/usage.html
+- [✔️] JWT Homepage
+    - [✔️] https://jwt.io/introduction
+- [✔️] Concept (JSON Web Token - Bangla ( বাংলা ) Tutorial)
+    - [✔️] https://www.youtube.com/watch?v=MB9SgSYw0Gw&pp=ygUDand0
+- [ ] Concept (webdev-simplified) 
+    - [ ] https://www.youtube.com/watch?v=7Q17ubqLfaM&pp=ygUDand0
+- [✔️] JWT Authentication Tutorial - Node.js
+    - [✔️] https://www.youtube.com/watch?v=mbsmsi7l3r4&t=64s
+- [ ] Library (python)
+    - [ ] https://pyjwt.readthedocs.io/en/stable/usage.html
+
+# Accessibility
+## Radio Buttons
+- Guidelines for radio buttons (Microsoft )
+    - https://learn.microsoft.com/en-us/windows/apps/design/controls/radio-button#accessibility-behavior
+- Radio Group Example Using Roving tabindex
+    - https://www.w3.org/WAI/ARIA/apg/patterns/radio/examples/radio/#kbd_label
+## Focus
+- [ ] :focus-visible (Css tricks)
+    - https://css-tricks.com/almanac/selectors/f/focus-visible/
