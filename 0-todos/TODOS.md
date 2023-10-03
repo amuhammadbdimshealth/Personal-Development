@@ -396,7 +396,36 @@
                         - [✔️] Then, watch the console overview video and read through the page to familiarize yourself with the console and its usage.
             - [▶️] Fundamentals Part 3
                 - https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
-            - [ ] Problem Solving
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [▶️] Functions
+                    - [✔️] MDN article
+                        - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
+                    - [✔️] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
+                    - [▶️] http://javascript.info/function-basics
+                        - [▶️] https://javascript.info/function-basics#returning-a-value
+                - [ ] Assignment
+                - [ ] Knowledge check
+                - [ ] Additional resource
+                    - [ ] Event loop 
+                        - https://www.javascripttutorial.net/javascript-event-loop/
+            - [▶️] Problem Solving
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Understand the problem
+                - [✔️] Plan
+                - [✔️] Pseudocode
+                - [✔️] Divide and conquer
+                - [✔️] Solving Fizz Buzz
+                - [ ] Assignment
+                    - [ ] How to think like a programmer — lessons in problem solving
+                        - https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+                    - [▶️] How to think like a programmer — lessons in problem solving
+                        - https://www.youtube.com/watch?v=azcrPFhaY9k
+                    - [ ] What is Pseudo-coding?
+                        - https://web.archive.org/web/20211229231605/https://www.vikingcodeschool.com/software-engineering-basics/what-is-pseudo-coding
+                - [ ] Knowledge check
+                - [ ] Additional resources                
             - [ ] Understanding Errors
             - [ ] Project: Rock Paper Scissors
             - [ ] Clean Code
