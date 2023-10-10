@@ -418,9 +418,9 @@
                 - [✔️] Divide and conquer
                 - [✔️] Solving Fizz Buzz
                 - [ ] Assignment
-                    - [ ] How to think like a programmer — lessons in problem solving
+                    - [✔️] How to think like a programmer — lessons in problem solving
                         - https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
-                    - [▶️] How to think like a programmer — lessons in problem solving
+                    - [✔️] How to think like a programmer — lessons in problem solving
                         - https://www.youtube.com/watch?v=azcrPFhaY9k
                     - [ ] What is Pseudo-coding?
                         - https://web.archive.org/web/20211229231605/https://www.vikingcodeschool.com/software-engineering-basics/what-is-pseudo-coding
