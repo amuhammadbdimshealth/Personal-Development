@@ -506,11 +506,35 @@
             - [ ] Eliminate the DOM Access Directly
             - [ ] Add Multiple Classes To an Element
             - [ ] Use Selectors    
-- [ ] **VueJs Course** 
+- [ ] **VueJs Udemy Course** 
     - [ ]  
     - [ ]  
     - [ ]  
     - [ ]      
+- [▶️] Vue Crash Course (Traversy Media)
+    - https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=3373s
+    - [✔️] 0:00 - Intro & Slides
+    - [✔️] 7:17 - User Generator Mini Project (CDN)
+    - [✔️] 21:35 - Vue CLI Setup
+    - [▶️] 24:30 - Files, Dev Server & Cleanup
+    - [ ] 28:22 - Global Styles
+    - [ ] 29:06 - Header Component
+    - [ ] 30:44 - Component Props
+    - [ ] 32:06 - Button Component
+    - [ ] 35:25 - Events
+    - [ ] 36:09 - Task Data & created() Method
+    - [ ] 38:22 - Tasks Component & v-for Loop
+    - [ ] 41:09 - Single Task Component
+    - [ ] 44:34 - Dynamic Classes
+    - [ ] 45:53 - Emit Events (Delete Task)
+    - [ ] 52:14 - Toggle Reminder
+    - [ ] 56:20 - AddTask Component & v-model
+    - [ ] 1:04:57 - Toggle Form & Template Conditionals
+    - [ ] 1:11:20 - Building For Production
+    - [ ] 1:13:33 - JSON-Server Setup
+    - [ ] 1:17:18 - Refactoring to Use The Backend
+    - [ ] 1:30:48 - Implementing the Router
+    - [ ] 1:48:23 - Restrict a Component to a Route
 # Css Course*
 - [ ] **Css Course** 
     - [ ]  
@@ -614,3 +638,4 @@
 ## Focus
 - [ ] :focus-visible (Css tricks)
     - https://css-tricks.com/almanac/selectors/f/focus-visible/
+
