@@ -394,22 +394,22 @@
                         - [✔️] Debug JavaScript
                         - [✔️] Pause your code with breakpoints
                         - [✔️] Then, watch the console overview video and read through the page to familiarize yourself with the console and its usage.
-            - [▶️] Fundamentals Part 3
+            - [✔️] Fundamentals Part 3
                 - https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
                 - [✔️] Introduction
                 - [✔️] Lesson overview
-                - [▶️] Functions
+                - [✔️] Functions
                     - [✔️] MDN article
                         - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
                     - [✔️] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
-                    - [▶️] http://javascript.info/function-basics
-                        - [▶️] https://javascript.info/function-basics#returning-a-value
-                - [ ] Assignment
+                    - [✔️] http://javascript.info/function-basics
+                        - [✔️] https://javascript.info/function-basics#returning-a-value
+                - [✔️] Assignment
                 - [ ] Knowledge check
-                - [ ] Additional resource
-                    - [ ] Event loop 
+                - [🕛] Additional resource
+                    - [🕛] Event loop 
                         - https://www.javascripttutorial.net/javascript-event-loop/
-            - [▶️] Problem Solving
+            - [✔️] Problem Solving
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] Understand the problem
@@ -422,11 +422,20 @@
                         - https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
                     - [✔️] How to think like a programmer — lessons in problem solving
                         - https://www.youtube.com/watch?v=azcrPFhaY9k
-                    - [ ] What is Pseudo-coding?
-                        - https://web.archive.org/web/20211229231605/https://www.vikingcodeschool.com/software-engineering-basics/what-is-pseudo-coding
-                - [ ] Knowledge check
-                - [ ] Additional resources                
-            - [ ] Understanding Errors
+                    - [✔️] What is Pseudo-coding?
+                        - [✔️] https://web.archive.org/web/20211229231605/https://www.vikingcodeschool.com/software-engineering-basics/what-is-pseudo-coding
+                        - [✔️] https://web.archive.org/web/20211018222347/https://www.vikingcodeschool.com/software-engineering-basics/the-elements-of-pseudocode                
+            - [▶️] Understanding Errors 
+                - https://www.theodinproject.com/lessons/foundations-understanding-errors
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] The anatomy of an error
+                - [✔️] Common types of errors
+                - [✔️] Tips for resolving errors
+                - [✔️] Errors vs. warnings
+                - [▶️] Assignments
+                    - Work through this lesson on MDN. Be sure to download their starter code that has intentional errors.
+                        - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
             - [ ] Project: Rock Paper Scissors
             - [ ] Clean Code
             - [ ] Installing Node.js
