@@ -425,7 +425,7 @@
                     - [✔️] What is Pseudo-coding?
                         - [✔️] https://web.archive.org/web/20211229231605/https://www.vikingcodeschool.com/software-engineering-basics/what-is-pseudo-coding
                         - [✔️] https://web.archive.org/web/20211018222347/https://www.vikingcodeschool.com/software-engineering-basics/the-elements-of-pseudocode                
-            - [▶️] Understanding Errors 
+            - [✔️] Understanding Errors 
                 - https://www.theodinproject.com/lessons/foundations-understanding-errors
                 - [✔️] Introduction
                 - [✔️] Lesson overview
@@ -433,10 +433,10 @@
                 - [✔️] Common types of errors
                 - [✔️] Tips for resolving errors
                 - [✔️] Errors vs. warnings
-                - [▶️] Assignments
+                - [✔️] Assignments
                     - Work through this lesson on MDN. Be sure to download their starter code that has intentional errors.
                         - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
-            - [ ] Project: Rock Paper Scissors
+            - [✔️] Project: Rock Paper Scissors            
             - [ ] Clean Code
             - [ ] Installing Node.js
             - [ ] Fundamentals Part 4
@@ -512,29 +512,40 @@
     - [ ]  
     - [ ]      
 - [▶️] Vue Crash Course (Traversy Media)
-    - https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=3373s
-    - [✔️] 0:00 - Intro & Slides
-    - [✔️] 7:17 - User Generator Mini Project (CDN)
-    - [✔️] 21:35 - Vue CLI Setup
-    - [▶️] 24:30 - Files, Dev Server & Cleanup
-    - [ ] 28:22 - Global Styles
-    - [ ] 29:06 - Header Component
-    - [ ] 30:44 - Component Props
-    - [ ] 32:06 - Button Component
-    - [ ] 35:25 - Events
-    - [ ] 36:09 - Task Data & created() Method
-    - [ ] 38:22 - Tasks Component & v-for Loop
-    - [ ] 41:09 - Single Task Component
-    - [ ] 44:34 - Dynamic Classes
-    - [ ] 45:53 - Emit Events (Delete Task)
-    - [ ] 52:14 - Toggle Reminder
-    - [ ] 56:20 - AddTask Component & v-model
-    - [ ] 1:04:57 - Toggle Form & Template Conditionals
-    - [ ] 1:11:20 - Building For Production
-    - [ ] 1:13:33 - JSON-Server Setup
-    - [ ] 1:17:18 - Refactoring to Use The Backend
-    - [ ] 1:30:48 - Implementing the Router
-    - [ ] 1:48:23 - Restrict a Component to a Route
+    - Video Link 
+        - https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=3373s
+    - Repo
+        - https://github.com/bradtraversy/vue-crash-2021
+    - Additional Links
+        - https://vuejs.org/guide/introduction.html
+        - https://v2.vuejs.org/v2/guide/installation#CLI
+        - https://cli.vuejs.org/guide/creating-a-project.html        
+    - Time Stamps 
+        - [✔️] 0:00 - Intro & Slides
+        - [✔️] 7:17 - User Generator Mini Project (CDN)
+        - [✔️] 21:35 - Vue CLI Setup
+        - [▶️] 24:30 - Files, Dev Server & Cleanup            
+            - https://youtu.be/qZXt1Aom3Cs?t=1517                
+        - [✔️] 28:22 - Global Styles
+        - [✔️] 29:06 - Header Component
+        - [✔️] 30:44 - Component Props
+        - [✔️] 32:06 - Button Component
+        - [ ] 35:25 - Events
+        - [ ] 36:09 - Task Data & created() Method
+        - [ ] 38:22 - Tasks Component & v-for Loop
+        - [ ] 41:09 - Single Task Component
+        - [ ] 44:34 - Dynamic Classes
+        - [ ] 45:53 - Emit Events (Delete Task)
+        - [ ] 52:14 - Toggle Reminder
+        - [ ] 56:20 - AddTask Component & v-model
+        - [ ] 1:04:57 - Toggle Form & Template Conditionals
+        - [ ] 1:11:20 - Building For Production
+        - [ ] 1:13:33 - JSON-Server Setup
+        - [ ] 1:17:18 - Refactoring to Use The Backend
+        - [ ] 1:30:48 - Implementing the Router
+        - [ ] 1:48:23 - Restrict a Component to a Route
+- [ ] VueJs Tutorial (Official Page)
+    - https://vuejs.org/tutorial/#step-1
 # Css Course*
 - [ ] **Css Course** 
     - [ ]  
