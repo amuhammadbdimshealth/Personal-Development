@@ -437,7 +437,11 @@
                     - Work through this lesson on MDN. Be sure to download their starter code that has intentional errors.
                         - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
             - [✔️] Project: Rock Paper Scissors            
-            - [ ] Clean Code
+            - [✔️] Clean Code
+                - [✔️] Assignment
+                    - [✔️] Thttps://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/
+                    - [✔️] https://blog.codinghorror.com/coding-without-comments/
+                    - [✔️] https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
             - [ ] Installing Node.js
             - [ ] Fundamentals Part 4
             - [ ] DOM Manipulation and Events
@@ -530,11 +534,11 @@
         - [✔️] 29:06 - Header Component
         - [✔️] 30:44 - Component Props
         - [✔️] 32:06 - Button Component
-        - [ ] 35:25 - Events
-        - [ ] 36:09 - Task Data & created() Method
-        - [ ] 38:22 - Tasks Component & v-for Loop
-        - [ ] 41:09 - Single Task Component
-        - [ ] 44:34 - Dynamic Classes
+        - [✔️] 35:25 - Events
+        - [✔️] 36:09 - Task Data & created() Method
+        - [✔️] 38:22 - Tasks Component & v-for Loop
+        - [✔️] 41:09 - Single Task Component
+        - [✔️] 44:34 - Dynamic Classes
         - [ ] 45:53 - Emit Events (Delete Task)
         - [ ] 52:14 - Toggle Reminder
         - [ ] 56:20 - AddTask Component & v-model
