@@ -442,8 +442,16 @@
                     - [✔️] Thttps://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/
                     - [✔️] https://blog.codinghorror.com/coding-without-comments/
                     - [✔️] https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
-            - [ ] Installing Node.js
-            - [ ] Fundamentals Part 4
+            - [✔️] Installing Node.js
+            - [✔️] Fundamentals Part 4
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Arrays
+                - [▶️] Loops
+                - [ ] Test Driven Development
+                - [ ] Assignment
+                - [ ] Knowledge check
+                - [ ] Additional resources
             - [ ] DOM Manipulation and Events
             - [ ] Revisiting Rock Paper Scissors
             - [ ] Project: Etch-a-Sketch
@@ -539,10 +547,10 @@
         - [✔️] 38:22 - Tasks Component & v-for Loop
         - [✔️] 41:09 - Single Task Component
         - [✔️] 44:34 - Dynamic Classes
-        - [ ] 45:53 - Emit Events (Delete Task)
-        - [ ] 52:14 - Toggle Reminder
-        - [ ] 56:20 - AddTask Component & v-model
-        - [ ] 1:04:57 - Toggle Form & Template Conditionals
+        - [▶️] 45:53 - Emit Events (Delete Task)
+        - [▶️] 52:14 - Toggle Reminder
+        - [▶️] 56:20 - AddTask Component & v-model
+        - [▶️] 1:04:57 - Toggle Form & Template Conditionals
         - [ ] 1:11:20 - Building For Production
         - [ ] 1:13:33 - JSON-Server Setup
         - [ ] 1:17:18 - Refactoring to Use The Backend
