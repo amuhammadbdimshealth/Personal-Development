@@ -447,8 +447,10 @@
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] Arrays
-                - [▶️] Loops
-                - [ ] Test Driven Development
+                - [✔️] Loops
+                    - [✔️] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#active_learning_launch_countdown
+                    - [✔️] https://javascript.info/while-for
+                - [▶️] Test Driven Development
                 - [ ] Assignment
                 - [ ] Knowledge check
                 - [ ] Additional resources
