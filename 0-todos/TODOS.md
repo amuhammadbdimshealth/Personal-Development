@@ -549,8 +549,8 @@
         - [✔️] 38:22 - Tasks Component & v-for Loop
         - [✔️] 41:09 - Single Task Component
         - [✔️] 44:34 - Dynamic Classes
-        - [▶️] 45:53 - Emit Events (Delete Task)
-        - [▶️] 52:14 - Toggle Reminder
+        - [✔️] 45:53 - Emit Events (Delete Task)
+        - [✔️] 52:14 - Toggle Reminder
         - [▶️] 56:20 - AddTask Component & v-model
         - [▶️] 1:04:57 - Toggle Form & Template Conditionals
         - [ ] 1:11:20 - Building For Production

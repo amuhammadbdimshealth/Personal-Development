@@ -1,6 +1,10 @@
 <template>
     <div :key="task.id" v-for="task in taskList">
-        <Task :task=task />
+        <Task 
+            :task=task
+            @delete-task="deleteTask"
+            @dblclick="$emit('toggle-reminder', task.id)" 
+            />
     </div>
 </template>
 
@@ -14,8 +18,15 @@ export default {
     },
     components: {
         Task
+    },
+    emits: ['delete-task', 'toggle-reminder'], 
+    methods: {
+        deleteTask(id) {
+            // console.log('taskList', id);
+            this.$emit('delete-task', id);
+        }
     }
 }
 </script>
 
-<style></style>
+<style></style> 

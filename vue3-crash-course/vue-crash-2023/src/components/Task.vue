@@ -1,6 +1,13 @@
 <template>
-    <div class="task" :class="{ reminder: task.reminder }">
-        <i class="fa-solid fa-xmark close-mark"></i>
+    <div
+        @dblclick="$emit('toggle-reminder', task.id)" 
+        class="task" 
+        :class="{ reminder: task.reminder }"
+        >
+        <i 
+            class="fa-solid fa-xmark close-mark"
+            @click="deleteTask(task.id)">
+        </i>
         <h3 :style="{ backgroundColor: 'gray', color: 'white' }">
             {{ task.name }}
         </h3>
@@ -15,7 +22,13 @@ export default {
     name: "Task",
     props: {
         task: Object
-    }
+    },
+    methods: {
+        deleteTask(id) {
+            // console.log(id);
+            this.$emit('delete-task', id);
+        }
+    }    
 }
 </script>
 
