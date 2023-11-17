@@ -451,9 +451,16 @@
                     - [✔️] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#active_learning_launch_countdown
                     - [✔️] https://javascript.info/while-for
                 - [▶️] Test Driven Development
-                - [ ] Assignment
-                - [ ] Knowledge check
-                - [ ] Additional resources
+                    - [▶️] Assignment                
+                        - [✔️] 01_helloWorld (This exercise is intentionally very simple to ensure that you have set up everything properly!)
+                        - [✔️] 02_repeatString
+                        - [✔️] 03_reverseString
+                        - [✔️] 04_removeFromArray
+                        - [✔️] 05_sumAll
+                        - [ ] 06_leapYears
+                        - [ ] 07_tempConversion
+                    - [ ] Knowledge check
+                    - [ ] Additional resources
             - [ ] DOM Manipulation and Events
             - [ ] Revisiting Rock Paper Scissors
             - [ ] Project: Etch-a-Sketch
