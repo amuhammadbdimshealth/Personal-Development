@@ -1,17 +1,22 @@
 <template>
     <header>
         <h1>{{ title }}</h1> 
-        <Button color="green" text="Add Task"/>
+        <Button 
+            :color='showAddTaskForm ? "#FF0000" : "#45a049"' 
+            :text='showAddTaskForm ? "Close" : "Add Task"'
+            @btn-click='$emit("show-add-form")'
+        />
     </header>
 </template>
 
 <script>
-import Button from './Button.vue'
+import Button from './Button.vue' 
 export default {
     name: "Header",
     // props:  ['title']
     props: {
-        title: String
+        title: String,
+        showAddTaskForm: Boolean
     },
     components: {
         Button

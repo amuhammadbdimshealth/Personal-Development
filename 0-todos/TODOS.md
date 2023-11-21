@@ -558,11 +558,11 @@
         - [✔️] 44:34 - Dynamic Classes
         - [✔️] 45:53 - Emit Events (Delete Task)
         - [✔️] 52:14 - Toggle Reminder
-        - [▶️] 56:20 - AddTask Component & v-model
-        - [▶️] 1:04:57 - Toggle Form & Template Conditionals
-        - [ ] 1:11:20 - Building For Production
-        - [ ] 1:13:33 - JSON-Server Setup
-        - [ ] 1:17:18 - Refactoring to Use The Backend
+        - [✔️] 56:20 - AddTask Component & v-model
+        - [✔️] 1:04:57 - Toggle Form & Template Conditionals
+        - [▶️] 1:11:20 - Building For Production
+        - [▶️] 1:13:33 - JSON-Server Setup
+        - [▶️] 1:17:18 - Refactoring to Use The Backend
         - [ ] 1:30:48 - Implementing the Router
         - [ ] 1:48:23 - Restrict a Component to a Route
 - [ ] VueJs Tutorial (Official Page)

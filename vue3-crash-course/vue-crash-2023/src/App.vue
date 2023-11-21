@@ -1,19 +1,28 @@
 <template>
   <div class="container">
-    <Header title='Task Tracker' />
+    <Header 
+      title='Task Tracker' 
+      :showAddTaskForm='showAddTaskForm' 
+      @show-add-form="showAddTaskForm = !showAddTaskForm" 
+    />
+
+    <AddTask 
+      v-if="showAddTaskForm" 
+      @save-task="saveTask" 
+    />
+
     <TaskList 
-      :taskList = tasks 
-      @delete-task="deleteTask"
+      :taskList=tasks 
+      @delete-task="deleteTask" 
       @toggle-reminder="toggleReminder" 
-      />
-    <AddTask />
+    />
   </div>
 </template>
 
 <script>
-import Header from './components/Header.vue'
-import TaskList from './components/TaskList.vue'
-import AddTask from './components/AddTask.vue'
+import Header from './components/Header.vue';
+import TaskList from './components/TaskList.vue';
+import AddTask from './components/AddTask.vue';
 
 
 export default {
@@ -25,8 +34,9 @@ export default {
   },
   data() {
     return {
-      tasks: []
-    }
+      tasks: [],
+      showAddTaskForm: true
+    };
   },
   created() {
     this.tasks = [
@@ -48,19 +58,22 @@ export default {
         deadLine: '22-Dec-2023 11.00 am',
         reminder: false
       }
-    ]
+    ];
   },
   methods: {
-        deleteTask(id) {
-          const index = this.tasks.findIndex(task => task.id === id)
-          this.tasks.splice(index,1)
-        },
-        toggleReminder(id) {
-          const task = this.tasks.find(t => t.id === id)
-          task.reminder = !task.reminder
-        }
+    deleteTask(id) {
+      const index = this.tasks.findIndex(task => task.id === id);
+      this.tasks.splice(index, 1);
+    },
+    toggleReminder(id) {
+      const task = this.tasks.find(t => t.id === id);
+      task.reminder = !task.reminder;
+    },
+    saveTask(task, event) {
+      this.tasks.push(task);
     }
-}
+  }
+};
 </script>
 
 <style>

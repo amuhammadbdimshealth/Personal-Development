@@ -22,18 +22,36 @@
       <input v-model="reminder" type="checkbox" id="reminder" name="reminder">
     </div>
 
-    <button type="submit">Add Task</button>
+    <button 
+      type="submit"
+      @click="saveTask"
+    >
+      Save task
+    </button>
   </form>
 </template>
 
 <script>
 export default {
   name: 'AddTask',
+  emits: ['save-task'],
   data() {
     return {
       taskName: '',
       deadlineDate: '',
       reminder: false
+    }
+  },
+  methods: {
+    saveTask(event) {
+      event.preventDefault();
+      const task = {
+        id: Math.ceil(Math.random() * 1000),
+        name: this.taskName,
+        deadLine: this.deadlineDate,
+        reminder: this.reminder
+      }
+      this.$emit('save-task', task);
     }
   }
 };
@@ -49,7 +67,7 @@ export default {
 
   #add-task-form {
     max-width: 400px;
-    margin: 50px auto;
+    margin: 20px auto;
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
@@ -79,7 +97,8 @@ export default {
   }
 
   button {
-    background-color: #4caf50;
+    width: 100%;
+    background-color: #1b1c1b;
     color: #fff;
     padding: 10px 15px;
     border: none;
