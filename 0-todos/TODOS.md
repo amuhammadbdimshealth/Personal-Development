@@ -565,6 +565,20 @@
         - [ ] 1:48:23 - Restrict a Component to a Route
 - [ ] VueJs Tutorial (Official Page)
     - https://vuejs.org/tutorial/#step-1
+    - [✔️] 1. Getting
+    - [✔️] 2. Declarative Rendering
+    - [ ] 3. Attribute Binding
+    - [ ] 4. Event Listeners
+    - [ ] 5. Form Bindings
+    - [ ] 6. Conditional Rendering
+    - [ ] 7. List Rendering
+    - [ ] 8. Computed Property
+    - [ ] 9. Lifecycle and Template Refs
+    - [ ] 10. Watchers
+    - [ ] 11. Components
+    - [ ] 12. Props
+    - [ ] 13. Emits
+    - [ ] 14. Slots
 # Css Course*
 - [ ] **Css Course** 
     - [ ]  
