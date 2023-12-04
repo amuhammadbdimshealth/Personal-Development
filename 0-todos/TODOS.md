@@ -450,17 +450,15 @@
                 - [✔️] Loops
                     - [✔️] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#active_learning_launch_countdown
                     - [✔️] https://javascript.info/while-for
-                - [▶️] Test Driven Development
-                    - [▶️] Assignment                
+                - [✔️] Test Driven Development
+                    - [✔️] Assignment                
                         - [✔️] 01_helloWorld (This exercise is intentionally very simple to ensure that you have set up everything properly!)
                         - [✔️] 02_repeatString
                         - [✔️] 03_reverseString
                         - [✔️] 04_removeFromArray
                         - [✔️] 05_sumAll
-                        - [ ] 06_leapYears
-                        - [ ] 07_tempConversion
-                    - [ ] Knowledge check
-                    - [ ] Additional resources
+                        - [✔️] 06_leapYears
+                        - [✔️] 07_tempConversion                    
             - [ ] DOM Manipulation and Events
             - [ ] Revisiting Rock Paper Scissors
             - [ ] Project: Etch-a-Sketch
@@ -541,7 +539,7 @@
         - https://vuejs.org/guide/introduction.html
         - https://v2.vuejs.org/v2/guide/installation#CLI
         - https://cli.vuejs.org/guide/creating-a-project.html        
-    - Time Stamps 
+    - Time Stamps  
         - [✔️] 0:00 - Intro & Slides
         - [✔️] 7:17 - User Generator Mini Project (CDN)
         - [✔️] 21:35 - Vue CLI Setup
