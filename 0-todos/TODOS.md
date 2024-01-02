@@ -460,6 +460,23 @@
                         - [✔️] 06_leapYears
                         - [✔️] 07_tempConversion                    
             - [ ] DOM Manipulation and Events
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] DOM - Document Object Model
+                - [✔️] Targeting nodes with selectors
+                - [✔️] DOM methods
+                    - Adding js script in the html file
+                        - Use the <script> tag with the src attribute containing the path to the JS file, and include the defer keyword to load the file after the HTML is parsed, as such:
+                            - ```
+                            <head>
+                            <script src="js-file.js" defer></script>
+                            </head>
+                            ```
+                - [▶️] Exercise
+                - [ ] Events
+                - [ ] Assignment
+                - [ ] Knowledge check
+                - [ ] Additional resources            
             - [ ] Revisiting Rock Paper Scissors
             - [ ] Project: Etch-a-Sketch
             - [ ] Fundamentals Part 5
@@ -645,6 +662,8 @@
     - explore\date_and_time.js
 - [ ] JS Chart libraries
     - https://www.atatus.com/blog/javascript-chart-libraries/#Chart.js
+    - [ ] Chart.js
+        - https://www.chartjs.org/
 
 # PPMS Training Videos 
 - [✔️] Webinar: Functional Overview - Forms & Documents (watched on 2023-07-12)
