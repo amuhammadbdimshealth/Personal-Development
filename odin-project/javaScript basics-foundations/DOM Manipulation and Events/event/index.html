@@ -1,0 +1,47 @@
+<!-- your HTML file: -->
+
+<body>
+    <!-- Event -->
+    <h4>Methods of attaching listeners</h4>
+    <button onclick="alert('Hello World')">Click Me</button>
+    <button id="btn">Click Me</button>
+    <button id="btn2">Click Me Too</button>
+    <button id="btn3">Click Me Too</button>
+
+    <h4>Attaching listeners to groups of nodes</h4>
+    <div id="container">
+        <button id="1">Click Me</button>
+        <button id="2">Click Me</button>
+        <button id="3">Click Me</button>
+    </div>
+</body>
+
+
+<script>
+    // Event
+    const btn = document.querySelector('#btn');
+    btn.onclick = () => alert("Hello World");
+
+    const btn2 = document.querySelector('#btn2');
+    btn2.addEventListener('click', () => {
+        alert("Hello World");
+    });
+
+    const btn3 = document.querySelector('#btn3');
+    btn3.addEventListener('click', function (e) {
+        e.target.style.background = 'blue';
+    });
+
+    // Attaching listeners to groups of nodes
+    // buttons is a node list. It looks and acts much like an array.
+    const buttons = document.querySelectorAll('#container button');
+
+    // we use the .forEach method to iterate through each button
+    buttons.forEach((button) => {
+
+        // and for each one we add a 'click' listener
+        button.addEventListener('click', () => {
+            alert(button.id);
+        });
+    });
+</script>
