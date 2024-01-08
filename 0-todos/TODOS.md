@@ -459,7 +459,7 @@
                         - [✔️] 05_sumAll
                         - [✔️] 06_leapYears
                         - [✔️] 07_tempConversion                    
-            - [✔️] DOM Manipulation and Events
+            - [▶️] DOM Manipulation and Events
                 - [✔️] Introduction
                 - [✔️] Lesson overview
                 - [✔️] DOM - Document Object Model
