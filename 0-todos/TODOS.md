@@ -643,7 +643,6 @@
     - [ ] 
     - [ ] 
     - [ ] 
-
 # AWS
 - [Free_Course]
     - https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/
@@ -651,12 +650,10 @@
 - [Article]
     - 10 Best AWS Certifications for Beginners and Experienced in 2022
         - https://medium.com/javarevisited/10-best-aws-certifications-to-aim-in-2022-713c37fac147
-
 # ChatGPT
 - https://dev.to/adriantwarog/ultimate-chatgpt-resource-guide-chatgpt-tutorial-dfe
 - https://www.youtube.com/watch?v=sTeoEFzVNSc
 - https://openai.com/blog/chatgpt/
-
 # Explore 
 - [✔️] Dates - https://javascript.info/date
     - explore\date_and_time.js
@@ -664,13 +661,11 @@
     - https://www.atatus.com/blog/javascript-chart-libraries/#Chart.js
     - [ ] Chart.js
         - https://www.chartjs.org/
-
 # PPMS Training Videos 
 - [✔️] Webinar: Functional Overview - Forms & Documents (watched on 2023-07-12)
     - https://stratocore.zendesk.com/hc/en-us/articles/14224659415575-Webinar-Functional-Overview-Forms-Documents
 - [ ] Webinar: New Features - Services and Consumables Management
     - https://stratocore.zendesk.com/hc/en-us/articles/12607991656727-Webinar-New-Features-Services-and-Consumables-Management
-
 # File upload 
 - [ ] How to Upload Files with JavaScript
     - https://www.freecodecamp.org/news/upload-files-with-javascript/
@@ -679,7 +674,6 @@
 - [ ] How do you upload your files to a web server?
     - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server
 - [ ]  
-
 # JWT
 - [✔️] JWT Homepage
     - [✔️] https://jwt.io/introduction
@@ -691,7 +685,6 @@
     - [✔️] https://www.youtube.com/watch?v=mbsmsi7l3r4&t=64s
 - [ ] Library (python)
     - [ ] https://pyjwt.readthedocs.io/en/stable/usage.html
-
 # Accessibility
 ## Radio Buttons
 - Guidelines for radio buttons (Microsoft )
@@ -701,4 +694,76 @@
 ## Focus
 - [ ] :focus-visible (Css tricks)
     - https://css-tricks.com/almanac/selectors/f/focus-visible/
+# Integration (PPMS)
+- Integration deadline is something client sets but dev work is something that is flexible in terms of deadline
+    - So we need more hand in these projects
+    - Need ams involvement
+        - sql procedures
+        - custom reports
+    - Concepts
+        - user sync 
+        - group sync
+        - account sync
+        - api calls
+        - sap export report 
+        - invoice report
+        - lambda
+- Pdf processes    
+    - handover from Gulshan
+    - nodeJs
+    - [ams] eu4 conversions
+    - gr
+        - 3 pdf works running
+            - nmbu
+            - ucdavis - initial stage
+            - criyo - Done
+        - can arnab get involved
+            - mm also mentioned arnab for nodejs project
+            - arnab is also keen to help in integration
+- MUltiplier 
+    - hms 
+    - timestamp concept for multipliers
+        - multipliers can be stored by different month-year
+- gr, myr
+    - migrations - count: 18 
+    - generic pdf
+    - lambda
+- How to distribute workload
+    - Percentage
+        - Dev (60)
+        - Integration (30)
+        - Supp (10)
+    - Once pressure is released you can increase the work on dev
+- Contract update to write the workloads for ams ??
+    - So that things don't change overtime
+- Statistics page also needs Multiplier
+- Ams Plan Integration
+    - Contract: Flexible
+    - Percentage 
+        - Dev(60), Integration(30), Supp(10)
+    - Tasks to start with
+        - Pdf processes 
+            - Guide: Gr
+            - Involve ams in ucdavis
+            - Eu4 migration (mm wants involvement)
+            - Library: pdf make
+                - nodejs 
+            - Schedule 
+                - gr, ams, kam, sam
+            - We can involve Arnab in this.
+        - FHT Multiplier Proc
+            - Sample proc exists - bw
+            - Guide: myr
+            - Sample client - hms
+            - Custom report - needs to be written  
+- ISO report
+    - Bd team is lagging behind
+- Kam comments
+    - Failure of a single person impacts the whole team
+    - Dev 
+        - kam now has a good understanding
+    - Integration
+        - 0 understanding
+    - Ams Co-working 
+        - 
 
