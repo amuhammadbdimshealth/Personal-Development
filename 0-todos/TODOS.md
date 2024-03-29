@@ -475,6 +475,8 @@
                 - [✔️] Exercise
                 - [✔️] Events
                 - [▶️] Assignment
+                    - [▶️] Complete MDN’s Active Learning sections on DOM manipulation and test your skills!
+                    - [] Read the following sections from JavaScript Tutorial’s series on the DOM to get a broader idea of how events can be used in your pages.
                 - [ ] Knowledge check
                 - [ ] Additional resources            
             - [ ] Revisiting Rock Paper Scissors
