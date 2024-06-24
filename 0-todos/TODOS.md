@@ -475,8 +475,16 @@
                 - [✔️] Exercise
                 - [✔️] Events
                 - [▶️] Assignment
-                    - [▶️] Complete MDN’s Active Learning sections on DOM manipulation and test your skills!
-                    - [] Read the following sections from JavaScript Tutorial’s series on the DOM to get a broader idea of how events can be used in your pages.
+                    - [✔️] Complete MDN’s Active Learning sections on DOM manipulation and test your skills!
+                    - [▶️] Read the following sections from JavaScript Tutorial’s series on the DOM to get a broader idea of how events can be used in your pages.
+                        - [ ] https://www.javascripttutorial.net/javascript-dom/javascript-events/ 
+                            - [✔️] JavaScript events
+                            - [✔️] Page load events
+                            - [ ] Mouse events
+                            - [ ] Keyboard events
+                            - [ ] Event delegation
+                            - [ ] The dispatchEvent method
+                            - [ ] Custom events
                 - [ ] Knowledge check
                 - [ ] Additional resources            
             - [ ] Revisiting Rock Paper Scissors
