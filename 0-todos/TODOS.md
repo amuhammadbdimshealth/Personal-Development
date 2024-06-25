@@ -480,8 +480,8 @@
                         - [ ] https://www.javascripttutorial.net/javascript-dom/javascript-events/ 
                             - [✔️] JavaScript events
                             - [✔️] Page load events
-                            - [ ] Mouse events
-                            - [ ] Keyboard events
+                            - [✔️] Mouse events
+                            - [✔️] Keyboard events
                             - [ ] Event delegation
                             - [ ] The dispatchEvent method
                             - [ ] Custom events
