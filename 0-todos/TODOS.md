@@ -482,9 +482,9 @@
                             - [✔️] Page load events
                             - [✔️] Mouse events
                             - [✔️] Keyboard events
-                            - [ ] Event delegation
-                            - [ ] The dispatchEvent method
-                            - [ ] Custom events
+                            - [✔️] Event delegation
+                            - [✔️] The dispatchEvent method
+                            - [✔️] Custom events
                 - [ ] Knowledge check
                 - [ ] Additional resources            
             - [ ] Revisiting Rock Paper Scissors
