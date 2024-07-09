@@ -484,10 +484,8 @@
                             - [✔️] Keyboard events
                             - [✔️] Event delegation
                             - [✔️] The dispatchEvent method
-                            - [✔️] Custom events
-                - [ ] Knowledge check
-                - [ ] Additional resources            
-            - [ ] Revisiting Rock Paper Scissors
+                            - [✔️] Custom events                                
+            - [▶️] Revisiting Rock Paper Scissors
             - [ ] Project: Etch-a-Sketch
             - [ ] Fundamentals Part 5
             - [ ] Project: Calculator
