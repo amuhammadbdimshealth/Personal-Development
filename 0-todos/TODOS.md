@@ -485,14 +485,25 @@
                             - [✔️] Event delegation
                             - [✔️] The dispatchEvent method
                             - [✔️] Custom events                                
-            - [▶️] Revisiting Rock Paper Scissors
-                - [] UI
+            - [✔️] Revisiting Rock Paper Scissors
+                - [✔️] UI
                     - [✔️] For now, remove the logic that plays exactly five rounds.
                     - [✔️] Create three buttons, one for each selection. Add an event listener to the buttons that call your playRound function with the correct playerSelection every time a button is clicked. (you can keep the console.logs for this step)
                     - [✔️] Add a div for displaying results and change all of your console.logs into DOM methods.
                     - [✔️] Display the running score, and announce a winner of the game once one player reaches 5 points.
                     - [✔️] You will likely have to refactor (rework/rewrite) your original code to make it work for this. That’s OK! Reworking old code is an important part of a programmer’s life.
-            - [ ] Project: Etch-a-Sketch
+            - [] Project: Etch-a-Sketch
+                - [] Create a webpage with a 16x16 grid of square divs.
+                    - [] Create the divs using JavaScript. Don’t try to create them by hand by copying and pasting them in your HTML file!
+                    - [] It’s best to put your grid squares inside a “container” div. This div can be written in your HTML file.
+                    - [] Use Flexbox to make the divs appear as a grid (versus just one on each line). Despite the name, do not be tempted to research or use CSS Grid, as it will be taught in a later lesson after the foundations path. This project is an opportunity specifically to practice Flexbox!
+                    - [] Be careful with borders and margins, as they can adjust the size of the squares!
+                    - [] “OMG, why isn’t my grid being created???”
+                    - [] Did you link your CSS stylesheet?
+                    - [] Open your browser’s developer tools.
+                    - [] Check if there are any errors in the JavaScript console.
+                    - [] Check your “elements” panel to see if the elements have actually shown up but are somehow hidden.
+                    - [] Go willy-nilly and add console.log statements in your JavaScript to see if it’s actually being loaded.            
             - [ ] Fundamentals Part 5
             - [ ] Project: Calculator
         - [ ] Conclusion
