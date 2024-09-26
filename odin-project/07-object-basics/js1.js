@@ -27,5 +27,3 @@ const sumOfTripledEvens2 = (list = []) => {
 
 const result = sumOfTripledEvens([1,2,3,4,5,6,7,8])
 const result2 = sumOfTripledEvens2([1,2,3,4,5,6,7,8])
-result
-result2
