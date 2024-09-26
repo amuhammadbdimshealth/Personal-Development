@@ -115,4 +115,4 @@ let menu = {
     title: "My menu"
 };
 const mSum = multiplyNumeric(menu);
-mSum
+// mSum
