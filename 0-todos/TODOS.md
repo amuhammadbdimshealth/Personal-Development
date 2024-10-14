@@ -506,6 +506,14 @@
                     - [✔️] Go willy-nilly and add console.log statements in your JavaScript to see if it’s actually being loaded.            
             - [▶️] Object Basics
                 - https://www.theodinproject.com/lessons/foundations-object-basics  
+                - [] Assignment
+                    - [✔️] 08_calculator
+                    - [✔️] 09_palindromes
+                    - [✔️] 10_fibonacci
+                    - [✔️] 11_getTheTitles
+                    - [✔️] 12_findTheOldest
+                - [▶️] JavaScript Array Cardio Practice - Day 1    
+                    - https://www.youtube.com/watch?v=HB1ZC7czKRs           
                 - [▶️] https://javascript.info/array-methods#iterate-foreach              
             - [ ] Project: Calculator
         - [ ] Conclusion
