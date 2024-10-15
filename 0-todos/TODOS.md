@@ -512,7 +512,7 @@
                     - [✔️] 10_fibonacci
                     - [✔️] 11_getTheTitles
                     - [✔️] 12_findTheOldest
-                - [▶️] JavaScript Array Cardio Practice - Day 1    
+                - [✔️] JavaScript Array Cardio Practice - Day 1    
                     - https://www.youtube.com/watch?v=HB1ZC7czKRs           
                 - [▶️] https://javascript.info/array-methods#iterate-foreach              
             - [ ] Project: Calculator
