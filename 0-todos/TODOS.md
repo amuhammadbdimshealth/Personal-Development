@@ -504,7 +504,7 @@
                     - [✔️] Check if there are any errors in the JavaScript console.
                     - [✔️] Check your “elements” panel to see if the elements have actually shown up but are somehow hidden.
                     - [✔️] Go willy-nilly and add console.log statements in your JavaScript to see if it’s actually being loaded.            
-            - [▶️] Object Basics
+            - [✔️] Object Basics
                 - https://www.theodinproject.com/lessons/foundations-object-basics  
                 - [] Assignment
                     - [✔️] 08_calculator
@@ -514,7 +514,10 @@
                     - [✔️] 12_findTheOldest
                 - [✔️] JavaScript Array Cardio Practice - Day 1    
                     - https://www.youtube.com/watch?v=HB1ZC7czKRs           
-                - [▶️] https://javascript.info/array-methods#iterate-foreach              
+                - [✔️] JavaScript Array Cardio Practice - Day 1 
+                    - https://javascript.info/array-methods#iterate-foreach   
+                - [✔️] Array Cardio Day 2.
+                    - https://www.youtube.com/watch?v=QNmRfyNg1lw   
             - [ ] Project: Calculator
         - [ ] Conclusion
             - [ ] Choose Your Path Forward
