@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    box-sizing: border-box;
+}
+.calculator-container {
+    width: 400px;
+    height: 500px;    
+    background-color: rgb(101, 101, 101);        
+}
+.display {
+    display: flex;
+    justify-content: end;
+    align-items: center;    
+    flex-wrap: wrap;    
+    background-color: gray;
+    color: white;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 8px 8px;
+    font-size: 50px;    
+}
+.button-container {    
+    display: flex;
+    justify-content: center;
+    align-items: stretch;      
+    flex-wrap: wrap;  
+    gap: 8px;
+    padding: 0 8px;
+}
+.button-container button {
+    display: inline-block;
+    width: 90px;
+    padding: 20px 10px;    
+}
