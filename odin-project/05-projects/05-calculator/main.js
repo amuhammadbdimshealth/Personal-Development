@@ -45,35 +45,71 @@ const clearDisplay = () => {
     display.innerHTML = '0';
 }
 
-const updateDisplay = (text) => {
-    display.innerHTML = text;
+const updateDisplay = (text='0') => {
+    let txt = text.toString();
+    const splitNum = txt.split('.');    
+    if(splitNum[0].length > 10) {
+        txt = parseFloat(txt).toExponential(2);
+    } else if (splitNum[1] && splitNum[1].length > 10) {
+        txt = parseFloat(txt).toFixed(2);
+    }
+
+    display.innerHTML = txt;
 }
 const noFirstNum = () => {
-    return !(parseInt(firstNum) >= 0 || parseInt(firstNum) <= 0)
+    return !(parseFloat(firstNum) >= 0 || parseFloat(firstNum) <= 0)
 } 
 
 const isReadyForCalc = () => {
-    const first = (parseInt(firstNum) >= 0 || parseInt(firstNum) <= 0) 
-    const second = (parseInt(secondNum) >= 0 || parseInt(secondNum) <= 0) 
+    const first = (parseFloat(firstNum) >= 0 || parseFloat(firstNum) <= 0) 
+    const second = (parseFloat(secondNum) >= 0 || parseFloat(secondNum) <= 0) 
     const opr = operator.length > 0;
     return (first && second && opr)
 }
 const showDisplay = (event, buttonType) => {     
     console.log(event, buttonType);
        
-    const buttonText = event ? event.target.textContent : '';
-    const target = event ? event.target : null;
+    const buttonText = event ? event.currentTarget.textContent : '';
+    const target = event ? event.currentTarget : null;
     
     switch (buttonType) {
-        case 'number':            
+        case 'number':
+            const isDecimalBtn = Array.from(target.classList).includes('decimal');            
+            const isBackSpaceBtn = Array.from(target.classList).includes('backspace');   
+
             const constructFirstNumber = noFirstNum() || !operator;
-            const constructSecondNumber = (parseInt(firstNum) >= 0 || parseInt(firstNum) <= 0) && operator;
+            const constructSecondNumber = (parseFloat(firstNum) >= 0 || parseFloat(firstNum) <= 0) && operator;
+            
             if (constructFirstNumber) {
-                firstNum = firstNum.toString() + `${buttonText}`                                 
+                const alreadyHasDecimal = isDecimalBtn ? firstNum.toString().includes('.') : false;
+                if (alreadyHasDecimal) return;
+                
+                if (isBackSpaceBtn) {
+                    if (firstNum.toString().length > 0) {
+                        const temp = firstNum.toString().split('');
+                        temp.pop();
+                        firstNum = temp.join('');
+                    } 
+                } else {
+                    firstNum = firstNum.toString() + `${buttonText}`                                 
+                }
+                                
                 updateDisplay(firstNum);
             } 
             else if (constructSecondNumber) {        
-                secondNum = secondNum.toString() + `${buttonText}` 
+                const alreadyHasDecimal = isDecimalBtn ? secondNum.toString().includes('.') : false;
+                if (alreadyHasDecimal) return;
+
+                if (isBackSpaceBtn) {
+                    if (secondNum.toString().length > 0) {
+                        const temp = secondNum.toString().split('');
+                        temp.pop();
+                        secondNum = temp.join('');
+                    }
+                } else {
+                    secondNum = secondNum.toString() + `${buttonText}` 
+                }
+                
                 updateDisplay(secondNum);
             }                            
             break;

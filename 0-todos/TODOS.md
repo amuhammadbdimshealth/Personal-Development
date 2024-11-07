@@ -521,11 +521,11 @@
             - [▶️] Project: Calculator
                 - [▶️] Make the calculator work
                 - [] Extra credit
-                    - [] You should round answers with long decimals so that they don’t overflow the display.
+                    - [✔️] You should round answers with long decimals so that they don’t overflow the display.
                     - [] Add a . button and let users input decimals! 
-                        - [] Make sure you don’t let them type more than one though, like: 12.3.56.5. 
-                        - [] Disable the . button if there’s already a decimal separator in the display.
-                    - [] Add a “backspace” button, so the user can undo their last input if they click the wrong number.
+                        - [✔️] Make sure you don’t let them type more than one though, like: 12.3.56.5. 
+                        - [✔️] Disable the . button if there’s already a decimal separator in the display.
+                    - [✔️] Add a “backspace” button, so the user can undo their last input if they click the wrong number.
                     - [] Add keyboard support
         - [ ] Conclusion
             - [ ] Choose Your Path Forward

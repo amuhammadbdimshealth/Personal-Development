@@ -43,7 +43,8 @@ body {
 .button-container button {
     display: inline-block;
     width: 25%;    
-    padding: 20px 10px;    
+    padding: 20px 10px; 
+    flex-grow: 1;       
 }
 .number {
     background-color: rgb(149, 232, 128);
@@ -54,4 +55,11 @@ body {
 }
 .clear {
     background-color: rgb(136, 136, 239);
+}
+.decimal {
+    font-weight: 900;
+}
+
+.backspace {
+    background-color: rgb(183, 122, 239);
 }
