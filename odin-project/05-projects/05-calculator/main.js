@@ -66,16 +66,28 @@ const isReadyForCalc = () => {
     const opr = operator.length > 0;
     return (first && second && opr)
 }
-const showDisplay = (event, buttonType) => {     
+const showDisplay = (event, buttonType, keyBoardBtnText, keyboardOperator) => {     
     console.log(event, buttonType);
        
-    const buttonText = event ? event.currentTarget.textContent : '';
-    const target = event ? event.currentTarget : null;
+    const buttonText = !keyBoardBtnText ? (event ? event.currentTarget.textContent : '') : keyBoardBtnText;
+    const target = event ? event.currentTarget : null;    
     
     switch (buttonType) {
         case 'number':
-            const isDecimalBtn = Array.from(target.classList).includes('decimal');            
-            const isBackSpaceBtn = Array.from(target.classList).includes('backspace');   
+            let isDecimalBtn = false;
+            let isBackSpaceBtn = false;
+
+            if (keyBoardBtnText && keyBoardBtnText == '.') {
+                isDecimalBtn = true;
+            } else {
+                isDecimalBtn = target.classList ? Array.from(target.classList).includes('decimal') : false;
+            }
+            
+            if (keyBoardBtnText && keyBoardBtnText == 'Backspace') {
+                isBackSpaceBtn = true;
+            } else {
+                isDecimalBtn = target.classList ? Array.from(target.classList).includes('backspace') : false;
+            }                       
 
             const constructFirstNumber = noFirstNum() || !operator;
             const constructSecondNumber = (parseFloat(firstNum) >= 0 || parseFloat(firstNum) <= 0) && operator;
@@ -122,7 +134,7 @@ const showDisplay = (event, buttonType) => {
                 updateDisplay(result);    
                 initCalc(result, operator);    
             }                        
-            operator = target.id;
+            operator = !keyboardOperator ? target.id : keyboardOperator;
             
             break;
     
@@ -173,6 +185,44 @@ const attachEvents = () => {
         }
         
     })
+
+    // window.addEventListener('keydown', (event) => {
+    //     console.log(event);
+        
+    // })
+
+
+    // JavaScript: Handle specific keyboard inputs
+    window.addEventListener('keydown', (event) => {        
+        if ((event.key >= '0' && event.key <= '9') || event.key == '.') {
+            console.log(`Number ${event.key} pressed`);
+            showDisplay(event,'number',event.key)
+        } else if (event.key === 'Backspace') {
+            console.log(`Number ${event.key} pressed`);
+            showDisplay(event,'number', event.key)
+        } else if (event.key === 'Enter') {
+            console.log(`Number ${event.key} pressed`);
+            showDisplay(event,'equal')
+        } else if (event.key === '+') {
+            console.log(`Number ${event.key} pressed`);
+            showDisplay(event,'operator',event.key,'add')
+        } else if (event.key === '-') {
+            console.log(`Number ${event.key} pressed`);
+            showDisplay(event,'operator',event.key,'subtract')
+        } else if (event.key === '/') {
+            console.log(`Number ${event.key} pressed`);
+            showDisplay(event,'operator',event.key,'divide')
+        } else if (event.key === '*') {
+            console.log(`Number ${event.key} pressed`);
+            showDisplay(event,'operator',event.key,'multiply')
+        } else if (event.key === '=') {
+            console.log(`Number ${event.key} pressed`);
+            showDisplay(event,'equal',event.key)
+        } else {
+            // Ignore other keys
+            console.log(`Ignored key: ${event.key}`);
+        }
+    });
 }
 
 attachEvents();
