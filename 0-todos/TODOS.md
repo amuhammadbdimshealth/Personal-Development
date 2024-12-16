@@ -366,7 +366,7 @@
                 - [✔️] Alignment
                 - [✔️] Assignment                
             - [✔️] Project: Landing Page
-        - [▶️] JavaScript Basics
+        - [✔️] JavaScript Basics
             - [✔️] Fundamentals Part 1
                 - [✔️] Introduction
                 - [✔️] Lesson overview
@@ -518,15 +518,15 @@
                     - https://javascript.info/array-methods#iterate-foreach   
                 - [✔️] Array Cardio Day 2.
                     - https://www.youtube.com/watch?v=QNmRfyNg1lw   
-            - [▶️] Project: Calculator
-                - [▶️] Make the calculator work
-                - [] Extra credit
+            - [✔️] Project: Calculator
+                - [✔️] Make the calculator work
+                - [✔️] Extra credit
                     - [✔️] You should round answers with long decimals so that they don’t overflow the display.
-                    - [] Add a . button and let users input decimals! 
+                    - [✔️] Add a . button and let users input decimals! 
                         - [✔️] Make sure you don’t let them type more than one though, like: 12.3.56.5. 
                         - [✔️] Disable the . button if there’s already a decimal separator in the display.
                     - [✔️] Add a “backspace” button, so the user can undo their last input if they click the wrong number.
-                    - [] Add keyboard support
+                    - [✔️] Add keyboard support
         - [ ] Conclusion
             - [ ] Choose Your Path Forward
 # Algorithm Course
