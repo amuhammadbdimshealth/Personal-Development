@@ -86,7 +86,7 @@ const showDisplay = (event, buttonType, keyBoardBtnText, keyboardOperator) => {
             if (keyBoardBtnText && keyBoardBtnText == 'Backspace') {
                 isBackSpaceBtn = true;
             } else {
-                isDecimalBtn = target.classList ? Array.from(target.classList).includes('backspace') : false;
+                isBackSpaceBtn = target.classList ? Array.from(target.classList).includes('backspace') : false;
             }                       
 
             const constructFirstNumber = noFirstNum() || !operator;
