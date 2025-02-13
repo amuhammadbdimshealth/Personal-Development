@@ -220,7 +220,7 @@
             - [ ] HTML DOM Objects
 # Odin Project*
 - [▶️] **Odin Project** 
-    - [▶️] Foundation Course
+    - [✔️] Foundation Course
         - https://www.theodinproject.com/paths/foundations/courses/foundations
         - [✔️] *Introduction*
             - [✔️] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
@@ -527,8 +527,43 @@
                         - [✔️] Disable the . button if there’s already a decimal separator in the display.
                     - [✔️] Add a “backspace” button, so the user can undo their last input if they click the wrong number.
                     - [✔️] Add keyboard support
-        - [ ] Conclusion
-            - [ ] Choose Your Path Forward
+        - [✔️] Conclusion
+            - [✔️] Choose Your Path Forward
+    - [] Full-stack-javascript
+        - [] Intermediate HTML and CSS 
+            - [▶️] Intermediate HTML Concepts
+                - [✔️] Introduction
+                - [✔️] Emmet
+                - [✔️] SVG
+                - [] Tables
+            - [] Intermediate CSS Concepts
+                - [] Default Styles
+                - [] CSS Units
+                - [] More Text Styles
+                - [] More CSS Properties
+                - [] Advanced Selectors
+                - [] Positioning
+                - [] CSS Functions
+                - [] Custom Properties
+                - [] Browser Compatibility
+                - [] Frameworks and Preprocessors
+            - [] Forms
+                - [] Form Basics
+                - [] Form Validation
+                - [] Project: Sign-up Form
+            - [] Grid
+                - [] Introduction to Grid
+                - [] Creating a Grid
+                - [] Positioning Grid Elements
+                - [] Advanced Grid Properties
+                - [] Using Flexbox and Grid
+                - [] Project: Admin Dashboard
+        - [] JavaScript
+        - [] Advanced HTML and CSS
+        - [] React
+        - [] Databases
+        - [] NodeJS
+        - [] Getting Hired
 # Algorithm Course
 - [▶️] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
     - [✔️] Introduction
