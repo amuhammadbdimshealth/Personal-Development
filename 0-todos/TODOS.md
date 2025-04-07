@@ -218,7 +218,7 @@
         - [ ] JS References
             - [ ] JavaScript Objects
             - [ ] HTML DOM Objects
-# Odin Project*
+# [▶️] Odin Project*
 - [▶️] **Odin Project** 
     - [✔️] Foundation Course
         - https://www.theodinproject.com/paths/foundations/courses/foundations
@@ -536,6 +536,10 @@
                 - [✔️] Emmet
                 - [✔️] SVG
                 - [] Tables
+                    - [✔️] Read these Tables Basics (https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+                    - [✔️] and Tables Advanced (https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced) tutorial`s from MDN. They should teach you all the syntax behind HTML tables. It’s pretty straightforward. Make sure to code along!
+                    - [✔️] Read through CSS Tricks’ full guide to the table element, which goes very in-depth about what you have already learned and touches on a few extra things. (https://css-tricks.com/complete-guide-table-element/)
+                    - [ ]  Do this Tables Assessment from MDN. It’s good to put your newly learned skills to practice!                    
             - [] Intermediate CSS Concepts
                 - [] Default Styles
                 - [] CSS Units
@@ -595,7 +599,7 @@
     - [ ] SQL Course
         - [ ]  
         - [ ]  
-# VueJs Course*
+# [▶️] VueJs Course*
 - [ ] Vue-js-best-practices
     - [ ] https://www.tatvasoft.com/blog/vue-js-best-practices/
             - [ ] Always Use Key V-for With “: Key” Inside
@@ -628,7 +632,7 @@
     - [ ]  
     - [ ]  
     - [ ]      
-- [▶️] Vue Crash Course (Traversy Media)
+- [ ] Vue Crash Course (Traversy Media)
     - Video Link 
         - https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=3373s
     - Repo
@@ -661,22 +665,22 @@
         - [▶️] 1:17:18 - Refactoring to Use The Backend
         - [ ] 1:30:48 - Implementing the Router
         - [ ] 1:48:23 - Restrict a Component to a Route
-- [ ] VueJs Tutorial (Official Page)
+- [▶️] VueJs Tutorial (Official Page)
     - https://vuejs.org/tutorial/#step-1
     - [✔️] 1. Getting
     - [✔️] 2. Declarative Rendering
-    - [ ] 3. Attribute Binding
-    - [ ] 4. Event Listeners
-    - [ ] 5. Form Bindings
-    - [ ] 6. Conditional Rendering
-    - [ ] 7. List Rendering
-    - [ ] 8. Computed Property
-    - [ ] 9. Lifecycle and Template Refs
-    - [ ] 10. Watchers
-    - [ ] 11. Components
-    - [ ] 12. Props
-    - [ ] 13. Emits
-    - [ ] 14. Slots
+    - [✔️] 3. Attribute Binding
+    - [✔️] 4. Event Listeners
+    - [✔️] 5. Form Bindings
+    - [✔️] 6. Conditional Rendering
+    - [✔️] 7. List Rendering
+    - [✔️] 8. Computed Property
+    - [✔️] 9. Lifecycle and Template Refs
+    - [✔️] 10. Watchers
+    - [✔️] 11. Components
+    - [✔️] 12. Props
+    - [✔️] 13. Emits
+    - [✔️] 14. Slots
 # Css Course*
 - [ ] **Css Course** 
     - [ ]  
