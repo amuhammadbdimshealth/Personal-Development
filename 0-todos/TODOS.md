@@ -529,19 +529,23 @@
                     - [✔️] Add keyboard support
         - [✔️] Conclusion
             - [✔️] Choose Your Path Forward
-    - [] Full-stack-javascript
-        - [] Intermediate HTML and CSS 
-            - [▶️] Intermediate HTML Concepts
+    - [▶️] Full-stack-javascript
+        - [▶️] Intermediate HTML and CSS 
+            - [✔️] Intermediate HTML Concepts
                 - [✔️] Introduction
                 - [✔️] Emmet
                 - [✔️] SVG
-                - [] Tables
+                - [✔️] Tables
                     - [✔️] Read these Tables Basics (https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
                     - [✔️] and Tables Advanced (https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced) tutorial`s from MDN. They should teach you all the syntax behind HTML tables. It’s pretty straightforward. Make sure to code along!
                     - [✔️] Read through CSS Tricks’ full guide to the table element, which goes very in-depth about what you have already learned and touches on a few extra things. (https://css-tricks.com/complete-guide-table-element/)
-                    - [ ]  Do this Tables Assessment from MDN. It’s good to put your newly learned skills to practice!                    
+                    - [✔️]  Do this Tables Assessment from MDN. It’s good to put your newly learned skills to practice!                    
             - [] Intermediate CSS Concepts
                 - [] Default Styles
+                    - [▶️] Assignment
+                        - [✔️] Read Reboot, Resets, and Reasoning for an excellent history of resets and what it means for a reset to be opinionated.
+                        - [] Read Making the case for CSS normalize and reset stylesheets in 2023. It does an excellent job of discussing the differences in various resets and why you might choose to use them.
+                        - [] Josh Comeau’s custom CSS reset also includes a great breakdown of his thought process behind each rule he uses, giving you an idea of how to reason about these ideas.                    
                 - [] CSS Units
                 - [] More Text Styles
                 - [] More CSS Properties
