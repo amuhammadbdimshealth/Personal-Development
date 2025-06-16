@@ -541,7 +541,8 @@
                     - [✔️] Read through CSS Tricks’ full guide to the table element, which goes very in-depth about what you have already learned and touches on a few extra things. (https://css-tricks.com/complete-guide-table-element/)
                     - [✔️]  Do this Tables Assessment from MDN. It’s good to put your newly learned skills to practice!                    
             - [] Intermediate CSS Concepts
-                - [] Default Styles
+                - [] Default Styles 
+                    - https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-default-styles
                     - [▶️] Assignment
                         - [✔️] Read Reboot, Resets, and Reasoning for an excellent history of resets and what it means for a reset to be opinionated.
                         - [] Read Making the case for CSS normalize and reset stylesheets in 2023. It does an excellent job of discussing the differences in various resets and why you might choose to use them.
