@@ -545,7 +545,7 @@
                     - https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-default-styles
                     - [▶️] Assignment
                         - [✔️] Read Reboot, Resets, and Reasoning for an excellent history of resets and what it means for a reset to be opinionated.
-                        - [] Read Making the case for CSS normalize and reset stylesheets in 2023. It does an excellent job of discussing the differences in various resets and why you might choose to use them.
+                        - [✔️] Read Making the case for CSS normalize and reset stylesheets in 2023. It does an excellent job of discussing the differences in various resets and why you might choose to use them.
                         - [] Josh Comeau’s custom CSS reset also includes a great breakdown of his thought process behind each rule he uses, giving you an idea of how to reason about these ideas.                    
                 - [] CSS Units
                 - [] More Text Styles
