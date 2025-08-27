@@ -1,0 +1,57 @@
+/* General setup */
+@font-face {
+    font-family: 'courierPrime';
+    src: url('fonts/CourierPrime.woff2') format('woff2'),
+        url('fonts/CourierPrime.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'kaushanScript';
+    src: url('fonts/KaushanScript-Regular.woff2') format('woff2'),
+        url('fonts/KaushanScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.asimovian-regular {
+  font-family: "Asimovian", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.8rem;
+}
+
+
+html {
+  font-size: 10px;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+body {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Typography */
+
+h1 {
+  font-size: 3.2rem;
+  font-family: "kaushanScript", sans-serif;
+}
+
+h2 {
+  font-size: 2.4rem;
+  font-family: "kaushanScript", sans-serif;
+}
+
+p {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  word-spacing: 0.6rem;
+  font-family: "courierPrime", sans-serif;
+}
