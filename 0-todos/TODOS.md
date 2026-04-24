@@ -1,182 +1,184 @@
+# Symbols
+[✔️]
+[▶️]
+[🕛]
+[❌]
+
 # WesBos Js Beginner Course
-- [▶]  **WesBos Js Beginner Course** :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
-    - [✔]  Module #5: Events        
-        - [✔]  Events - Event Listener 
-            - [✔]  Watch the video
-            - [✔]  Play with the Code
-        - [✔]  Events - targets, bubbling, propagation and capture
-            - [✔]  Watch the video
-            - [✔]  Play with the Code
-        - [✔]  Events - Prevent Default and Form Events
-            - [✔]  Watch the video
-            - [✔]  Play with the Code
-        - [✔]  Events - Accesibility Gotchas and Keyboard Codes
-            - [✔]  Watch the video
-            - [✔]  Play with the Code
-        - [▶]  Etch-a-Sketch
-            - [✔]  Watch the video
-            - [▶]  Play with the Code
+- [▶️]  **WesBos Js Beginner Course** :  https://courses.wesbos.com/account/access/5e27e150da680247de2ed2b1
+    - [✔️]  Module #5: Events        
+        - [✔️]  Events - Event Listener 
+            - [✔️]  Watch the video
+            - [✔️]  Play with the Code
+        - [✔️]  Events - targets, bubbling, propagation and capture
+            - [✔️]  Watch the video
+            - [✔️]  Play with the Code
+        - [✔️]  Events - Prevent Default and Form Events
+            - [✔️]  Watch the video
+            - [✔️]  Play with the Code
+        - [✔️]  Events - Accesibility Gotchas and Keyboard Codes
+            - [✔️]  Watch the video
+            - [✔️]  Play with the Code
+        - [▶️]  Etch-a-Sketch
+            - [✔️]  Watch the video
+            - [▶️]  Play with the Code
                 - [ ]  index.html
                 - [ ]  etch-a-sketch.js
 # W3Schools Js Tutorial                
-- [▶] **W3Schools Js Tutorial**
-    - [🕐] JS Tutorial 
-        - [✔] JS Events
-        - [✔]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
-        - [✔]  JS Array Methods
-        - [✔]  JS Array Sort
-        - [✔]  JS Array Iteration
-        - [✔]  JS Array Const
-        - [✔]  JS Dates 
-        - [✔]  JS Date Formats 
-        - [✔]  JS Date Get Methods
-        - [✔]  JS Date Set Methods
-        - [✔]  JS Loop For
-        - [✔]  JS Loop For In
-        - [✔]  JS Loop For Of
-        - [✔]  JS Loop While
-        - [✔]  JS Break
-        - [✔]  JS Iterables
-        - [🕐]  JS Maps
-        - [✔]  JS Typeof
-        - [🕐]  JS Type Conversion
-        - [✔]  JS RegExp
-        - [✔]  JS Errors   
-        - [✔]  JS Scope 
-        - [🕐]  JS Hoisting
-        - [🕐]  JS Sctrict Mode
-        - [✔]  JS this Keyword 
-        - [✔]  JS Arrow Function
-        - [✔]  JS Classes - https://www.w3schools.com/js/js_classes.asp
-        - [✔]  JS Modules 
-        - [🕐]  JS JSON 
-        - [🕐]  JS Debugging 
-        - [✔]  JS Style Guide - https://www.w3schools.com/js/js_conventions.asp
-        - [✔]  JS Best Practices - https://www.w3schools.com/js/js_best_practices.asp
-        - [🕐]  JS Mistakes 
-        - [🕐]  JS Performance
-        - [🕐]  JS Reserved Words
-    - [✔]  JS Versions
-        - [✔] ES5
-            - [✔] JavaScript Object Accessors 
+- [▶️] **W3Schools Js Tutorial**
+    - [🕛] JS Tutorial 
+        - [✔️] JS Events
+        - [✔️]  JS Arrays - https://www.w3schools.com/js/js_arrays.asp
+        - [✔️]  JS Array Methods
+        - [✔️]  JS Array Sort
+        - [✔️]  JS Array Iteration
+        - [✔️]  JS Array Const
+        - [✔️]  JS Dates 
+        - [✔️]  JS Date Formats 
+        - [✔️]  JS Date Get Methods
+        - [✔️]  JS Date Set Methods
+        - [✔️]  JS Loop For
+        - [✔️]  JS Loop For In
+        - [✔️]  JS Loop For Of
+        - [✔️]  JS Loop While
+        - [✔️]  JS Break
+        - [✔️]  JS Iterables
+        - [🕛]  JS Maps
+        - [✔️]  JS Typeof
+        - [🕛]  JS Type Conversion
+        - [✔️]  JS RegExp
+        - [✔️]  JS Errors   
+        - [✔️]  JS Scope 
+        - [🕛]  JS Hoisting
+        - [🕛]  JS Sctrict Mode
+        - [✔️]  JS this Keyword 
+        - [✔️]  JS Arrow Function
+        - [✔️]  JS Classes - https://www.w3schools.com/js/js_classes.asp
+        - [✔️]  JS Modules 
+        - [🕛]  JS JSON 
+        - [🕛]  JS Debugging 
+        - [✔️]  JS Style Guide - https://www.w3schools.com/js/js_conventions.asp
+        - [✔️]  JS Best Practices - https://www.w3schools.com/js/js_best_practices.asp
+        - [🕛]  JS Mistakes 
+        - [🕛]  JS Performance
+        - [🕛]  JS Reserved Words
+    - [✔️]  JS Versions
+        - [✔️] ES5
+            - [✔️] JavaScript Object Accessors 
                 - https://www.w3schools.com/js/js_object_accessors.asp  
-            - [✔] Object.defineProperty()
-            - [✔] Function Bind()
-        - [✔] ES6
-            - [✔] The let keyword
-            - [✔] The const keyword
-            - [✔] Arrow Functions
-            - [✔] For/of
-            - [✔] Map Objects 
-            - [✔] Set Objects
-            - [✔] *Classes*
-            - [✔] *Promises*                  
-            - [✔] Symbol
-            - [✔] Default Parameters
-            - [✔] Function Rest Parameter
-            - [✔] String.includes()
-            - [✔] String.startsWith()
-            - [✔] String.endsWith()
-            - [✔] Array.from()
-            - [✔] Array keys()
-            - [✔] Array find()
-            - [✔] Array findIndex()
-            - [✔] New Math Methods
-            - [✔] New Number Properties
-            - [✔] New Number Methods
-            - [✔] New Global Methods
-            - [✔] Object entries
-            - [✔] JavaScript Modules
-        - [✔] JS 2016
-        - [✔] JS 2017
-            - [✔] JavaScript String padding
-            - [✔] JavaScript Object.entries
-            - [✔] JavaScript Object.values
-            - [✔] JavaScript async functions            
-        - [✔] JS 2018        
-            - [✔] Asynchronous Iteration
-            - [✔] Promise Finally
-            - [✔] Object Rest Properties
-            - [✔] New RegExp Features
-    - [▶] Detailed Topics 
-        - [✔] JS Objects
-            - [✔] Object Definitions 
-            - [✔] Object Properties 
-            - [✔] Object Methods
-            - [✔] Object Display
-            - [✔] Object Accessors
-            - [✔] Object Constructors
-            - [✔] Object Prototype
-            - [✔] Object Iterables
-            - [✔] Object Sets
-            - [✔] Object Maps
-            - [✔] Object reference
-        - [✔] JS Functions
-            - [✔] Function Definitions
-            - [✔] Function Parameters
-            - [✔] Function Invocation 
-            - [✔] Function Call 
-            - [✔] Function Apply 
-            - [✔] Function Bind 
-            - [✔] Function Closures     
-        - [✔] JS Classes
-            - [✔] Intro 
-            - [✔] Inheritance
-            - [✔] Static
-        - [✔] JS Async
-            - [✔] Callbacks
-            - [✔] Asynchronous 
-            - [✔] Promises
-            - [✔] Async/Await
-            - [✔] Additional resources: 
-                - [✔] https://javascript.info/async-await#async-functions
-        - [✔] JS HTML DOM
-            - [✔] DOM Intro
-            - [✔] DOM Methods
-            - [✔] DOM Document
-            - [✔] DOM Elements
-            - [✔] DOM HTML
-            - [✔] DOM Forms
-            - [✔] DOM CSS
-            - [✔] DOM Animations
-            - [✔] DOM Events
-            - [✔] DOM Event Listener
-            - [✔] DOM Navigation
-            - [✔] DOM Nodes
-            - [✔] DOM Collections
-            - [✔] DOM Node Lists
-
-        - [✔] JS Browser BOM
-            - [✔] JS Window
-            - [✔] JS Screen
-            - [✔] JS Location
-            - [✔] JS History
-            - [✔] JS Navigator
-            - [✔] JS Popup Alert
-            - [✔] JS Timing
-            - [✔] JS Cookies
-
-        - [▶] JS Web APIs
-            - [✔] Web API Intro
-            - [🕐] Web Forms API
-            - [✔] Web History API
-            - [✔] Web Storage API
-            - [ ] Web Worker API
-            - [ ] Web Fetch API
-            - [ ] Web Geolocation API
-
-        - [ ] JS AJAX
-            - [ ] AJAX Intro
-            - [ ] AJAX XMLHttp
-            - [ ] AJAX Request
-            - [ ] AJAX Response
-            - [ ] AJAX XML File
-            - [ ] AJAX PHP
-            - [ ] AJAX ASP
-            - [ ] AJAX Database
-            - [ ] AJAX Applications
-            - [ ] AJAX Examples
-
+            - [✔️] Object.defineProperty()
+            - [✔️] Function Bind()
+        - [✔️] ES6
+            - [✔️] The let keyword
+            - [✔️] The const keyword
+            - [✔️] Arrow Functions
+            - [✔️] For/of
+            - [✔️] Map Objects 
+            - [✔️] Set Objects
+            - [✔️] *Classes*
+            - [✔️] *Promises*                  
+            - [✔️] Symbol
+            - [✔️] Default Parameters
+            - [✔️] Function Rest Parameter
+            - [✔️] String.includes()
+            - [✔️] String.startsWith()
+            - [✔️] String.endsWith()
+            - [✔️] Array.from()
+            - [✔️] Array keys()
+            - [✔️] Array find()
+            - [✔️] Array findIndex()
+            - [✔️] New Math Methods
+            - [✔️] New Number Properties
+            - [✔️] New Number Methods
+            - [✔️] New Global Methods
+            - [✔️] Object entries
+            - [✔️] JavaScript Modules
+        - [✔️] JS 2016
+        - [✔️] JS 2017
+            - [✔️] JavaScript String padding
+            - [✔️] JavaScript Object.entries
+            - [✔️] JavaScript Object.values
+            - [✔️] JavaScript async functions            
+        - [✔️] JS 2018        
+            - [✔️] Asynchronous Iteration
+            - [✔️] Promise Finally
+            - [✔️] Object Rest Properties
+            - [✔️] New RegExp Features
+    - [▶️] Detailed Topics 
+        - [✔️] JS Objects
+            - [✔️] Object Definitions 
+            - [✔️] Object Properties 
+            - [✔️] Object Methods
+            - [✔️] Object Display
+            - [✔️] Object Accessors
+            - [✔️] Object Constructors
+            - [✔️] Object Prototype
+            - [✔️] Object Iterables
+            - [✔️] Object Sets
+            - [✔️] Object Maps
+            - [✔️] Object reference
+        - [✔️] JS Functions
+            - [✔️] Function Definitions
+            - [✔️] Function Parameters
+            - [✔️] Function Invocation 
+            - [✔️] Function Call 
+            - [✔️] Function Apply 
+            - [✔️] Function Bind 
+            - [✔️] Function Closures     
+        - [✔️] JS Classes
+            - [✔️] Intro 
+            - [✔️] Inheritance
+            - [✔️] Static
+        - [✔️] JS Async
+            - [✔️] Callbacks
+            - [✔️] Asynchronous 
+            - [✔️] Promises
+            - [✔️] Async/Await
+            - [✔️] Additional resources: 
+                - [✔️] https://javascript.info/async-await#async-functions
+        - [✔️] JS HTML DOM
+            - [✔️] DOM Intro
+            - [✔️] DOM Methods
+            - [✔️] DOM Document
+            - [✔️] DOM Elements
+            - [✔️] DOM HTML
+            - [✔️] DOM Forms
+            - [✔️] DOM CSS
+            - [✔️] DOM Animations
+            - [✔️] DOM Events
+            - [✔️] DOM Event Listener
+            - [✔️] DOM Navigation
+            - [✔️] DOM Nodes
+            - [✔️] DOM Collections
+            - [✔️] DOM Node Lists
+        - [✔️] JS Browser BOM
+            - [✔️] JS Window
+            - [✔️] JS Screen
+            - [✔️] JS Location
+            - [✔️] JS History
+            - [✔️] JS Navigator
+            - [✔️] JS Popup Alert
+            - [✔️] JS Timing
+            - [✔️] JS Cookies
+        - [▶️] JS Web APIs
+            - [✔️] Web API Intro
+            - [🕛] Web Forms API
+            - [✔️] Web History API
+            - [✔️] Web Storage API
+            - [✔️] Web Worker API
+            - [✔️] Web Fetch API
+            - [✔️] Web Geolocation API
+        - [✔️] JS AJAX
+            - [✔️] AJAX Intro
+            - [✔️] AJAX XMLHttp
+            - [✔️] AJAX Request
+            - [✔️] AJAX Response
+            - [✔️] AJAX XML File
+            - [✔️] AJAX PHP
+            - [✔️] AJAX ASP
+            - [✔️] AJAX Database
+            - [✔️] AJAX Applications
+            - [✔️] AJAX Examples
         - [ ] JS JSON
             - [ ] JSON Intro
             - [ ] JSON Syntax
@@ -190,21 +192,18 @@
             - [ ] JSON PHP
             - [ ] JSON HTML
             - [ ] JSON JSONP
-
         - [ ] JS vs jQuery
             - [ ] jQuery Selectors
             - [ ] jQuery HTML
             - [ ] jQuery CSS
             - [ ] jQuery DOM
-
         - [ ] JS Graphics
-            - [ ] JS Graphics
-            - [ ] JS Canvas
-            - [ ] JS Plotly
+            - [❌] JS Graphics
+            - [❌] JS Canvas
+            - [❌] JS Plotly
             - [ ] JS Chart.js
-            - [ ] JS Google Chart
-            - [ ] JS D3.js
-
+            - [❌] JS Google Chart
+            - [❌] JS D3.js
         - [ ] JS Examples
             - [ ] JS Examples
             - [ ] JS HTML DOM
@@ -216,54 +215,371 @@
             - [ ] JS Exercises
             - [ ] JS Quiz
             - [ ] JS Certificate
-
         - [ ] JS References
             - [ ] JavaScript Objects
             - [ ] HTML DOM Objects
-# Odin Project*
-- [▶] **Odin Project** 
-    - [HomePage] - https://www.theodinproject.com/paths/foundations/courses/foundations
-    - [✔] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
-    - [✔] https://www.theodinproject.com/lessons/foundations-computer-basics
-    - [✔] https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
-        - [✔] Watch this BBC short for an overview of how the internet works.
-        - [✔] Read this article from Mozilla on “How does the Internet work?”.
-        - [✔] Watch How the Internet Works in 5 Minutes.
-        - [✔] Read up on the differences between a web page, a web server, and a search engine.
-        - [✔] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
-        - [✔] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
-    - [✔] https://www.theodinproject.com/lessons/foundations-installation-overview
-    - [🕐] https://www.theodinproject.com/lessons/foundations-installations
-        - [✔] Step 2: Install VirtualBox and set up Xubuntu
-        - [🕐] Step 3: Install and Enable Guest Additions
-        - [🕐] Step 4: Understand Your New VM
-        - [🕐] Step 5: Safely shutting down your VM
-        - [🕐] Google Chrome Installation 
-    - [🕐] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
-    - [▶] *Command Line Basics* - https://www.theodinproject.com/lessons/foundations-command-line-basics
-        - [ ] The Unix Shell - https://swcarpentry.github.io/shell-novice/
-            - [✔] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
-                - [✔] Exploring Other Directories
-                    - [✔] Other Hidden Files
-                    - [✔] Two More Shortcuts
-                    - [✔] General Syntax of a Shell Command
-                - [✔] Key Points
-            - [▶] Working With Files and Directories 
-                - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-                - [✔] Creating files and directories
-                - [✔] Moving files and directories
-                    - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
-                - [✔] Removing files and directories
-                    - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
-                - [▶] - Pipes and Filters
-                    - https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
+# [▶️] Odin Project*
+- [▶️] **Odin Project** 
+    - [✔️] Foundation Course
+        - https://www.theodinproject.com/paths/foundations/courses/foundations
+        - [✔️] *Introduction*
+            - [✔️] https://www.theodinproject.com/lessons/foundations-join-the-odin-community
+        - [🕛] *Prerequisites*
+            - [✔️] Computer-basics
+                - https://www.theodinproject.com/lessons/foundations-computer-basics
+            - [✔️] How-does-the-web-work
+                - https://www.theodinproject.com/lessons/foundations-how-does-the-web-work
+                - [✔️] Watch this BBC short for an overview of how the internet works.
+                - [✔️] Read this article from Mozilla on “How does the Internet work?”.
+                - [✔️] Watch How the Internet Works in 5 Minutes.
+                - [✔️] Read up on the differences between a web page, a web server, and a search engine.
+                - [✔️] Watch this Google short explaining what a web browser is. Then, find out what web browser you are using right now.
+                - [✔️] Read about how one part of the web interacts with another and read about or watch a DNS request in action. 
+            - [ ] Installation Overview
+                - [✔️] https://www.theodinproject.com/lessons/foundations-installation-overview
+                - [🕛] https://www.theodinproject.com/lessons/foundations-installations
+                    - [✔️] Step 2: Install VirtualBox and set up Xubuntu
+                    - [🕛] Step 3: Install and Enable Guest Additions
+                    - [🕛] Step 4: Understand Your New VM
+                    - [🕛] Step 5: Safely shutting down your VM
+                    - [🕛] Google Chrome Installation 
+            - [🕛] Text Editors - https://www.theodinproject.com/lessons/foundations-text-editors#vscode-installation    
+            - [✔️] Command Line Basics - https://www.theodinproject.com/lessons/foundations-command-line-basics
+                - [✔️] The Unix Shell - https://swcarpentry.github.io/shell-novice/
+                    - [✔️] Navigating Files and Directories - https://swcarpentry.github.io/shell-novice/02-filedir/index.html
+                        - [✔️] Exploring Other Directories
+                            - [✔️] Other Hidden Files
+                            - [✔️] Two More Shortcuts
+                            - [✔️] General Syntax of a Shell Command
+                        - [✔️] Key Points
+                    - [✔️] Working With Files and Directories 
+                        - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+                        - [✔️] Creating files and directories
+                        - [✔️] Moving files and directories
+                            - https://swcarpentry.github.io/shell-novice/03-create/index.html#moving-files-and-directories
+                        - [✔️] Removing files and directories
+                            - https://swcarpentry.github.io/shell-novice/03-create/index.html#removing-files-and-directories                    
+                    - [✔️] - Pipes and Filters
+                        - https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
+                    - [🕛] Loops                    
+                    - [🕛] Shell Scripts
+                    - [🕛] Finding Things
+            - [🕛] Setting Up Git - https://www.theodinproject.com/lessons/foundations-setting-up-git
+                - [✔️] Install WSL2 
+                    - https://learn.microsoft.com/en-us/windows/wsl/install 
+                - How to Install Git on Windows Subsystem for Linux?
+                    - https://www.geeksforgeeks.org/how-to-install-git-on-windows-subsystem-for-linux/
+                - [🕛] Introduction
+                - [🕛] Step 1: Install Git
+                - [🕛] Step 2: Configure Git and GitHub
+                - [🕛] Step 3: Let us know how it went!
+                - [🕛] Additional Resources                
+        - [🕛] *Git Basics*
+            - [ ] Introduction to Git
+                - [ ] Introduction
+                - [ ] Lesson Overview:
+                - [ ] Assignment
+                - [ ] Knowledge Check
+                - [ ] Additional Resources                
+            - [ ] Git Basics
+                - [ ] Introduction
+                - [ ] Lesson Overview
+                - [ ] Assignment
+                - [ ] Note/Warning
+                - [ ] Cheatsheet
+                - [ ] Git Best Practices
+                - [ ] Changing the Git Commit Message Editor
+                - [ ] Conclusion
+                - [ ] Knowledge Check
+                - [ ] Additional Resources    
+        - [✔️] *HTML Foundations*
+            - [✔️] Introduction to HTML and CSS
+            - [✔️] Elements and Tags
+            - [✔️] HTML Boilerplate
+            - [✔️] Working with Text
+            - [✔️] Lists
+            - [✔️] Links and Images
+            - [✔️] Commit Messages
+            - [✔️] Project: Recipes
+        - [✔️] CSS Foundations
+            - [✔️] Intro to CSS
+                - [✔️] Introduction
+                - [✔️] Lesson Overview
+                - [✔️] Basic Syntax
+                - [✔️] Selectors
+                - [✔️] Order Matters!
+                - [✔️] Properties to Get Started With
+                - [✔️] Adding CSS to HTML
+                - [✔️] Assignment
+                - [✔️] Knowledge Check
+                - [✔️] Additional Resources
+            - [✔️] The Cascade
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] The cascade of CSS
+                - [✔️] Assignment
+                - [✔️] Knowledge check
+                - [✔️] Additional resources
+            - [✔️] Inspecting HTML and CSS
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] The inspector
+                - [✔️] Inspecting elements
+                - [✔️] Testing styles in the inspector
+                - [✔️] Assignment
+                - [✔️] Knowledge check
+                - [✔️] Additional resources
+            - [✔️] The Box Model
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] The box model
+                - [✔️] Assignment
+                    - [✔️] This video is a straightforward overview of the box model, padding and margin. Go ahead and watch this now; it informs everything else.
+                    - [✔️] Because the box model concept is so incredibly fundamental, let’s dig a bit deeper with this lesson from MDN. It covers the same material as the video above and will introduce you to inline boxes that we will explore in the next lesson. Pay close attention to the examples and take the time to experiment with their in-browser editor!
+                        - [✔️] Block and inline boxes
+                        - [✔️] Outer display type
+                        - [✔️] Inner display type
+                        - [✔️] Examples of different display types
+                        - [✔️] What is the CSS box model?
+                        - [✔️] Playing with box models
+                        - [✔️] Margins, padding, and borders
+                        - [✔️] The box model and inline boxes
+                        - [✔️] Using display: inline-block
+                        - [✔️] Test your skills!
+                        - [✔️] Summary
+                    - [✔️] This CSS Tricks page has some further information about the margin property that you’ll find useful. Specifically, the sections about auto and margin collapsing contain things you’ll want to know.
+            - [✔️] Block and Inline
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Block vs inline
+                - [✔️] Divs and spans
+                - [✔️] Assignment
+                - [✔️] Knowledge check
+                - [✔️] Additional resources            
+        - [✔️] Flexbox
+            - [✔️] Introduction to Flexbox
+            - [✔️] Growing and Shrinking
+            - [✔️] Axes
+            - [✔️] Alignment
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Alignment
+                - [✔️] Assignment                
+            - [✔️] Project: Landing Page
+        - [✔️] JavaScript Basics
+            - [✔️] Fundamentals Part 1
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] How to run JavaScript code
+                - [✔️] Variables
+                - [✔️] Numbers
+                - [✔️] Assignment                
+            - [✔️] Fundamentals Part 2
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Strings
+                - [✔️] Conditionals
+                - [✔️] Assignment
+                - [❌] Knowledge check
+                - [❌] Additional resources
+            - [✔️] JavaScript Developer Tools
+                - [✔️] Assignment
+                    - [✔️] CSS
+                        - [✔️] View and change CSS
+                        - [✔️] CSS features reference
+                        - [✔️] Get Started With Viewing And Changing The DOM
+                        - [✔️] Mobile Simulation
+                        - [✔️] Simulate mobile devices with Device Mode
+                    - [✔️] JavaScript
+                        - [✔️] Debug JavaScript
+                        - [✔️] Pause your code with breakpoints
+                        - [✔️] Then, watch the console overview video and read through the page to familiarize yourself with the console and its usage.
+            - [✔️] Fundamentals Part 3
+                - https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Functions
+                    - [✔️] MDN article
+                        - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
+                    - [✔️] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
+                    - [✔️] http://javascript.info/function-basics
+                        - [✔️] https://javascript.info/function-basics#returning-a-value
+                - [✔️] Assignment
+                - [ ] Knowledge check
+                - [🕛] Additional resource
+                    - [🕛] Event loop 
+                        - https://www.javascripttutorial.net/javascript-event-loop/
+            - [✔️] Problem Solving
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Understand the problem
+                - [✔️] Plan
+                - [✔️] Pseudocode
+                - [✔️] Divide and conquer
+                - [✔️] Solving Fizz Buzz
+                - [ ] Assignment
+                    - [✔️] How to think like a programmer — lessons in problem solving
+                        - https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+                    - [✔️] How to think like a programmer — lessons in problem solving
+                        - https://www.youtube.com/watch?v=azcrPFhaY9k
+                    - [✔️] What is Pseudo-coding?
+                        - [✔️] https://web.archive.org/web/20211229231605/https://www.vikingcodeschool.com/software-engineering-basics/what-is-pseudo-coding
+                        - [✔️] https://web.archive.org/web/20211018222347/https://www.vikingcodeschool.com/software-engineering-basics/the-elements-of-pseudocode                
+            - [✔️] Understanding Errors 
+                - https://www.theodinproject.com/lessons/foundations-understanding-errors
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] The anatomy of an error
+                - [✔️] Common types of errors
+                - [✔️] Tips for resolving errors
+                - [✔️] Errors vs. warnings
+                - [✔️] Assignments
+                    - Work through this lesson on MDN. Be sure to download their starter code that has intentional errors.
+                        - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
+            - [✔️] Project: Rock Paper Scissors            
+            - [✔️] Clean Code
+                - [✔️] Assignment
+                    - [✔️] Thttps://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/
+                    - [✔️] https://blog.codinghorror.com/coding-without-comments/
+                    - [✔️] https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
+            - [✔️] Installing Node.js
+            - [✔️] Fundamentals Part 4
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] Arrays
+                - [✔️] Loops
+                    - [✔️] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#active_learning_launch_countdown
+                    - [✔️] https://javascript.info/while-for
+                - [✔️] Test Driven Development
+                    - [✔️] Assignment                
+                        - [✔️] 01_helloWorld (This exercise is intentionally very simple to ensure that you have set up everything properly!)
+                        - [✔️] 02_repeatString
+                        - [✔️] 03_reverseString
+                        - [✔️] 04_removeFromArray
+                        - [✔️] 05_sumAll
+                        - [✔️] 06_leapYears
+                        - [✔️] 07_tempConversion                    
+            - [✔️] DOM Manipulation and Events
+                - [✔️] Introduction
+                - [✔️] Lesson overview
+                - [✔️] DOM - Document Object Model
+                - [✔️] Targeting nodes with selectors
+                - [✔️] DOM methods
+                    - Adding js script in the html file
+                        - Use the <script> tag with the src attribute containing the path to the JS file, and include the defer keyword to load the file after the HTML is parsed, as such:
+                            - ```
+                            <head>
+                            <script src="js-file.js" defer></script>
+                            </head>
+                            ```
+                - [✔️] Exercise
+                - [✔️] Events
+                - [✔️] Assignment
+                    - [✔️] Complete MDN’s Active Learning sections on DOM manipulation and test your skills!
+                    - [✔️] Read the following sections from JavaScript Tutorial’s series on the DOM to get a broader idea of how events can be used in your pages.
+                        - [✔️] https://www.javascripttutorial.net/javascript-dom/javascript-events/ 
+                            - [✔️] JavaScript events
+                            - [✔️] Page load events
+                            - [✔️] Mouse events
+                            - [✔️] Keyboard events
+                            - [✔️] Event delegation
+                            - [✔️] The dispatchEvent method
+                            - [✔️] Custom events                                
+            - [✔️] Revisiting Rock Paper Scissors
+                - [✔️] UI
+                    - [✔️] For now, remove the logic that plays exactly five rounds.
+                    - [✔️] Create three buttons, one for each selection. Add an event listener to the buttons that call your playRound function with the correct playerSelection every time a button is clicked. (you can keep the console.logs for this step)
+                    - [✔️] Add a div for displaying results and change all of your console.logs into DOM methods.
+                    - [✔️] Display the running score, and announce a winner of the game once one player reaches 5 points.
+                    - [✔️] You will likely have to refactor (rework/rewrite) your original code to make it work for this. That’s OK! Reworking old code is an important part of a programmer’s life.
+            - [✔️] Project: Etch-a-Sketch
+                - [✔️] Create a webpage with a 16x16 grid of square divs.
+                    - [✔️] Create the divs using JavaScript. Don’t try to create them by hand by copying and pasting them in your HTML file!
+                    - [✔️] It’s best to put your grid squares inside a “container” div. This div can be written in your HTML file.
+                    - [✔️] Use Flexbox to make the divs appear as a grid (versus just one on each line). Despite the name, do not be tempted to research or use CSS Grid, as it will be taught in a later lesson after the foundations path. This project is an opportunity specifically to practice Flexbox!
+                    - [✔️] Be careful with borders and margins, as they can adjust the size of the squares!
+                    - [✔️] “OMG, why isn’t my grid being created???”
+                    - [✔️] Did you link your CSS stylesheet?
+                    - [✔️] Open your browser’s developer tools.
+                    - [✔️] Check if there are any errors in the JavaScript console.
+                    - [✔️] Check your “elements” panel to see if the elements have actually shown up but are somehow hidden.
+                    - [✔️] Go willy-nilly and add console.log statements in your JavaScript to see if it’s actually being loaded.            
+            - [✔️] Object Basics
+                - https://www.theodinproject.com/lessons/foundations-object-basics  
+                - [] Assignment
+                    - [✔️] 08_calculator
+                    - [✔️] 09_palindromes
+                    - [✔️] 10_fibonacci
+                    - [✔️] 11_getTheTitles
+                    - [✔️] 12_findTheOldest
+                - [✔️] JavaScript Array Cardio Practice - Day 1    
+                    - https://www.youtube.com/watch?v=HB1ZC7czKRs           
+                - [✔️] JavaScript Array Cardio Practice - Day 1 
+                    - https://javascript.info/array-methods#iterate-foreach   
+                - [✔️] Array Cardio Day 2.
+                    - https://www.youtube.com/watch?v=QNmRfyNg1lw   
+            - [✔️] Project: Calculator
+                - [✔️] Make the calculator work
+                - [✔️] Extra credit
+                    - [✔️] You should round answers with long decimals so that they don’t overflow the display.
+                    - [✔️] Add a . button and let users input decimals! 
+                        - [✔️] Make sure you don’t let them type more than one though, like: 12.3.56.5. 
+                        - [✔️] Disable the . button if there’s already a decimal separator in the display.
+                    - [✔️] Add a “backspace” button, so the user can undo their last input if they click the wrong number.
+                    - [✔️] Add keyboard support
+        - [✔️] Conclusion
+            - [✔️] Choose Your Path Forward
+    - [▶️] Full-stack-javascript
+        - [▶️] Intermediate HTML and CSS 
+            - [✔️] Intermediate HTML Concepts
+                - [✔️] Introduction
+                - [✔️] Emmet
+                - [✔️] SVG
+                - [✔️] Tables
+                    - [✔️] Read these Tables Basics (https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+                    - [✔️] and Tables Advanced (https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced) tutorial`s from MDN. They should teach you all the syntax behind HTML tables. It’s pretty straightforward. Make sure to code along!
+                    - [✔️] Read through CSS Tricks’ full guide to the table element, which goes very in-depth about what you have already learned and touches on a few extra things. (https://css-tricks.com/complete-guide-table-element/)
+                    - [✔️]  Do this Tables Assessment from MDN. It’s good to put your newly learned skills to practice!                    
+            - [] Intermediate CSS Concepts
+                - [✔️] Default Styles 
+                    - https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-default-styles
+                    - [✔️] Assignment
+                        - [✔️] Read Reboot, Resets, and Reasoning for an excellent history of resets and what it means for a reset to be opinionated.
+                        - [✔️] Read Making the case for CSS normalize and reset stylesheets in 2023. It does an excellent job of discussing the differences in various resets and why you might choose to use them.
+                        - [✔️] Josh Comeau’s custom CSS reset also includes a great breakdown of his thought process behind each rule he uses, giving you an idea of how to reason about these ideas.                    
+                - [▶️] CSS Units
+                - [] More Text Styles
+                - [] More CSS Properties
+                - [] Advanced Selectors
+                - [] Positioning
+                - [] CSS Functions
+                - [] Custom Properties
+                - [] Browser Compatibility
+                - [] Frameworks and Preprocessors
+            - [] Forms
+                - [] Form Basics
+                - [] Form Validation
+                - [] Project: Sign-up Form
+            - [] Grid
+                - [] Introduction to Grid
+                - [] Creating a Grid
+                - [] Positioning Grid Elements
+                - [] Advanced Grid Properties
+                - [] Using Flexbox and Grid
+                - [] Project: Admin Dashboard
+        - [] JavaScript
+        - [] Advanced HTML and CSS
+        - [] React
+        - [] Databases
+        - [] NodeJS
+        - [] Getting Hired
 # Algorithm Course
-- [▶] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
-    - [✔] Introduction
-    - [▶] Big O Notation
-        - [✔] Intro to Big O  
-        - [✔] Timing Our code             
-        - [▶] Counting Operation 
+- [▶️] **Algorithm Course** - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/425976#overview
+    - [✔️] Introduction
+    - [▶️] Big O Notation
+        - [✔️] Intro to Big O  
+        - [✔️] Timing Our code             
+        - [▶️] Counting Operation 
         - [ ] 
         - [ ]  
 # LeetCode-problem solving
@@ -277,23 +593,99 @@
 # SQL Course
 - [ ] **SQL Course**
     - [ ] Learning
-        - [✔] THROW
-        - [✔] TRY-CATCH 
-        - [✔] BEGIN TRANSACTION 
-        - [✔] COMMIT TRANSACTION 
-        - [✔] ROLLBACK TRANSACTION 
-        - [✔] XACT_STATE
-        - [✔] XACT_ABORT
-        - [✔] @@TRANCOUNT
+        - [✔️] THROW
+        - [✔️] TRY-CATCH 
+        - [✔️] BEGIN TRANSACTION 
+        - [✔️] COMMIT TRANSACTION 
+        - [✔️] ROLLBACK TRANSACTION 
+        - [✔️] XACT_STATE
+        - [✔️] XACT_ABORT
+        - [✔️] @@TRANCOUNT
     - [ ] SQL Course
         - [ ]  
         - [ ]  
-# VueJs Course*
-- [ ] **VueJs Course** 
+# [▶️] VueJs Course*
+- [ ] Vue-js-best-practices
+    - [ ] https://www.tatvasoft.com/blog/vue-js-best-practices/
+            - [ ] Always Use Key V-for With “: Key” Inside
+            - [ ] Always Use Kebab Casing for Events
+            - [ ] Use Pascal Case or Use Kebab Case for Components
+            - [ ] Keep npm Packages Updated
+            - [ ] Manage Global File for Shared Variable
+            - [ ] Used Suitable Data Type Assign for Variable
+            - [ ] Data Property Initialization
+            - [ ] Used a $refs
+            - [ ] Do Not Mix v-if and v-for
+            - [ ] Vue Component Reusability & Communication
+            - [ ] Data Should Always Return Function
+            - [ ] Template Expressions Should Only have Basic JavaScript Expressions
+            - [ ] Clean Code and Refactoring
+            - [ ] Define and Validate the Props
+            - [ ] Components Declared and Used ONCE Should Have The Prefix “The”
+            - [ ] Consistency Using Directive Shorthand
+            - [ ] Don’t Call a Method on Created AND Watch
+            - [ ] Use Actions: Commit the Data and Make API Call
+            - [ ] Name Commits Using Single Convention Method
+            - [ ] Multiple V-Condition
+            - [ ] Code Splitting
+            - [ ] Routing
+            - [ ] Eliminate the DOM Access Directly
+            - [ ] Add Multiple Classes To an Element
+            - [ ] Use Selectors    
+- [ ] **VueJs Udemy Course** 
     - [ ]  
     - [ ]  
     - [ ]  
     - [ ]      
+- [ ] Vue Crash Course (Traversy Media)
+    - Video Link 
+        - https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=3373s
+    - Repo
+        - https://github.com/bradtraversy/vue-crash-2021
+    - Additional Links
+        - https://vuejs.org/guide/introduction.html
+        - https://v2.vuejs.org/v2/guide/installation#CLI
+        - https://cli.vuejs.org/guide/creating-a-project.html        
+    - Time Stamps  
+        - [✔️] 0:00 - Intro & Slides
+        - [✔️] 7:17 - User Generator Mini Project (CDN)
+        - [✔️] 21:35 - Vue CLI Setup
+        - [▶️] 24:30 - Files, Dev Server & Cleanup            
+            - https://youtu.be/qZXt1Aom3Cs?t=1517                
+        - [✔️] 28:22 - Global Styles
+        - [✔️] 29:06 - Header Component
+        - [✔️] 30:44 - Component Props
+        - [✔️] 32:06 - Button Component
+        - [✔️] 35:25 - Events
+        - [✔️] 36:09 - Task Data & created() Method
+        - [✔️] 38:22 - Tasks Component & v-for Loop
+        - [✔️] 41:09 - Single Task Component
+        - [✔️] 44:34 - Dynamic Classes
+        - [✔️] 45:53 - Emit Events (Delete Task)
+        - [✔️] 52:14 - Toggle Reminder
+        - [✔️] 56:20 - AddTask Component & v-model
+        - [✔️] 1:04:57 - Toggle Form & Template Conditionals
+        - [▶️] 1:11:20 - Building For Production
+        - [▶️] 1:13:33 - JSON-Server Setup
+        - [▶️] 1:17:18 - Refactoring to Use The Backend
+        - [ ] 1:30:48 - Implementing the Router
+        - [ ] 1:48:23 - Restrict a Component to a Route
+- [▶️] VueJs Tutorial (Official Page)
+    - https://vuejs.org/tutorial/#step-1
+    - [✔️] 1. Getting
+    - [✔️] 2. Declarative Rendering
+    - [✔️] 3. Attribute Binding
+    - [✔️] 4. Event Listeners
+    - [✔️] 5. Form Bindings
+    - [✔️] 6. Conditional Rendering
+    - [✔️] 7. List Rendering
+    - [✔️] 8. Computed Property
+    - [✔️] 9. Lifecycle and Template Refs
+    - [✔️] 10. Watchers
+    - [✔️] 11. Components
+    - [✔️] 12. Props
+    - [✔️] 13. Emits
+    - [✔️] 14. Slots
 # Css Course*
 - [ ] **Css Course** 
     - [ ]  
@@ -341,7 +733,6 @@
     - [ ] 
     - [ ] 
     - [ ] 
-
 # AWS
 - [Free_Course]
     - https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/
@@ -349,12 +740,120 @@
 - [Article]
     - 10 Best AWS Certifications for Beginners and Experienced in 2022
         - https://medium.com/javarevisited/10-best-aws-certifications-to-aim-in-2022-713c37fac147
-
 # ChatGPT
 - https://dev.to/adriantwarog/ultimate-chatgpt-resource-guide-chatgpt-tutorial-dfe
 - https://www.youtube.com/watch?v=sTeoEFzVNSc
 - https://openai.com/blog/chatgpt/
-
 # Explore 
-- [✔] Dates - https://javascript.info/date
+- [✔️] Dates - https://javascript.info/date
     - explore\date_and_time.js
+- [ ] JS Chart libraries
+    - https://www.atatus.com/blog/javascript-chart-libraries/#Chart.js
+    - [ ] Chart.js
+        - https://www.chartjs.org/
+# PPMS Training Videos 
+- [✔️] Webinar: Functional Overview - Forms & Documents (watched on 2023-07-12)
+    - https://stratocore.zendesk.com/hc/en-us/articles/14224659415575-Webinar-Functional-Overview-Forms-Documents
+- [ ] Webinar: New Features - Services and Consumables Management
+    - https://stratocore.zendesk.com/hc/en-us/articles/12607991656727-Webinar-New-Features-Services-and-Consumables-Management
+# File upload 
+- [ ] How to Upload Files with JavaScript
+    - https://www.freecodecamp.org/news/upload-files-with-javascript/
+- [ ] Node.js Upload Files
+    - https://www.w3schools.com/nodejs/nodejs_uploadfiles.asp
+- [ ] How do you upload your files to a web server?
+    - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server
+- [ ]  
+# JWT
+- [✔️] JWT Homepage
+    - [✔️] https://jwt.io/introduction
+- [✔️] Concept (JSON Web Token - Bangla ( বাংলা ) Tutorial)
+    - [✔️] https://www.youtube.com/watch?v=MB9SgSYw0Gw&pp=ygUDand0
+- [ ] Concept (webdev-simplified) 
+    - [ ] https://www.youtube.com/watch?v=7Q17ubqLfaM&pp=ygUDand0
+- [✔️] JWT Authentication Tutorial - Node.js
+    - [✔️] https://www.youtube.com/watch?v=mbsmsi7l3r4&t=64s
+- [ ] Library (python)
+    - [ ] https://pyjwt.readthedocs.io/en/stable/usage.html
+# Accessibility
+## Radio Buttons
+- Guidelines for radio buttons (Microsoft )
+    - https://learn.microsoft.com/en-us/windows/apps/design/controls/radio-button#accessibility-behavior
+- Radio Group Example Using Roving tabindex
+    - https://www.w3.org/WAI/ARIA/apg/patterns/radio/examples/radio/#kbd_label
+## Focus
+- [ ] :focus-visible (Css tricks)
+    - https://css-tricks.com/almanac/selectors/f/focus-visible/
+# Integration (PPMS)
+- Integration deadline is something client sets but dev work is something that is flexible in terms of deadline
+    - So we need more hand in these projects
+    - Need ams involvement
+        - sql procedures
+        - custom reports
+    - Concepts
+        - user sync 
+        - group sync
+        - account sync
+        - api calls
+        - sap export report 
+        - invoice report
+        - lambda
+- Pdf processes    
+    - handover from Gulshan
+    - nodeJs
+    - [ams] eu4 conversions
+    - gr
+        - 3 pdf works running
+            - nmbu
+            - ucdavis - initial stage
+            - criyo - Done
+        - can arnab get involved
+            - mm also mentioned arnab for nodejs project
+            - arnab is also keen to help in integration
+- MUltiplier 
+    - hms 
+    - timestamp concept for multipliers
+        - multipliers can be stored by different month-year
+- gr, myr
+    - migrations - count: 18 
+    - generic pdf
+    - lambda
+- How to distribute workload
+    - Percentage
+        - Dev (60)
+        - Integration (30)
+        - Supp (10)
+    - Once pressure is released you can increase the work on dev
+- Contract update to write the workloads for ams ??
+    - So that things don't change overtime
+- Statistics page also needs Multiplier
+- Ams Plan Integration
+    - Contract: Flexible
+    - Percentage 
+        - Dev(60), Integration(30), Supp(10)
+    - Tasks to start with
+        - Pdf processes 
+            - Guide: Gr
+            - Involve ams in ucdavis
+            - Eu4 migration (mm wants involvement)
+            - Library: pdf make
+                - nodejs 
+            - Schedule 
+                - gr, ams, kam, sam
+            - We can involve Arnab in this.
+        - FHT Multiplier Proc
+            - Sample proc exists - bw
+            - Guide: myr
+            - Sample client - hms
+            - Custom report - needs to be written  
+- ISO report
+    - Bd team is lagging behind
+- Kam comments
+    - Failure of a single person impacts the whole team
+    - Dev 
+        - kam now has a good understanding
+    - Integration
+        - 0 understanding
+    - Ams Co-working 
+        - 
+

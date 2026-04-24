@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping list example</title>
+    <style>
+        li {
+            margin-bottom: 10px;
+        }
+
+        li button {
+            font-size: 12px;
+            margin-left: 20px;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>My shopping list</h1>
+
+    <div>
+        <label for="item">Enter a new item:</label>
+        <input type="text" name="item" id="item">
+        <button>Add item</button>
+    </div>
+
+    <ul>
+
+    </ul>
+
+    <script>
+        const ul = document.querySelector('ul')
+        const input = document.querySelector('#item')
+        const button = document.querySelector('button')
+        let id = 0;
+        let idGen = () => {
+            return ++id ;
+        }            
+        let handleClick = (event) => {
+            console.log("button clicked", input.value);
+            let inputCurrentValue = input.value;
+            input.value = '';
+
+            // Create new elements
+            const li = document.createElement('li');
+            const span = document.createElement('span');
+            const newBtn = document.createElement('button');
+                        
+            span.textContent = inputCurrentValue;
+            
+            newBtn.textContent = 'Delete';
+            newBtn.id = idGen();
+
+            li.appendChild(span)
+            li.appendChild(newBtn);            
+            ul.appendChild(li);
+
+            newBtn.addEventListener('click', deleteItem);
+            input.focus();
+
+        }
+
+        let deleteItem = (event) => {
+            event.target.parentNode.remove();
+        }
+
+        button.addEventListener('click', handleClick);
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,4 @@
+- Source 
+    - Vue JS Crash Course
+    - Traversy Media
+    - https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=3373s

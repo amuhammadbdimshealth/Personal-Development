@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"
+        integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <title>Document</title>
+
+    <style>
+        .custom-style {
+            background-color: red;
+        }
+
+    </style>
+</head>
+
+<body>
+    <h1>Select2 Comparison</h1>
+
+    <h2>Normal select</h2>
+    <select class="normal-select" name="users" id="users">
+        <option value="1">Arif</option>
+        <option value="2">Sharif</option>
+        <option value="3">Dipu</option>
+        <option value="4">Bipu</option>
+    </select>
+
+    <h2>Basic Select2 Example</h2>
+    <select class="select2-example" name="users" id="users1">
+        <option value="1">Arif</option>
+        <option value="2">Sharif</option>
+        <option value="3">Dipu</option>
+        <option value="4">Bipu</option>
+    </select>
+    
+    <h2>Multi Select2 Example</h2>
+    <select class="select2-example" name="users" id="users2" multiple="multiple"> 
+        <!-- Options will be populated from the options array in the js script -->
+    </select>
+
+    <h2>Ajax Select2 Example</h2>
+    <select class="select2-example-ajax" name="users" id="select3" multiple="multiple"> 
+        <!-- Options will be populated from an ajax call -->
+    </select>
+
+    <button id="disableBtn">Disable</button>
+    <button id="enableBtn">Enable</button>
+</body>
+
+
+<script>
+    window.onload = () => {
+        const options = [
+            {id:1, text: 'One'},
+            {id:2, text: 'Two'},
+            {id:3, text: 'Three'},
+            {id:4, text: 'Four'},
+            {id:5, text: 'Five'}
+        ]
+
+        $('.select2-example').select2({
+            placeholder: 'Select options',
+            width: '200px',
+            dropdownCssClass: 'custom-style',
+            allowClear: true,
+            data: options
+        })
+
+        $('.select2-example-ajax').select2({
+            placeholder: 'Select options',
+            width: '200px',
+            dropdownCssClass: 'custom-style',
+            allowClear: true,
+            ajax: {
+                url: 'https://api.github.com/search/repositories',
+                dataType: 'json',
+                delay: 250,
+                processResults: function (data, params) {
+                    console.log('searching with text: ', params.term);
+                    // Transforms the top-level key of the response object from 'items' to 'results'
+                    return {
+                        results: data.items
+                        .filter(item => item.name.toLowerCase().includes(params.term.toLowerCase()))
+                        .map((item, index) => {
+                            return {
+                                id: item.id,
+                                text: item.name
+                            }
+                        })
+                    };
+                }
+            }
+        })
+
+        document.querySelector('#disableBtn').addEventListener('click', () => {
+            document.querySelectorAll('.select2-example').forEach(select => {
+                select.disabled = true
+            })
+        })
+
+        document.querySelector('#enableBtn').addEventListener('click', () => {
+            document.querySelectorAll('.select2-example').forEach(select => {
+                select.disabled = false
+            })
+        })
+    }
+</script>
+
+</html>
