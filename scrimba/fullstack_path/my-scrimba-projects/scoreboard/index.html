@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="section timer">
+                <div class="time">
+                    0
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="section home-section">
+                <h3 class="section-title">HOME</h3>
+                <div class="score">
+                    0
+                </div>
+                <div class="action-buttons">
+                    <p class="button" onclick="addScore('home', 1)">+1</p>
+                    <p class="button" onclick="addScore('home', 2)">+2</p>
+                    <p class="button" onclick="addScore('home', 3)">+3</p>
+                </div>
+                
+            </div>
+            <div class="section guest-section">
+                <h3 class="section-title">AWAY</h3>
+                <div class="score">
+                    0
+                </div>
+                <div class="action-buttons">
+                    <p class="button" onclick="addScore('guest', 1)">+1</p>
+                    <p class="button" onclick="addScore('guest', 2)">+2</p>
+                    <p class="button" onclick="addScore('guest', 3)">+3</p>
+                </div>
+            </div>            
+        </div>
+        <div class="container">
+            <div class="section action-buttons">
+                <p class="button" onclick="newGame()">
+                    New Game
+                </p>
+                
+            </div>
+        </div>        
+        <script type="module" src="index.js"></script>
+    </body>
+</html>

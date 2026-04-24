@@ -1,0 +1,44 @@
+.btn-container {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.btn-container button {
+    padding: 10px;
+}
+
+.layout-container {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* Allow wrapping to create rows */
+    width: 960px;
+    /* Define a fixed width for the grid */
+    height: 960px;
+    /* Define a fixed height for the grid */
+    border: 1px solid black;    
+    box-sizing: border-box;
+}
+
+.grid-cell {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    border: 1px solid black;
+    box-sizing: border-box;  
+    opacity: 0;  
+}
+
+.grid-cell.hovered {
+    /* background-color: greenyellow; */    
+}

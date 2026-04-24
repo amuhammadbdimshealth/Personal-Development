@@ -1,0 +1,73 @@
+/* 
+Colors:  
+
+Blue: #1B244A
+SkyBlue: #9AABD8
+Black: #080001
+Red: #F94F6D
+*/
+
+/* Create variables for all the colors */
+:root {
+    --blue: #1B244A;
+    --skyblue: #9AABD8;
+    --black: #080001;
+    --red: #F94F6D;
+}
+
+
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    background-color: var(--blue);
+    color: #ffffff;    
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+.section-title {
+    font-size: 2.0rem;
+
+}
+
+.action-buttons {
+    display: flex;    
+    gap: 10px;
+    font-family: cursedTimerUlil;    
+}
+
+.action-buttons .button {    
+    border: 1px solid var(--skyblue);
+    border-radius: 5px;
+    padding: 6px;
+    color: var(--skyblue);    
+    cursor: pointer;
+}
+
+.score, .time {
+    padding: 10px 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--black);
+    color: var(--red);    
+    font-size: 4.0rem;
+    font-family: cursedTimerUlil;    
+}
+
+/* button hover styles */
+.action-buttons .button:hover {
+    background-color: var(--skyblue);
+    color: var(--blue);
+    border: 1px solid var(--blue);    
+}
