@@ -1,0 +1,73 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 900;
+}
+
+/* do not edit this footer */
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eee;
+}
+
+/* AMS SOLUTION */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {  
+  display: flex;
+  justify-content: center;
+  gap: 52px;  
+}
+
+.title {
+  /* outline: 1px red solid; */
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.item {
+  /* outline: 1px red solid; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;  
+  max-width: 200px;
+}
+
+/* Given SOLUTION */
+/* body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.container {  
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.item {  
+  max-width: 200px;
+} */

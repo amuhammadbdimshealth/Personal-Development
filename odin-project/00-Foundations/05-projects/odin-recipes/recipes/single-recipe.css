@@ -1,0 +1,25 @@
+body {
+    background-color: #d8dade;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+h1.recipe-title {
+    font-size: 40px;
+    font-family: Cursive , 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+    color: rgb(3, 64, 116);
+}
+
+h2.sub-section {
+    font-size: 30px;
+    font-family: Cursive ,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+    color: rgb(3, 64, 116);
+}
+
+.recipe-image {
+    width: 500px;  
+    border: 50px solid goldenrod;  
+
+}
