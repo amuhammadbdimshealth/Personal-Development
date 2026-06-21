@@ -1,1 +1,9 @@
 /node-modules
+node_modules/
+
+# OS / editor junk
+.DS_Store
+
+# Nested third-party course clones (own .git / remote) — tracked in their own repos
+JavaScript30/
+odin-project/00-Foundations/06-projects - done by others/02-Calculator/calculator/
